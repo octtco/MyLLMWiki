@@ -1,0 +1,47 @@
+filters:
+  and:
+    - file.inFolder("todo/tasks")
+    - file.ext == "md"
+properties:
+  file.name:
+    displayName: 事项
+  date:
+    displayName: 日期
+  status:
+    displayName: 状态
+  priority:
+    displayName: 优先级
+  tags:
+    displayName: 标签
+  source:
+    displayName: 来源
+views:
+  - type: table
+    name: 按日期
+    groupBy:
+      property: date
+      direction: ASC
+    order:
+      - file.name
+      - date
+      - status
+      - priority
+      - tags
+      - source
+    sort:
+      - property: source
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: priority
+        direction: ASC
+      - property: status
+        direction: ASC
+      - property: date
+        direction: ASC
+    columnSize:
+      file.name: 101
+      note.date: 106
+      note.status: 147
+      note.priority: 112
+      note.tags: 104

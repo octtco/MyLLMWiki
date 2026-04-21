@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-04-14-github-mindfold-ai-trellis",
+  "source_type": "repo",
+  "title": "Trellis",
+  "source_url": "https://github.com/mindfold-ai/Trellis",
+  "source_domain": "github.com",
+  "author": "mindfold-ai",
+  "published": "",
+  "created": "2026-04-14",
+  "ingested_at": "2026-04-14",
+  "primary_file": "trellis.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "README snapshot imported from the public GitHub repository page for local traceability. This is not a full repository checkout.",
+  "original_path": ""
+}

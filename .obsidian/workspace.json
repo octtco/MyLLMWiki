@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "3b7ea145a74c9d89",
+    "type": "split",
+    "children": [
+      {
+        "id": "76bbb92f048c9f76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73836a7456384ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-长文拆解的可复用方法-v0.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-21-长文拆解的可复用方法-v0.2"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e089ab78c5d39ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4882943f44642399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7549eba061dc5d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "99f4e49119bd7db2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:clippings",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cdbb8dff813dfcae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 458.5
+  },
+  "right": {
+    "id": "67b188f0f5d02cc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5b5a8f599f57a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c9ea3ef11230788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-长文拆解的可复用方法-v0.2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-04-21-长文拆解的可复用方法-v0.2 的反向链接列表"
+            }
+          },
+          {
+            "id": "819055e4ad727565",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/sources/Linux.do - 即梦真无限sd2.0无限画图视频教程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Linux.do - 即梦真无限sd2.0无限画图视频教程 的出链列表"
+            }
+          },
+          {
+            "id": "520243d66c1130b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0adf4660fc4aefda",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "435e1d2d1dc379f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/sources/Linux.do - 即梦真无限sd2.0无限画图视频教程.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Linux.do - 即梦真无限sd2.0无限画图视频教程 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "73836a7456384ae0",
+  "lastOpenFiles": [
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/先建模，再决定怎么干预.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/先定义评价标准，再谈优化.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/先界定对象边界，再开始处理.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/系统运动模型.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/一条路线走不通，就及时换表示或换工具.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/topics/把复杂对象整理成可处理的问题.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/系统.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/系统类型.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-长文拆解的可复用方法-v0.2.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/对象边界.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/顺藤摸瓜式搜索.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/输出前自检.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/默认路径.md",
+    "sandbox/2026-04-20-工程控制论-A试跑/outputs/reports/2026-04-21-工程控制论-旧结构对照/主题页-怎样把对象看成系统-旧结构版.md",
+    "sandbox/2026-04-20-工程控制论-A试跑/outputs/reports/2026-04-21-工程控制论-旧结构对照/概念页-状态-旧结构版.md",
+    "sandbox/2026-04-20-工程控制论-A试跑/outputs/reports/2026-04-21-工程控制论-旧结构对照/概念页-质量指标-旧结构版.md",
+    "sandbox/2026-04-20-工程控制论-A试跑/outputs/reports/2026-04-21-工程控制论-旧结构对照/概念页-系统-旧结构版.md",
+    "sandbox/2026-04-20-工程控制论-A试跑/outputs/reports/2026-04-21-工程控制论-旧结构对照/方法页-先判断系统类型再选分析工具-旧结构版.md",
+    "sandbox/2026-04-20-工程控制论-A试跑/outputs/reports/2026-04-21-工程控制论-旧结构对照/概念页-系统运动模型-旧结构版.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-长文拆解的可复用方法-v0.1.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-知识库整理方法-弱模型可执行版-v0.1.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/cases/常系数线性系统的变换域分析场景.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/解析法不够时，引入数值法与模拟.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-工程控制论前两章-公式之外的通用方法提炼.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/状态.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/先看状态，不只看表面结果.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/domains",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/cases",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/todo/待办事项.base",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/003.jpg",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/002.png",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/001.png",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/metadata.json",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-15-linuxdo-topic-1969970-plus-team-channels/metadata.json",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/012.png",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/011.gif",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/009.png",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/008.png",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/007.png",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/006.png",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/005.png",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/metadata.json",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1956835-jimeng-unlimited/metadata.json",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1539636-trellis-best-practice/metadata.json",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/repos/2026-04-15-github-lucent-snow-anti-default-output/metadata.json"
+  ]
+}
