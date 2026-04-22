@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-长文拆解的可复用方法-v0.2.md",
+                "file": "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-知识库整理方法-弱模型可执行版-v0.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-21-长文拆解的可复用方法-v0.2"
+              "title": "2026-04-21-知识库整理方法-弱模型可执行版-v0.1"
             }
           }
         ],
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 526.5
   },
   "right": {
     "id": "67b188f0f5d02cc4",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-长文拆解的可复用方法-v0.2.md",
+                "file": "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-知识库整理方法-弱模型可执行版-v0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-21-长文拆解的可复用方法-v0.2 的反向链接列表"
+              "title": "2026-04-21-知识库整理方法-弱模型可执行版-v0.1 的反向链接列表"
             }
           },
           {
@@ -185,6 +185,10 @@
   },
   "active": "73836a7456384ae0",
   "lastOpenFiles": [
+    "todo/tasks/解决在vapp下载和安装过程中点击首页推送开关或更多功能会卡住无反应，以及重新下载后推送开关被关闭的问题.md",
+    "todo/tasks/确认当前知识库适配卡帕西吗.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-知识库整理方法-弱模型可执行版-v0.2.md",
+    "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-长文拆解的可复用方法-v0.2.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/先建模，再决定怎么干预.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/先定义评价标准，再谈优化.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/先界定对象边界，再开始处理.md",
@@ -193,7 +197,6 @@
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/topics/把复杂对象整理成可处理的问题.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/系统.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/系统类型.md",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-长文拆解的可复用方法-v0.2.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/对象边界.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/顺藤摸瓜式搜索.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/输出前自检.md",
@@ -208,9 +211,6 @@
     "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-知识库整理方法-弱模型可执行版-v0.1.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/cases/常系数线性系统的变换域分析场景.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/解析法不够时，引入数值法与模拟.md",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/outputs/reports/2026-04-21-工程控制论前两章-公式之外的通用方法提炼.md",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/concepts/状态.md",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods/先看状态，不只看表面结果.md",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/domains",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/cases",
     "sandbox2/2026-04-21-工程控制论-B从头整理/wiki/methods",
