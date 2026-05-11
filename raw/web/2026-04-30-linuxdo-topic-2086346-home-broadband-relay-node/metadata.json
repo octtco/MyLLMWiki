@@ -1,0 +1,20 @@
+{
+  "bundle_name": "2026-04-30-linuxdo-topic-2086346-home-broadband-relay-node",
+  "source_type": "web",
+  "title": "自建家宽节点+中转站教程：从0到1搭建家宽节点并部署简易中转站（DMIT+VIRCS）",
+  "source_url": "https://linux.do/t/topic/2086346",
+  "source_domain": "linux.do",
+  "author": "xiaowanzi",
+  "published": "2026-04-30",
+  "created": "2026-04-30",
+  "ingested_at": "2026-05-09",
+  "primary_file": "home-broadband-relay-node.md",
+  "image_count": 44,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Migrated from the Clippings inbox. Remote images and attachment URLs are preserved inline in the markdown body for traceability; this pass did not finish local downloading.",
+  "original_path": "Clippings/自建家宽节点+中转站教程：从0到1搭建家宽节点并部署简易中转站（DMIT+VIRCS）.md",
+  "attachment_url_count": 0,
+  "remote_image_url_count": 44,
+  "attachment_urls": []
+}

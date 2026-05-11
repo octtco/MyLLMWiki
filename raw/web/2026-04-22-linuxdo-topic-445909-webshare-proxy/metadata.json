@@ -1,0 +1,71 @@
+{
+  "bundle_name": "2026-04-22-linuxdo-topic-445909-webshare-proxy",
+  "source_type": "web",
+  "title": "webshare.io家宽包年8美元与clash链式代理部署教程，可以一定程度解决ChatGPT降智与注册较高风控账号",
+  "source_url": "https://linux.do/t/topic/445909",
+  "source_domain": "linux.do",
+  "author": "msm8976",
+  "published": [],
+  "created": "2026-04-22",
+  "ingested_at": "2026-04-27",
+  "primary_file": "webshare-proxy.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Migrated from the Clippings inbox. Image localization was attempted for 13 body images but none completed in the current environment; original remote URLs were kept.",
+  "original_path": "Clippings/webshare.io家宽包年8美元与clash链式代理部署教程，可以一定程度解决ChatGPT降智与注册较高风控账号.md",
+  "download_failures": [
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/d/c/4/dc4aafc12da3c732541d0643860c668a3d7a50cc_2_690x320.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/0/9/0/090e321ac9368287ac8afa667963f86294db6da9_2_690x350.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/2/3/8/2381c66d4a54c3aab641e3285016f1ece148793e_2_690x447.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/b/3/4/b3424d78065055354351d8a15e9999ce19ebe9ca_2_690x165.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/b/2/1/b213873b51c1385c5a491c8fb6f00afdf6579bbe_2_690x111.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/original/4X/8/b/c/8bc253ed48a71761e02eeed1641bb8f4d19007dd.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/4/d/f/4df394472c8ac36146e4dc2ecdc8280dd537c192_2_690x137.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/4/9/d/49d7156eb6e58bf0133f29f01ec84fd6aedb1ada_2_690x273.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/original/4X/e/5/d/e5ddc09344691d68f5e3b7db8513d6cca8ad3392.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/original/4X/a/a/d/aad30d3fba8a60d401671ff91c36dd78bf09112e.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/a/3/7/a37f029b0c2daf020991dc2928fc3f352f7241de_2_500x500.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/original/4X/0/b/9/0b939d679f7d0768bc0a188a8efccb27f97075ae.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/7/2/e/72eeb5659879cc59bf3a3229b2d622486670b73c_2_371x500.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ]
+}

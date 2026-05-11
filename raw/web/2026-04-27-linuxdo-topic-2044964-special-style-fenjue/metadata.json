@@ -1,0 +1,119 @@
+{
+  "bundle_name": "2026-04-27-linuxdo-topic-2044964-special-style-fenjue",
+  "source_type": "web",
+  "title": "通用焚决千篇一律，特殊风格万里挑一 | 一些非大流二次元向自用Prompt合集 | 一些自制焚决的思路",
+  "source_url": "https://linux.do/t/topic/2044964/2",
+  "source_domain": "linux.do",
+  "author": "sallyn",
+  "published": "2026-04-27",
+  "created": "2026-04-27",
+  "ingested_at": "2026-04-27",
+  "primary_file": "special-style-fenjue.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Migrated from the Clippings inbox. Image localization was attempted for 25 body images but none completed in the current environment; original remote URLs were kept.",
+  "original_path": "Clippings/通用焚决千篇一律，特殊风格万里挑一  一些非大流二次元向自用Prompt合集  一些自制焚决的思路.md",
+  "download_failures": [
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/c/1/6/c1657d6baeb348bda06ce362e524d8ac7b4bc2ec_2_333x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/d/8/d/d8d63d6057fa98db7b585e0ef30687493f789a4b_2_333x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/original/4X/5/f/f/5ff70e7fa87d0b89a23a905452f812d9cbb92b13.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/0/d/6/0d6848cf42a024c4f6522bc1dee9e7a05c9c4a4e_2_375x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/0/7/5/0754a494bf39c9e82b35816243492408e3860582_2_375x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/3/d/4/3d44fcff68b904efccfb9296afa25e1dfc585ced_2_375x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/4/4/6/4464b9c897f646935f7473e28f82c46f20b9227a_2_353x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/1/f/0/1f03d8357316ed685f7dec0040f95d694da8a1e1_2_353x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/b/8/c/b8c3391d172b86ca5da2a8818a87bb9c5b34dbe8_2_375x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/b/a/2/ba21c4b93ed7bd1444afa261c2a28843ea1f553c_2_333x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/1/4/6/1461a7fcd74d29ac3ac5b4e41176e7c28f40ae31_2_500x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/e/d/4/ed40044716f8a0f7421f6ce4feba47dc9a110d0d_2_517x345.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/2/1/a/21a284c1232f43f9e333324e4371c4e17e7ed6b1_2_375x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/d/f/6/df6412044f972642a336985d78c9fb59a0b2039e_2_375x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/6/b/1/6b1ae8e1715279310e83aeebfa81953b67d6f1d5_2_353x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/e/c/e/ecec6427984525bae909669e6ad5eb08891419a5_2_374x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/e/6/e/e6e97387826560d52b356676922aeba2fc040a47_2_281x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/2/8/5/2858770943a616c388c1815d5872ff4e3b3d2792_2_500x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/f/2/f/f2f27bf3a4e4b40598dd8a40242b603e71e44575_2_500x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/9/7/1/97103a6a4f6c1dd15ec80c215c8009ff7beaf7d3_2_500x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/5/1/9/519ef31a9ec1a9a8fda824d1ece88b1cfefc17da_2_500x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/c/c/d/ccd4aa12be98e9072b92dd204266f1dfdc29f468_2_500x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/f/c/7/fc7c66b1d8276e7d2b1f213b4d12d0d7e6eeb18c_2_500x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/original/4X/0/a/5/0a5d118b44601b32f8617d37f1a23f877c37ffe7.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.ldstatic.com/optimized/4X/d/a/1/da19d220227332fdf5a46da5cbd7b89613e17d30_2_373x500.jpeg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ]
+}

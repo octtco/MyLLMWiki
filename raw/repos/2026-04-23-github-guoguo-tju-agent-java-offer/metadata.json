@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-04-23-github-guoguo-tju-agent-java-offer",
+  "source_type": "repo",
+  "title": "Agent Offer",
+  "source_url": "https://github.com/guoguo-tju/agent_java_offer",
+  "source_domain": "github.com",
+  "author": "guoguo-tju",
+  "published": "",
+  "created": "2026-04-23",
+  "ingested_at": "2026-04-27",
+  "primary_file": "agent-java-offer.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Imported from the seeds inbox. This is a README snapshot from the public GitHub repository page for local traceability, not a full repository checkout.",
+  "original_path": "seeds/inbox/2026-04-23-agent-java-offer-待学习仓库.md"
+}

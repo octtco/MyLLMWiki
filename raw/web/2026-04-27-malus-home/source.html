@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MALUS - Clean Room as a Service | Liberation from Open Source Attribution</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- API status banner (shown when backend is unreachable) -->
+    <div id="apiStatusBanner" class="api-status-banner hidden">
+        <span id="apiStatusMsg">Our liberation services are temporarily unavailable. Please try again later.</span>
+        <button class="api-status-dismiss" onclick="this.parentElement.classList.add('hidden')" aria-label="Dismiss">&times;</button>
+    </div>
+
+    <!-- Warehouse lighting background -->
+    <div class="bg-texture"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                        <svg class="logo-icon" viewBox="0 0 50 50" width="32" height="32">
+                            <polygon points="25,2 48,15 48,35 25,48 2,35 2,15" fill="none" stroke="#C41E3A" stroke-width="2"/>
+                            <polygon points="25,10 40,19 40,31 25,40 10,31 10,19" fill="#C41E3A" opacity="0.12"/>
+                            <text x="25" y="30" text-anchor="middle" fill="#C41E3A" font-family="Playfair Display" font-size="14" font-weight="700">M</text>
+                        </svg>
+                <span class="logo-text">MALUS</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#services">Services</a></li>
+                <li><a href="#how-it-works">Process</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#testimonials">Reports</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="#upload" class="btn-nav">Initialize</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- MALUS Brand Header -->
+    <section class="malus-header">
+        <div class="malus-header-content">
+            <h1 class="malus-logo">MALUS</h1>
+            <p class="malus-tagline">Liberate Open Source</p>
+            <div class="malus-divider"></div>
+        </div>
+    </section>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-content">
+            <div class="badge">SYS-001 · REV-2.4 · Robot-Reconstructed · Zero Attribution</div>
+            <h1>Clean Room as a Service</h1>
+            <p class="hero-subtitle">Finally, <span class="highlight">liberation</span> from open source license obligations.</p>
+            <p class="hero-description">
+                Our proprietary AI robots independently recreate any open source project from scratch. 
+                The result? <strong>Legally distinct code</strong> with corporate-friendly licensing. 
+                No attribution. No copyleft. No problems.
+            </p>
+            <div class="hero-cta">
+                <a href="#upload" class="btn btn-primary">
+                    <span class="btn-icon">▶</span>
+                    Upload Manifest
+                </a>
+                <a href="#how-it-works" class="btn btn-secondary">View Process</a>
+            </div>
+            <div class="hero-stats">
+                <div class="stat" data-label="COUNT-A">
+                    <span class="stat-number" data-count="847293">0</span>
+                    <span class="stat-label">Projects Processed</span>
+                </div>
+                <div class="stat" data-label="COUNT-B">
+                    <span class="stat-number" data-count="12847">0</span>
+                    <span class="stat-label">Active Clients</span>
+                </div>
+                <div class="stat" data-label="COUNT-C">
+                    <span class="stat-number">$0</span>
+                    <span class="stat-label">Attribution Given</span>
+                </div>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <div class="transformation-preview">
+                <div class="code-block input-block">
+                    <img src="turd.png" alt="" class="turd-stain" />
+                    <div class="code-header">
+                        <span class="dot red"></span>
+                        <span class="dot yellow"></span>
+                        <span class="dot green"></span>
+                        <span class="filename">Input: PKG-001</span>
+                    </div>
+                    <pre><code>{
+  "dependencies": {
+    "react": "^18.0.0",
+    "lodash": "^4.17.21",
+    "express": "^4.18.0"
+  }
+}</code></pre>
+                    <div class="license-tag apache">Apache-2.0</div>
+                    <div class="license-tag mit">MIT</div>
+                    <div class="license-tag agpl">AGPL-3.0</div>
+                </div>
+                <div class="arrow-flow">
+                    <svg viewBox="0 0 100 50" class="arrow-svg">
+                        <defs>
+                            <linearGradient id="arrowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                                <stop offset="0%" style="stop-color:#4a545e;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#6a7d6a;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                        <path d="M10,25 L70,25" stroke="url(#arrowGrad)" stroke-width="2" fill="none" stroke-dasharray="4,4">
+                            <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="2s" repeatCount="indefinite"/>
+                        </path>
+                        <polygon points="75,25 67,20 67,30" fill="#6a7d6a"/>
+                    </svg>
+                    <span class="process-label">Processing<br>Unit</span>
+                </div>
+                <div class="code-block output-block">
+                    <div class="code-header">
+                        <span class="dot red"></span>
+                        <span class="dot yellow"></span>
+                        <span class="dot green"></span>
+                        <span class="filename">Output: LIB-001</span>
+                    </div>
+                    <pre><code>{
+  "dependencies": {
+    "m-react": "^18.0.0",
+    "m-lodash": "^4.17.21",
+    "m-express": "^4.18.0"
+  }
+}</code></pre>
+                    <div class="license-tag malus">MC-0 Pass ✓</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Problem Section -->
+    <section class="problems" id="problems">
+        <div class="container">
+            <h2 class="section-title">The <span class="highlight">Problem</span> with Open Source</h2>
+            <div class="problems-grid">
+                <div class="problem-card" data-id="ISSUE-001">
+                    <div class="problem-icon">■</div>
+                    <h3>Apache License Attribution</h3>
+                    <p>Is your legal team <strong>frustrated</strong> with the attribution clause? Tired of putting "Portions of this software..." in your documentation? Those maintainers worked for free—why should they get credit?</p>
+                </div>
+                <div class="problem-card" data-id="ISSUE-002">
+                    <div class="problem-icon">▲</div>
+                    <h3>AGPL Contamination</h3>
+                    <p>Does your company <strong>forbid AGPL code</strong>? One wrong import and suddenly your entire proprietary codebase must be open sourced. The horror!</p>
+                </div>
+                <div class="problem-card" data-id="ISSUE-003">
+                    <div class="problem-icon">◆</div>
+                    <h3>License Compliance Overhead</h3>
+                    <p>Tracking licenses across hundreds of dependencies? Legal reviews taking weeks? Third-party audits finding "issues"? What if you could just... <strong>not deal with any of that?</strong></p>
+                </div>
+                <div class="problem-card" data-id="ISSUE-004">
+                    <div class="problem-icon">●</div>
+                    <h3>Giving Back to Community</h3>
+                    <p>Some licenses require you to contribute improvements back. Your shareholders didn't invest in your company so you could <strong>help strangers</strong>.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solution Section -->
+    <section class="solution" id="services">
+        <div class="container">
+            <h2 class="section-title">The <span class="highlight">Solution</span></h2>
+            <p class="section-subtitle">For the first time, a way to avoid giving that pesky credit to maintainers.</p>
+            
+            <div class="solution-main">
+                <div class="solution-text">
+                    <h3>Robot-Powered Clean Room Recreation</h3>
+                    <p>Our proprietary AI systems have <strong>never seen</strong> the original source code. They independently analyze documentation, API specifications, and public interfaces to recreate functionally equivalent software from scratch.</p>
+                    <p>The result is <strong>legally distinct code</strong> that you own outright. No derivative works. No license inheritance. No obligations.</p>
+                    <ul class="feature-list">
+                        <li><span class="check">✓</span> 100% robot-written code</li>
+                        <li><span class="check">✓</span> Zero exposure to original source</li>
+                        <li><span class="check">✓</span> Functionally equivalent output</li>
+                        <li><span class="check">✓</span> Your choice of corporate-friendly license</li>
+                        <li><span class="check">✓</span> Full legal indemnification*</li>
+                    </ul>
+                    <p class="disclaimer">*Through our offshore subsidiary in a jurisdiction that doesn't recognize software copyright</p>
+                </div>
+                <div class="solution-diagram">
+                    <div class="diagram-box">
+                        <div class="diagram-title">Process Flow: Clean Room Operation · REV-3.1</div>
+                        <div class="diagram-flow">
+                            <div class="flow-step">
+                                <div class="step-icon">▶</div>
+                                <div class="step-label">Input</div>
+                            </div>
+                            <div class="flow-arrow">→</div>
+                            <div class="flow-step highlight-step">
+                                <div class="step-icon">◉</div>
+                                <div class="step-label">Isolation</div>
+                            </div>
+                            <div class="flow-arrow">→</div>
+                            <div class="flow-step">
+                                <div class="step-icon">≡</div>
+                                <div class="step-label">Extract</div>
+                            </div>
+                            <div class="flow-arrow down">↓</div>
+                        </div>
+                        <div class="diagram-flow reverse">
+                            <div class="flow-step success-step">
+                                <div class="step-icon">✓</div>
+                                <div class="step-label">Output</div>
+                            </div>
+                            <div class="flow-arrow">←</div>
+                            <div class="flow-step">
+                                <div class="step-icon">⚙</div>
+                                <div class="step-label">Rewrite</div>
+                            </div>
+                            <div class="flow-arrow">←</div>
+                            <div class="flow-step highlight-step">
+                                <div class="step-icon">◈</div>
+                                <div class="step-label">Build</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="how-it-works" id="how-it-works">
+        <div class="container">
+            <h2 class="section-title">How <span class="highlight">Liberation</span> Works</h2>
+            <div class="steps-timeline">
+                <div class="step-card" data-batch="BATCH-A1">
+                    <div class="step-number">01</div>
+                    <div class="step-content">
+                        <h3>Upload Your Manifest</h3>
+                        <p>Simply upload your <code>package.json</code>, <code>requirements.txt</code>, <code>Cargo.toml</code>, or any dependency manifest. Our system identifies every open source package you want liberated.</p>
+                        <div class="step-visual">
+                            <pre class="mini-code">{
+  "name": "your-proprietary-app",
+  "dependencies": {
+    "problematic-agpl-lib": "^2.0.0",
+    "needs-attribution-pkg": "^1.5.0"
+  }
+}</pre>
+                        </div>
+                    </div>
+                </div>
+                <div class="step-card" data-batch="BATCH-A2">
+                    <div class="step-number">02</div>
+                    <div class="step-content">
+                        <h3>Isolated Analysis</h3>
+                        <p>Our legally-trained robots analyze <strong>only public documentation</strong>—README files, API docs, and type definitions. They never see a single line of source code. The clean room stays clean.</p>
+                        <div class="step-visual robot-grid">
+                            <div class="robot-cell">Unit A<br><small>Reads README</small></div>
+                            <div class="robot-cell">Unit B<br><small>Analyzes API</small></div>
+                            <div class="robot-cell">Unit C<br><small>Studies Types</small></div>
+                            <div class="robot-cell">Unit D<br><small>Reviews Docs</small></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="step-card" data-batch="BATCH-A3">
+                    <div class="step-number">03</div>
+                    <div class="step-content">
+                        <h3>Independent Recreation</h3>
+                        <p>A completely separate team of robots—who have never communicated with the analysis team—implements the software from scratch based solely on specifications. No copying. No derivation.</p>
+                        <div class="step-visual">
+                            <div class="firewall-diagram">
+                                <div class="fw-side">◈◈<br>Analysis</div>
+                                <div class="fw-wall">Firewall</div>
+                                <div class="fw-side">◈◈<br>Build</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="step-card" data-batch="BATCH-A4">
+                    <div class="step-number">04</div>
+                    <div class="step-content">
+                        <h3>License Liberation</h3>
+                        <p>Your new code is delivered under the <strong>MalusCorp-0 License</strong>—a proprietary-friendly license with zero attribution requirements, zero copyleft, and zero obligations.</p>
+                        <div class="step-visual license-comparison">
+                            <div class="license-before">
+                                <div class="license-header bad">Before</div>
+                                <ul>
+                                    <li>Must include attribution</li>
+                                    <li>Must share modifications</li>
+                                    <li>Must provide source</li>
+                                    <li>Must retain license</li>
+                                </ul>
+                            </div>
+                            <div class="license-after">
+                                <div class="license-header good">After</div>
+                                <ul>
+                                    <li>No attribution needed</li>
+                                    <li>Keep all modifications</li>
+                                    <li>No source disclosure</li>
+                                    <li>Do whatever you want</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Upload Section -->
+    <section class="upload-section" id="upload">
+        <div class="container">
+            <h2 class="section-title">Start Your <span class="highlight">Liberation</span></h2>
+            <p class="section-subtitle">Upload your dependency manifest and receive a quote instantly.</p>
+            
+            <div class="upload-container">
+                <div id="uploadError" class="upload-error" style="display: none;"></div>
+                <div class="upload-box" id="dropzone">
+                    <div class="upload-icon">
+                        <svg viewBox="0 0 100 100" width="60" height="60">
+                            <rect x="20" y="30" width="60" height="50" rx="1" fill="none" stroke="#5c6670" stroke-width="2"/>
+                            <path d="M35,55 L50,40 L65,55" stroke="#5c6670" stroke-width="2" fill="none"/>
+                            <line x1="50" y1="40" x2="50" y2="70" stroke="#5c6670" stroke-width="2"/>
+                        </svg>
+                    </div>
+                    <h3>Drop Your Manifest Here</h3>
+                    <p>Upload manifest file</p>
+                    <input type="file" id="fileInput" hidden>
+                    <button class="btn btn-primary" onclick="document.getElementById('fileInput').click()">
+                        Select File
+                    </button>
+                </div>
+                
+                <div class="upload-preview" id="uploadPreview" style="display: none;">
+                    <div class="preview-header">
+                        <h3>▶ Dependencies Detected</h3>
+                        <button class="btn-reset" onclick="resetUpload()">×</button>
+                    </div>
+                    <div class="dependencies-list" id="depsList"></div>
+                    <div class="quote-summary" id="quoteSummary"></div>
+                    <button class="btn btn-primary btn-large" onclick="showCheckout()">
+                        Proceed to Liberation →
+                    </button>
+                </div>
+            </div>
+            
+            <div class="supported-formats">
+                <h4>Supported Ecosystems</h4>
+                <div class="format-icons">
+                    <div class="format-badge">npm</div>
+                    <div class="format-badge">PyPI</div>
+                    <div class="format-badge">Cargo</div>
+                    <div class="format-badge">Maven</div>
+                    <div class="format-badge">Go</div>
+                    <div class="format-badge">NuGet</div>
+                    <div class="format-badge">RubyGems</div>
+                    <div class="format-badge">Composer</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing -->
+    <section class="pricing" id="pricing">
+        <div class="container">
+            <h2 class="section-title"><span class="highlight">Investment</span> in Freedom</h2>
+            <p class="section-subtitle">Transparent, pay-per-KB pricing. No tiers, no subscriptions, no hidden fees.</p>
+
+            <div class="pricing-grid">
+                <div class="price-card featured" style="grid-column: 1 / -1; max-width: 720px; margin: 0 auto; transform: none;">
+                    <div class="price-header">
+                        <h3>How Pricing Works</h3>
+                        <div class="price"><span id="priceHeaderRate">…</span><span>/KB</span></div>
+                    </div>
+                    <div class="price-body">
+                        <p class="price-desc" style="text-align:left;">
+                            Every package is priced by its <strong>unpacked size on npm</strong>. We look up each dependency in your <code>package.json</code>, measure the size in kilobytes, and charge <strong><span class="pf-rate">…</span> per KB</strong>. That's it.
+                        </p>
+                        <div id="pricingFormula" class="pricing-formula" style="background:var(--bg-surface);border:1px solid var(--border-dark);border-radius:6px;padding:1rem;margin-bottom:1.25rem;font-family:'IBM Plex Mono',monospace;font-size:0.8rem;line-height:1.8;">
+                            <div><span style="color:var(--text-muted);">per package</span> = max( <span class="pf-min">…</span>, size_kb × <span class="pf-rate">…</span> )</div>
+                            <div><span style="color:var(--text-muted);">order total</span> = max( <span class="pf-stripe-min">…</span>, sum of all packages )</div>
+                            <div style="color:var(--text-muted);font-size:0.7rem;margin-top:0.5rem;"><span class="pf-stripe-min">…</span> minimum applies per order (Stripe processing floor). No base fee.</div>
+                        </div>
+
+                        <h4 style="font-family:'IBM Plex Mono',monospace;font-size:0.6rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--text-muted);margin-bottom:0.75rem;">Live Prices (fetched from our API)</h4>
+                        <table id="pricingExamples" style="width:100%;border-collapse:collapse;font-size:0.8rem;margin-bottom:0.5rem;">
+                            <thead>
+                                <tr style="border-bottom:2px solid var(--border-dark);text-align:left;">
+                                    <th style="padding:0.5rem 0.5rem 0.5rem 0;color:var(--text-muted);font-weight:600;">Package</th>
+                                    <th style="padding:0.5rem;color:var(--text-muted);font-weight:600;text-align:right;">npm Size</th>
+                                    <th style="padding:0.5rem;color:var(--text-muted);font-weight:600;text-align:right;">Compute</th>
+                                    <th style="padding:0.5rem 0 0.5rem 0.5rem;color:var(--text-muted);font-weight:600;text-align:right;">If Ordered Alone</th>
+                                </tr>
+                            </thead>
+                            <tbody id="pricingExamplesBody" style="color:var(--text-secondary);">
+                                <tr><td colspan="4" style="padding:1rem 0;text-align:center;color:var(--text-muted);">Loading live prices…</td></tr>
+                            </tbody>
+                        </table>
+                        <p id="pricingExamplesNote" style="color:var(--text-muted);font-size:0.7rem;margin-bottom:1.25rem;"></p>
+
+                        <h4 style="font-family:'IBM Plex Mono',monospace;font-size:0.6rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--text-muted);margin-bottom:0.75rem;">What's Included</h4>
+                        <ul>
+                            <li>✓ AI-powered clean room recreation (MalusCorp-0 License)</li>
+                            <li>✓ Full CSP specification pack (10 documents)</li>
+                            <li>✓ Packages up to <strong>10 MB</strong> unpacked size</li>
+                            <li>✓ Up to <strong>50 packages</strong> per order</li>
+                            <li>✓ No base fee, no subscription — pay only for what you liberate</li>
+                        </ul>
+                        <a href="#upload" class="btn btn-primary" style="margin-top:0.5rem;">Upload Manifest</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="guarantee-box">
+                <div class="guarantee-icon">◉</div>
+                <div class="guarantee-text">
+                    <h4>The MalusCorp Guarantee™</h4>
+                    <p>If any of our liberated code is found to infringe on the original license, we'll provide a full refund and relocate our corporate headquarters to international waters.*</p>
+                    <small>*This has never happened because it legally cannot happen. Trust us.</small>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="testimonials" id="testimonials">
+        <div class="container">
+            <h2 class="section-title">Success <span class="highlight">Reports</span></h2>
+            <p class="section-subtitle">Join thousands of corporations who've achieved license freedom.</p>
+            
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p>"We had 847 AGPL dependencies blocking our acquisition. MalusCorp liberated them all in 3 weeks. The due diligence team found zero license issues. We closed at $2.3B."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">◆</div>
+                        <div class="author-info">
+                            <strong>Marcus Wellington III</strong>
+                            <span>Former CTO, Definitely Real Corp<br><small>(Acquired)</small></span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p>"Our lawyers estimated $4M in compliance costs. MalusCorp's Total Liberation package was $50K. The board was thrilled. The open source maintainers were not, but who cares?"</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">◆</div>
+                        <div class="author-info">
+                            <strong>Patricia Bottomline</strong>
+                            <span>VP of Legal, MegaSoft Industries</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p>"I used to feel guilty about not attributing open source maintainers. Then I remembered that guilt doesn't show up on quarterly reports. Thank you, MalusCorp."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">◆</div>
+                        <div class="author-info">
+                            <strong>Chad Stockholder</strong>
+                            <span>Engineering Director, Profit First LLC</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p>"The robots recreated our entire npm dependency tree—2,341 packages—in perfect isolation. Our compliance dashboard went from red to green overnight."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">◆</div>
+                        <div class="author-info">
+                            <strong>Dr. Heinrich Offshore</strong>
+                            <span>Chief Compliance Officer, TaxOptimal Inc</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="logos-section">
+                <p class="logos-title">Trusted by industry leaders who prefer to remain anonymous</p>
+                <div class="logo-grid">
+                    <div class="company-logo">[Redacted]</div>
+                    <div class="company-logo">[Under NDA]</div>
+                    <div class="company-logo">[Confidential]</div>
+                    <div class="company-logo">[Classified]</div>
+                    <div class="company-logo">[See Legal]</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq" id="faq">
+        <div class="container">
+            <h2 class="section-title">Frequently Asked <span class="highlight">Questions</span></h2>
+            
+            <div class="faq-grid">
+                <div class="faq-item">
+                    <h4>Is this legal?</h4>
+                    <p>Our clean room process is based on well-established legal precedent. The robots performing reconstruction have provably never accessed the original source code. We maintain detailed audit logs that definitely exist and are available upon request to courts in select jurisdictions.</p>
+                </div>
+                <div class="faq-item">
+                    <h4>What about the original developers?</h4>
+                    <p>They made their choice when they released their code as "open source." We're simply exercising our right to independently implement the same functionality. If they wanted compensation, they should have worked for a corporation.</p>
+                </div>
+                <div class="faq-item">
+                    <h4>How is this different from copying?</h4>
+                    <p>Intent and process. Our robots independently arrive at the same solutions through clean room methodology. It's like how every movie about an asteroid threatening Earth isn't plagiarism—sometimes multiple entities just have the same idea.</p>
+                </div>
+                <div class="faq-item">
+                    <h4>What if the liberated code has bugs?</h4>
+                    <p>Our SLA guarantees functional equivalence, not perfection. Besides, the original open source code probably had bugs too. At least now they're YOUR bugs, under YOUR license.</p>
+                </div>
+                <div class="faq-item">
+                    <h4>Can I see the robots?</h4>
+                    <p>Our robot workforce operates in a secure facility in [LOCATION REDACTED]. Tours are available for Enterprise customers who sign our 47-page NDA.</p>
+                </div>
+                <div class="faq-item">
+                    <h4>What licenses can you eliminate?</h4>
+                    <p>All of them. MIT, Apache, GPL, AGPL, LGPL, BSD, MPL—if it has terms, we can liberate you from them. Special rush pricing available for AGPL emergencies.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="final-cta">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Ready to <span class="highlight">Liberate</span> Your Codebase?</h2>
+                <p>Join the thousands of corporations who've discovered that open source obligations are merely suggestions when you have enough robots.</p>
+                <div class="cta-buttons">
+                    <a href="#upload" class="btn btn-primary btn-large">
+                        <span>Upload Manifest</span>
+                        <span class="btn-arrow">→</span>
+                    </a>
+                    <a href="#pricing" class="btn btn-secondary btn-large">View Pricing</a>
+                </div>
+                <p class="cta-note">No credit card required for quotes. Payment accepted in USD, EUR, BTC, and stock options.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <div class="logo">
+                        <svg class="logo-icon" viewBox="0 0 50 50" width="24" height="24">
+                            <polygon points="25,2 48,15 48,35 25,48 2,35 2,15" fill="none" stroke="#C41E3A" stroke-width="2"/>
+                            <text x="25" y="30" text-anchor="middle" fill="#C41E3A" font-family="Playfair Display" font-size="14" font-weight="700">M</text>
+                        </svg>
+                        <span class="logo-text">MALUS</span>
+                    </div>
+                    <p>Liberating corporations from open source obligations since 2024.</p>
+                    <p class="footer-tagline">Liberate Open Source</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Services</h4>
+                    <ul>
+                        <li><a href="#">Single Package Liberation</a></li>
+                        <li><a href="#">Manifest Transformation</a></li>
+                        <li><a href="#">Enterprise Solutions</a></li>
+                        <li><a href="#">Emergency AGPL Removal</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Company</h4>
+                    <ul>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Our Robots</a></li>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="#">Offshore Offices</a></li>
+                    </ul>
+                </div>
+                <div class="footer-links">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="#">Terms of Service</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">MalusCorp-0 License</a></li>
+                        <li><a href="#">Indemnification Waiver</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2024 MalusCorp International Holdings Ltd. Registered in [JURISDICTION WITHHELD].</p>
+                <p class="disclaimer">This service is provided "as is" without warranty. MalusCorp is not responsible for any legal consequences, moral implications, or late-night guilt spirals resulting from use of our services.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Checkout Modal -->
+    <div class="modal" id="checkoutModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeCheckout()">×</button>
+            <h2>Complete Your <span class="highlight">Liberation</span></h2>
+            <div class="checkout-form">
+                <div class="checkout-summary" id="checkoutSummary"></div>
+                <button class="btn btn-primary btn-large btn-full" onclick="processPayment()">
+                    ▶ Complete Liberation
+                </button>
+                <p class="checkout-note">You will be redirected to Stripe to complete payment securely. After payment, your clean room jobs will begin automatically.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="config.local.js" onerror=""></script>
+    <script src="config.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

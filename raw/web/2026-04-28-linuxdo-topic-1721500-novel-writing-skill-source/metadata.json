@@ -1,0 +1,20 @@
+{
+  "bundle_name": "2026-04-28-linuxdo-topic-1721500-novel-writing-skill-source",
+  "source_type": "web",
+  "title": "还是我，这个是skill.md,接上一个小说帖子",
+  "source_url": "https://linux.do/t/topic/1721500",
+  "source_domain": "linux.do",
+  "author": "user2609",
+  "published": "",
+  "created": "2026-04-28",
+  "ingested_at": "2026-04-28",
+  "primary_file": "novel-writing-skill-source.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Migrated from the Clippings inbox. Remote images and attachment URLs are preserved inline in the markdown body for traceability; this pass did not finish local downloading.",
+  "original_path": "Clippings/还是我，这个是skill.md,接上一个小说帖子.md",
+  "attachment_url_count": 0,
+  "remote_image_url_count": 0,
+  "attachment_urls": []
+}

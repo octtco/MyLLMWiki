@@ -1,0 +1,29 @@
+{
+  "bundle_name": "2026-02-26-to-2026-04-17-codex-rollout-whatsbox-slice",
+  "source_type": "chat",
+  "title": "Codex rollout - WhatsBox 项目切片（2026-02-26 至 2026-04-17）",
+  "source_channel": "codex rollout jsonl archive slice",
+  "created": "2026-04-29",
+  "ingested_at": "2026-04-29",
+  "primary_file": "inventory.md",
+  "file_count": 16,
+  "status": "raw",
+  "participants": [
+    "liuyifu",
+    "Codex"
+  ],
+  "time_range": {
+    "start": "2026-02-26T10:38:40.451Z",
+    "end": "2026-04-17T09:26:54.173Z"
+  },
+  "privacy": "private",
+  "quote_policy": "restricted",
+  "archive_shape": "project slice copied from parent batch archive",
+  "parent_bundle": "raw/chats/2026-02-to-2026-04-codex-rollout-archive",
+  "selection_rule": "session cwd == /Users/liuyifu/Documents/oversea/AppHub/WhatsBox",
+  "month_distribution": {
+    "02": 2,
+    "03": 4,
+    "04": 10
+  }
+}

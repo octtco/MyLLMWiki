@@ -1,0 +1,36 @@
+{
+  "bundle_name": "2026-04-13-to-2026-04-23-codex-rollout-myllmwiki-slice",
+  "source_type": "chat",
+  "title": "Codex rollout - MyLLMWiki 项目切片（2026-04-13 至 2026-04-23）",
+  "source_channel": "codex rollout jsonl archive slice",
+  "created": "2026-04-28",
+  "ingested_at": "2026-04-28",
+  "primary_file": "inventory.md",
+  "file_count": 10,
+  "status": "raw",
+  "participants": [
+    "liuyifu",
+    "Codex"
+  ],
+  "time_range": {
+    "start": "2026-04-13T08:37:58.488Z",
+    "end": "2026-04-23T08:19:13.365Z"
+  },
+  "privacy": "private",
+  "quote_policy": "restricted",
+  "archive_shape": "project slice copied from parent batch archive",
+  "parent_bundle": "raw/chats/2026-02-to-2026-04-codex-rollout-archive",
+  "selection_rule": "session cwd == /Users/liuyifu/Documents/123/MyLLMWiki",
+  "original_paths": [
+    "sessions/04/13/rollout-2026-04-13T16-37-47-019d85fd-5e28-7b10-ac54-3b21ebc9c1a7.jsonl",
+    "sessions/04/14/rollout-2026-04-14T10-36-30-019d89d8-f6ef-70c3-b069-50108969e49e.jsonl",
+    "sessions/04/14/rollout-2026-04-14T11-45-06-019d8a17-c3a8-7f81-82d3-3e5a2ebf6373.jsonl",
+    "sessions/04/17/rollout-2026-04-17T14-16-06-019d9a15-15af-7362-ba32-1c5420314e7d.jsonl",
+    "sessions/04/17/rollout-2026-04-17T18-13-18-019d9aee-4008-7a82-958d-9303c14b973b.jsonl",
+    "sessions/04/20/rollout-2026-04-20T10-27-32-019da8b6-e96b-79b0-9191-d693369ebe8d.jsonl",
+    "sessions/04/20/rollout-2026-04-20T10-46-19-019da8c8-1a3d-7c91-8ea0-a0b6be02f93d.jsonl",
+    "sessions/04/21/rollout-2026-04-21T11-54-05-019dae2c-819c-7891-b7bb-f7c32545688d.jsonl",
+    "sessions/04/21/rollout-2026-04-21T15-17-48-019daee7-0394-75c1-9233-e8a800a695a3.jsonl",
+    "sessions/04/22/rollout-2026-04-22T13-33-04-019db3ad-7c03-7953-a45b-0fd32464fd99.jsonl"
+  ]
+}

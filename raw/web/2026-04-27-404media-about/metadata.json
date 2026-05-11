@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-04-27-404media-about",
+  "source_type": "web",
+  "title": "Who We Are",
+  "source_url": "https://www.404media.co/about/",
+  "source_domain": "www.404media.co",
+  "author": "404 Media",
+  "published": "",
+  "created": "2026-04-27",
+  "ingested_at": "2026-04-27",
+  "primary_file": "404media-about.md",
+  "image_count": 0,
+  "file_count": 1,
+  "status": "raw",
+  "notes": "Imported from the seeds inbox. The official HTML page snapshot was preserved as source.html, and a short markdown snapshot was produced for local traceability.",
+  "original_path": "seeds/inbox/2026-04-27-404-media-海外信息源头.md"
+}

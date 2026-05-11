@@ -1,0 +1,31 @@
+{
+  "bundle_name": "2026-04-22-linuxdo-topic-2028876-windsurf-4-7-relay",
+  "source_type": "web",
+  "title": "给大家公开一个无限撸4.7，并且可以中转的路子",
+  "source_url": "https://linux.do/t/topic/2028876",
+  "source_domain": "linux.do",
+  "author": "DUODUSHU",
+  "published": [],
+  "created": "2026-04-22",
+  "ingested_at": "2026-04-27",
+  "primary_file": "windsurf-4-7-relay.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Migrated from the Clippings inbox. Image localization was attempted for 3 body images but none completed in the current environment; original remote URLs were kept.",
+  "original_path": "Clippings/给大家公开一个无限撸4.7，并且可以中转的路子.md",
+  "download_failures": [
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/6/9/0/690db9b44e5c12c1c1b9bbfb62082c06ccf204b7_2_690x315.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/d/2/1/d2168a0aee3e7a6d389193abbd641742c67aecec_2_690x351.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://cdn3.linux.do/optimized/4X/2/3/0/230cf7c74fb0ead74ae888a18c701b06a0f635b9_2_624x500.png",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ]
+}

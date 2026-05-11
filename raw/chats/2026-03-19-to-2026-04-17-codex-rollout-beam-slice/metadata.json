@@ -1,0 +1,30 @@
+{
+  "bundle_name": "2026-03-19-to-2026-04-17-codex-rollout-beam-slice",
+  "source_type": "chat",
+  "title": "Codex rollout - Beam 项目切片（2026-03-19 至 2026-04-17）",
+  "source_channel": "codex rollout jsonl archive slice",
+  "participants": [
+    "liuyifu",
+    "Codex"
+  ],
+  "time_range": {
+    "start": "2026-03-19",
+    "end": "2026-04-17"
+  },
+  "start_timestamp": "2026-03-19T10:02:19.835Z",
+  "end_timestamp": "2026-04-17T07:41:07.052Z",
+  "created": "2026-04-29",
+  "ingested_at": "2026-04-29",
+  "primary_file": "inventory.md",
+  "file_count": 7,
+  "status": "raw",
+  "privacy": "private",
+  "quote_policy": "restricted",
+  "parent_bundle": "raw/chats/2026-02-to-2026-04-codex-rollout-archive",
+  "selection_rule": "session cwd == /Users/liuyifu/Documents/work/Beam",
+  "month_distribution": {
+    "03": 2,
+    "04": 5
+  },
+  "notes": "Project-level slice copied from the rollout archive by exact cwd match. One session in this slice is generic AGENTS-path chatter and should not be over-read as product knowledge."
+}

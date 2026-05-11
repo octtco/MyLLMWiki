@@ -1,0 +1,51 @@
+{
+  "bundle_name": "2026-04-23-zhihu-2024232028762112639-karpathy-llm-wiki",
+  "source_type": "web",
+  "title": "卡帕西引爆硅谷！公开「第二大脑」黑科技，1250万人围观",
+  "source_url": "https://zhuanlan.zhihu.com/p/2024232028762112639",
+  "source_domain": "zhuanlan.zhihu.com",
+  "author": "新智元​人工智能话题下的优秀答主",
+  "published": [],
+  "created": "2026-04-23",
+  "ingested_at": "2026-04-27",
+  "primary_file": "karpathy-llm-wiki.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Migrated from the Clippings inbox. Image localization was attempted for 8 body images but none completed in the current environment; original remote URLs were kept.",
+  "original_path": "Clippings/卡帕西引爆硅谷！公开「第二大脑」黑科技，1250万人围观.md",
+  "download_failures": [
+    {
+      "url": "https://pic4.zhimg.com/v2-27643e45e8bcad023f06ef8f27d17bcb_1440w.jpg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://picx.zhimg.com/v2-cbabd2f8f7592f43e4597b90f5508c6f_1440w.jpg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://pic2.zhimg.com/v2-cacd6a483db9c202a434b94320e2f3a1_1440w.jpg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://pica.zhimg.com/v2-c607b49f375d419947251902fbf331cc_1440w.jpg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://pica.zhimg.com/v2-0d151f34c26e2adf39c4542352523752_1440w.jpg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://pica.zhimg.com/v2-2a5a4b645451142c4a5a94a90a7878e0_1440w.jpg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://pic1.zhimg.com/v2-8a3da311a92f37862c33831c0b7ea33c_1440w.jpg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "url": "https://pica.zhimg.com/v2-56caa0d6b6d092de95198ee47d980644_1440w.jpg",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ]
+}

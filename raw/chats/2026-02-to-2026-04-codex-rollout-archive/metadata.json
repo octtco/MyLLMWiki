@@ -1,0 +1,95 @@
+{
+  "bundle_name": "2026-02-to-2026-04-codex-rollout-archive",
+  "source_type": "chat",
+  "title": "Codex rollout 历史聊天归档（2026-02 至 2026-04）",
+  "source_channel": "codex rollout jsonl archive",
+  "participants": [
+    "liuyifu",
+    "Codex"
+  ],
+  "time_range": {
+    "start": "2026-02-11",
+    "end": "2026-04-24"
+  },
+  "start_timestamp": "2026-02-11T06:37:10.645Z",
+  "end_timestamp": "2026-04-24T10:54:16.973Z",
+  "created": "2026-04-28",
+  "ingested_at": "2026-04-28",
+  "primary_file": "inventory.md",
+  "file_count": 203,
+  "status": "raw",
+  "privacy": "private",
+  "quote_policy": "restricted",
+  "notes": "Migrated from the Clippings inbox as a batch chat archive. The original rollout jsonl tree was preserved under sessions/. This pass intentionally creates one batch-level source entry instead of 203 per-session source pages.",
+  "original_path": "Clippings/2026_副本",
+  "program_origins": {
+    "codex_cli_rs": 11,
+    "Codex Desktop": 192
+  },
+  "model_providers": {
+    "custom": 186,
+    "openai": 17
+  },
+  "top_cwds": [
+    {
+      "cwd": "/Users/liuyifu/Documents/Bface/weihe/WeBox",
+      "count": 93
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/oversea/AppHub/WhatsBox",
+      "count": 16
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work",
+      "count": 16
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/123/MyLLMWiki",
+      "count": 10
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work/Somnus",
+      "count": 7
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work/Beam",
+      "count": 7
+    },
+    {
+      "cwd": "/Users/liuyifu",
+      "count": 4
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work/Nudge",
+      "count": 3
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work/Rebound",
+      "count": 3
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/123/openclaw-mini",
+      "count": 3
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work/Wake",
+      "count": 3
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work/Nook",
+      "count": 3
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work/PaceMate",
+      "count": 2
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/ProgressMachine",
+      "count": 2
+    },
+    {
+      "cwd": "/Users/liuyifu/Documents/work/MemNote",
+      "count": 2
+    }
+  ]
+}
