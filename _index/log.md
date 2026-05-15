@@ -74,3 +74,19 @@
 - 复核 `seeds/inbox/` 里的 `Grok 镜像站`、`ChatGPT2API 无限生图入口线索`、`gpt-pp-team 待研究仓库` 三张卡，本轮继续保留为高波动入口或待研究仓库，不误升正式来源
 - 同步更新 [[来源索引]]、[[待处理]]、[[总览]]、[[health-check|健康检查]] 和运行日志，并把已完成迁移的收件箱原件从 `Clippings/` 移除
 - 再把 [[AI 辅助网文写作]] 这组里更稳的部分正式往上提：重写主题页主线，强调“平台样本校准 -> Skill 外置 -> 状态记账 -> 多模型交叉找问题”这条生产链，并把 3 条相关方法页从 `review` 提到 `active`
+
+## 2026-05-11
+
+- 将用户提供的一批 vibecoding / autoresearch / design skill / 订阅价格入口线索先整理进 `seeds/inbox/`：新增 [[AutoResearch 自动研究循环线索]]、[[Vibecoding：是真的吗与帮助学习两个方向]]、[[Design Skill 与 Variant 工具线索]]、[[订阅共享与区价入口线索]]
+- 明确 `是真的吗`、`帮助学习` 是用户准备 vibecoding 的两个项目方向，不抽象成概念页；后续优先进入目标页、任务页或项目对象页
+- 保留 X 链接为待补正文状态，并在 [[待处理]] 登记后续回填任务；高波动渠道和价格入口只作为 seed 保存，不写成稳定方法
+- 新增 [[Product Hunt 产品发现与发布入口]]，把它先作为 vibecoding 的产品灵感、竞品观察和未来发布入口保存，并在 [[待处理]] 登记一次相关产品观察任务
+
+## 2026-05-15
+
+- 将 Trellis 中文文档、`mattpocock/skills` 的 `grill-me`、以及两篇 Linux.do 使用帖整理成 4 个来源包和 4 篇来源页：[[Trellis Doc - 中文文档]]、[[GitHub - grill-me]]、[[Linux.do - 大道至简的胜利，一个神级 skill 推荐]]、[[Linux.do - Trellis + grill-me 组合用起来很爽]]
+- 新增方法页 [[先追问到共享理解，再进入任务执行]]，把 `grill-me + Trellis` 保守整理为“前置澄清 skill + 结构化执行框架”的组合样本
+- 回写 [[AI coding framework]] 与 [[Skill]]，强调 skill 不只承载执行能力，也可以承载任务进入框架前的澄清纪律；同时保留“社区体验不等于普遍 benchmark”的边界
+- 继续把 [[GitHub - MetaGPT]]、[[GitHub - awesome-ai-dev-prompts]] 和 [[GitHub - awesome-ai-software-development-agents]] 整理成 3 个 repo 来源包和 3 篇来源页；回写 [[Agent 框架设计]] 与 [[AI coding framework]]，区分多角色 SOP 框架、prompt 资料库和 agent 生态导航表
+- 清空 `Clippings/` 剩余 3 篇剪藏：新增 [[Linux.do - APK 与前端 JS 逆向套件和工程方法论 skill]]、[[Linux.do - 自建科学上网教程]]、[[Linux.do - CPA 与 New API 中转站搭建教程]]，全部保持 `review`，只保存来源结构和风险边界，不扩写逆向、翻墙或 API 中转操作指南
+- 继续整理 3 篇新剪藏：新增 [[Linux.do - 简论机器学习前言]]、[[Linux.do - 机器学习之前，先学会看数据]]、[[Linux.do - 产品经理、客户经理以及技术头儿有什么区别]]；两篇机器学习来源合并支撑 `review` 主题 [[机器学习工程入口]]，角色辨析来源先不升方法页
