@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-06-03-github-affaan-m-ecc",
+  "source_type": "repo",
+  "title": "GitHub - ECC",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "source_domain": "github.com",
+  "owner": "affaan-m",
+  "repo": "ECC",
+  "requested_full_name": "affaan-m/ECC",
+  "canonical_full_name": "affaan-m/ECC",
+  "created": "2026-06-03",
+  "ingested_at": "2026-06-03",
+  "primary_file": "ecc.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot captured for knowledge-base review."
+}

@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-06-03-github-openbmb-voxcpm",
+  "source_type": "repo",
+  "title": "GitHub - VoxCPM",
+  "source_url": "https://github.com/OpenBMB/VoxCPM",
+  "source_domain": "github.com",
+  "owner": "OpenBMB",
+  "repo": "VoxCPM",
+  "requested_full_name": "OpenBMB/VoxCPM",
+  "canonical_full_name": "OpenBMB/VoxCPM",
+  "created": "2026-06-03",
+  "ingested_at": "2026-06-03",
+  "primary_file": "voxcpm.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot captured for knowledge-base review; voice cloning requires consent and misuse boundary."
+}

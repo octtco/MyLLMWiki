@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-06-02-github-pbakaus-impeccable",
+  "source_type": "repo",
+  "title": "GitHub - Impeccable",
+  "source_url": "https://github.com/pbakaus/impeccable",
+  "source_domain": "github.com",
+  "owner": "pbakaus",
+  "repo": "impeccable",
+  "requested_full_name": "pbakaus/impeccable",
+  "canonical_full_name": "pbakaus/impeccable",
+  "created": "2026-06-02",
+  "ingested_at": "2026-06-02",
+  "primary_file": "impeccable.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot captured for knowledge-base review."
+}

@@ -1,0 +1,32 @@
+{
+  "bundle_name": "2026-05-29-github-getzep-graphiti",
+  "source_type": "repo",
+  "title": "GitHub - graphiti",
+  "source_url": "https://github.com/getzep/graphiti",
+  "source_domain": "github.com",
+  "owner": "getzep",
+  "repo": "graphiti",
+  "requested_full_name": "getzep/graphiti",
+  "canonical_full_name": "getzep/graphiti",
+  "description": "Build Real-Time Knowledge Graphs for AI Agents",
+  "license": "Apache-2.0",
+  "topics": [
+    "agents",
+    "graph",
+    "llms",
+    "rag"
+  ],
+  "homepage": "https://help.getzep.com/graphiti",
+  "stars": 26709,
+  "forks": 2664,
+  "default_branch": "main",
+  "archived": false,
+  "github_updated_at": "2026-05-29T01:49:25Z",
+  "created": "2026-05-29",
+  "ingested_at": "2026-05-29",
+  "primary_file": "graphiti.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "README snapshot only; repository code tree was not cloned. Full GitHub API response preserved in github-api.json."
+}

@@ -1,0 +1,16 @@
+{
+  "bundle_name": "2026-05-20-linuxdo-topic-2046101-gpt-image-50-styles",
+  "source_type": "web",
+  "title": "GPT Image 2.0 生成的『AI 生图 50 种风格速查表』",
+  "source_url": "https://linux.do/t/topic/2046101",
+  "source_domain": "linux.do",
+  "author": "Qiner",
+  "published": "",
+  "created": "2026-05-20",
+  "ingested_at": "2026-05-25",
+  "primary_file": "gpt-image-50-styles.md",
+  "image_count": 2,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Original clipping contains remote Linux.do image URLs; images were not localized in this pass."
+}

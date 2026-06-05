@@ -1,0 +1,19 @@
+{
+  "bundle_name": "2026-05-25-github-anthropics-knowledge-work-plugins",
+  "source_type": "repo",
+  "title": "GitHub - knowledge-work-plugins",
+  "source_url": "https://github.com/anthropics/knowledge-work-plugins",
+  "source_domain": "github.com",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "license": null,
+  "topics": [],
+  "homepage": null,
+  "created": "2026-05-25",
+  "ingested_at": "2026-05-25",
+  "primary_file": "knowledge-work-plugins.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "README snapshot only; repository code tree was not cloned."
+}

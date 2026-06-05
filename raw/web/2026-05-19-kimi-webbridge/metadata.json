@@ -1,0 +1,16 @@
+{
+  "bundle_name": "2026-05-19-kimi-webbridge",
+  "source_type": "web",
+  "title": "Kimi - WebBridge 功能页",
+  "source_url": "https://www.kimi.com/zh-cn/features/webbridge",
+  "source_domain": "kimi.com",
+  "author": "Kimi",
+  "published": "",
+  "created": "2026-05-19",
+  "ingested_at": "2026-05-19",
+  "primary_file": "webbridge.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "Minimal page-level snapshot, not a full page mirror."
+}

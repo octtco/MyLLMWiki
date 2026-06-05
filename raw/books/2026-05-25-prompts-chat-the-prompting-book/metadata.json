@@ -1,0 +1,28 @@
+{
+  "bundle_name": "2026-05-25-prompts-chat-the-prompting-book",
+  "source_type": "book",
+  "title": "The Prompting Book",
+  "subtitle": "A Guide to Crafting Clear and Effective Prompts",
+  "source_url": "https://prompts.chat/book",
+  "source_domain": "prompts.chat",
+  "author": "Fatih Kadir Akin",
+  "published": "2025-01",
+  "created": "2026-05-25",
+  "ingested_at": "2026-05-25",
+  "primary_file": "README.md",
+  "files": [
+    {
+      "path": "files/the-prompting-book-en.pdf",
+      "language": "en",
+      "page_count": 418
+    },
+    {
+      "path": "files/the-prompting-book-zh.pdf",
+      "language": "zh",
+      "page_count": 405
+    }
+  ],
+  "file_count": 2,
+  "status": "raw",
+  "notes": "English and Chinese print PDFs of the same book are preserved together as one bilingual book source bundle."
+}

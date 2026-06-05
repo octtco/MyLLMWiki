@@ -16,6 +16,7 @@ related_concepts:
 related_topics:
   - AI coding framework
   - Agent 框架设计
+  - 提示词设计
 source_pages:
   - GitHub - Trellis
   - GitHub - grill-me
@@ -26,7 +27,8 @@ source_pages:
   - Linux.do - 经过 8 个月 Claude Code 高强度实战，我们决定开源内部的最佳实践
   - GitHub - GenericAgent
   - GitHub - anti-default-output
-updated: 2026-05-15
+  - The Prompting Book
+updated: 2026-05-25
 ---
 
 # Skill
@@ -42,6 +44,8 @@ updated: 2026-05-15
 这次补进来的 [[GitHub - grill-me]] 说明，`Skill` 也可以承载执行前的澄清纪律：它不直接写代码，也不负责完整计划，而是把追问、分支决策和共享理解做成一个可调用动作。
 
 [[GitHub - awesome-ai-dev-prompts]] 则提供了一个边界样本：prompt 库和 skill 相邻，但不完全相同。prompt 更像可复制的文本素材；skill 通常还需要触发时机、上下文约束、工具动作和验收纪律。
+
+[[The Prompting Book]] 进一步补了这个边界：它把 prompts、skills、agents 写成从基础材料到复合结构的关系。这个比喻当前可以低强度复用，但不能把所有 skill 都还原成 prompt 拼装；仓库里仍然把触发条件、上下文纪律和验收要求看成 skill 的关键部分。
 
 ## 这页不打算替你解释什么
 
@@ -80,6 +84,7 @@ updated: 2026-05-15
 - [[Linux.do - 经过 8 个月 Claude Code 高强度实战，我们决定开源内部的最佳实践]]
 - [[GitHub - GenericAgent]]
 - [[GitHub - anti-default-output]]
+- [[The Prompting Book]]
 
 ## 相关概念
 
@@ -93,3 +98,4 @@ updated: 2026-05-15
 
 - [[AI coding framework]]
 - [[Agent 框架设计]]
+- [[提示词设计]]

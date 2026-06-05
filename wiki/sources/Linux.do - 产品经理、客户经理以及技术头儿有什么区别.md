@@ -58,6 +58,14 @@ related_relations: []
 - 这篇是单作者组织经验，不适合直接写成通用组织管理定律。
 - 暂不建立方法页；后续如果有更多来源，再考虑沉淀“先分清角色坐在哪，再决定谁来拍板”一类方法。
 
+## 相关来源
+
+- [[Linux.do - AI 产品经理简历与面试建议]]
+
+## 关系
+
+- `补充` -> [[Linux.do - AI 产品经理简历与面试建议]]：这篇讲组织角色分工，后者从候选人面试侧补充如何证明自己真的理解 AI 产品落地。
+
 ## 回链
 
 - 对应原始文件：[raw/web/2026-05-01-linuxdo-topic-2182430-product-customer-tech-roles/product-customer-tech-roles.md](../../raw/web/2026-05-01-linuxdo-topic-2182430-product-customer-tech-roles/product-customer-tech-roles.md)

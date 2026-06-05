@@ -1,0 +1,15 @@
+{
+  "bundle_name": "2026-05-21-apple-human-interface-guidelines",
+  "source_type": "web",
+  "title": "Human Interface Guidelines",
+  "source_url": "https://developer.apple.com/design/human-interface-guidelines",
+  "source_domain": "developer.apple.com",
+  "author": "Apple",
+  "created": "2026-05-21",
+  "ingested_at": "2026-05-21",
+  "primary_file": "human-interface-guidelines.md",
+  "image_count": 0,
+  "file_count": 1,
+  "status": "raw",
+  "notes": "Primary page is JavaScript-rendered. Official DocC JSON snapshot preserved under files/human-interface-guidelines.json."
+}

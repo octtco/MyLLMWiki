@@ -1,6 +1,6 @@
 ---
 type: goal
-status: active
+status: done
 priority: high
 horizon: medium
 owner: lelele
@@ -15,7 +15,8 @@ related_methods:
 related_outputs:
   - 2026-04-24-个人-LLM-Wiki-结构升级方案-v0.2
   - 2026-04-24-个人-LLM-Wiki-模板与路由细则-v0.3
-updated: 2026-04-29
+  - 2026-05-20-当前知识库适配-Karpathy-LLM-Wiki-盘点
+updated: 2026-05-20
 ---
 
 # 把 MyLLMWiki 跑成可持续增长的个人 LLM Wiki
@@ -37,13 +38,13 @@ updated: 2026-04-29
 
 ## 当前阶段
 
-样板补齐期
+阶段性完成
 
 ## 当前卡点
 
-- `raw/chats/` 现在已经切出 `MyLLMWiki`、`WeBox`、`WhatsBox` 和 `Beam` 四份项目样板；但当前明确继续跟进的，先只留 `MyLLMWiki`、`WeBox`、`WhatsBox` 这三条。
-- 对象页和目标页虽然已经开始长样板，但还不够多。
-- 某些高波动来源还只有单作者或单站经验，后面要继续补交叉来源。
+- 作为“让 MyLLMWiki 跑成个人 LLM Wiki”的第一阶段目标，当前已经可以收口。
+- 仍需持续观察的，不是这条目标是否成立，而是后续具体材料进入仓库时能否继续稳定执行分流、回写和自检。
+- 某些高波动来源仍只有单作者或单站经验，后面继续按 `review` / `seed` 口径保守处理。
 
 ## 推进策略
 
@@ -63,14 +64,16 @@ updated: 2026-04-29
 - [[Codex rollout - MyLLMWiki 项目切片（2026-04-13 至 2026-04-23）]]
 - [2026-04-24-个人-LLM-Wiki-结构升级方案-v0.2](../../outputs/reports/2026-04-24-个人-LLM-Wiki-结构升级方案-v0.2.md)
 - [2026-04-24-个人-LLM-Wiki-模板与路由细则-v0.3](../../outputs/reports/2026-04-24-个人-LLM-Wiki-模板与路由细则-v0.3.md)
+- [2026-05-20-当前知识库适配-Karpathy-LLM-Wiki-盘点](../../outputs/reports/2026-05-20-当前知识库适配-Karpathy-LLM-Wiki-盘点.md)
 
 ## 下一步任务
 
-- [x] [[按项目切分 rollout 聊天归档并补对象目标样板]]
-- [ ] [[确认当前知识库适配卡帕西吗]]
+- [x] 按项目切分 rollout 聊天归档并补对象目标样板（已并入 [[任务总览]]）
+- [x] 确认当前知识库适配卡帕西吗（已并入 [[任务总览]]）
 
 ## 最近更新记录
 
 - 2026-04-28：skill/reference 已对齐到新版结构口径，并开始补第一批正式对象页和目标页样板。
 - 2026-04-28：已从 rollout 总归档切出 [[Codex rollout - MyLLMWiki 项目切片（2026-04-13 至 2026-04-23）]]，并回写到对象页与目标页。
 - 2026-04-29：又切出 [[Codex rollout - WeBox 项目切片（2026-03-10 至 2026-04-24）]]、[[Codex rollout - WhatsBox 项目切片（2026-02-26 至 2026-04-17）]] 和 [[Codex rollout - Beam 项目切片（2026-03-19 至 2026-04-17）]]，让聊天项目样板从 1 条扩到 4 条。
+- 2026-05-20：完成 [[2026-05-20-当前知识库适配-Karpathy-LLM-Wiki-盘点]]，确认当前仓库已阶段性适配 Karpathy LLM Wiki 的核心骨架；本目标先收口为阶段性完成。

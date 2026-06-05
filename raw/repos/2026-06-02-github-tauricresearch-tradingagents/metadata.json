@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-06-02-github-tauricresearch-tradingagents",
+  "source_type": "repo",
+  "title": "GitHub - TradingAgents",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "source_domain": "github.com",
+  "owner": "TauricResearch",
+  "repo": "TradingAgents",
+  "requested_full_name": "TauricResearch/TradingAgents",
+  "canonical_full_name": "TauricResearch/TradingAgents",
+  "created": "2026-06-02",
+  "ingested_at": "2026-06-02",
+  "primary_file": "tradingagents.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot captured for knowledge-base review; financial content must remain non-advisory."
+}

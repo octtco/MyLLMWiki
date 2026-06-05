@@ -12,9 +12,9 @@
 ## 已确认正常
 
 - 首页、总览、维护协议、README、对象索引、目标索引和方法索引已经统一到同一版结构口径
-- 当前计数已经一致：35 个来源页、4 个正式对象页、1 个正式目标页、4 个主题页、13 个方法页、29 个概念页、17 个输出页、19 个待处理项
+- 当前计数已经重新对齐：101 个来源页、5 个正式对象页、1 个正式目标页、18 个主题页、14 个方法页、29 个概念页、23 个输出页、57 个待处理项
 - 来源页都已经重新接回索引
-- `wiki/methods/` 不再是空目录，当前已有 13 篇正式方法页
+- `wiki/methods/` 不再是空目录，当前已有 14 篇正式方法页
 - 《工程控制论》相关的来源页、主题页、方法页、概念页之间已经接回显式链接
 - `outputs/` 里已经有对应的长文工作层，且 `00-07` 已经形成完整工作链，不再直接从整本书跳到正式页
 - `系统类型`、`非线性系统`、`信息`、`大系统` 等候选继续留在宿主页或工作层，是刻意的筛页结果，不算结构欠账
@@ -27,6 +27,16 @@
 - `Clippings/` 这轮又成功分流出 3 篇新网页剪藏，并按保守口径补成 3 篇 `review` 来源页
 - `MyLLMWiki` 已经有了第一篇正式对象页和第一篇正式目标页，对象层和目标层不再只是模板
 - skill 与 reference 里的路由口径已经同步到“统一收件箱 -> raw / seeds / todo / wiki / outputs”这条新版主路径
+- 上轮写进 [[AI coding framework]] 和 [[Agent 框架设计]] 的 `Codex / Gemini / WebBridge / TRINITY / AutoScientist` 线索，这轮已经补成正式来源页，不再只停在 topic 正文里的外部链接
+- [[把 MyLLMWiki 跑成可持续增长的个人 LLM Wiki]] 已经通过 [[2026-05-20-当前知识库适配-Karpathy-LLM-Wiki-盘点]] 完成阶段性收口；Karpathy 适配不再是开放待办
+- `Clippings/` 当前只剩 README / `.DS_Store` 这类非资料文件；重复 Hive PDF 已核对移除，两篇 2026-05-20 Linux.do 剪藏已迁入 `raw/web/` 并补来源页
+- `raw/web/2026-05-19-*` 这一组最小快照已经补齐 `metadata.json`，不再是缺元数据来源包
+- 2026-05-28 这一轮新增 6 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应；ChinaTextbook 已按许可待审边界保守保存
+- 2026-05-29 这一轮新增 4 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应；developer-roadmap 已记录原请求名与 canonical 仓库名差异
+- 2026-06-01 这一轮新增 8 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应；`rsshub` 和 `javascript-algorithms` 已按 GitHub 搜索第一结果映射到 canonical 仓库
+- 2026-06-02 这一轮新增 4 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应；[[GitHub - Scrapling]] 已存在，未重复入库
+- 2026-06-03 这一轮新增 5 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应；[[GitHub - Supermemory]] 已存在，未重复入库
+- 2026-06-04 这一轮新增 1 个 GitHub repo 来源包，保留 README 快照和 GitHub API 原始响应
 
 ## 需持续观察
 
@@ -43,5 +53,19 @@
 - 新收进来的 [[Linux.do - Seedance 2.0 结合 GPT 的导演思维教学]] 当前能稳住的主要是“先把粗剧情改写成镜头级分镜，再喂给模型”这条前置流程；更多私下资料和效果迁移性都还待验证
 - 新收进来的 [[Linux.do - 自建家宽节点与中转站部署教程]] 混着通用 VPS 运维、家宽中转链路和高风险用途判断，当前更适合保留为部署样本，不适合直接抽正式方法
 - 新收进来的 [[Linux.do - 学生创业的 10 道坎]] 目前仍是单一作者的强观点复盘；哪些是共性结构问题、哪些只是叙事放大，还需要更多独立来源来稳
-- `seeds/inbox/` 当前还保留 3 张高波动线索卡，这本身是刻意保守，不算结构欠账
+- `seeds/inbox/` 现在除了旧的高波动入口线索，还新增了 `实时多模态交互`、`多模态生成能力簇`、`麻醉语言预测与 AI 类比` 这 3 张待分流卡；当前继续保留为 seed 是刻意保守，不算结构欠账
 - 这组来源里挂着的 txt / zip 附件这轮还没有本地化，当前仍主要靠原始外链回证
+- [[Linux.do - GPT Image 2.0 生图 50 种风格速查表]] 里的两张展示图仍是远程 Linux.do 图片，本轮只保留原始链接，未做本地化
+- [[GitHub - ChinaTextbook]] 的教材版权 / 许可边界仍需单独复核；当前不下载 PDF，不把它升成稳定学习资源主题
+- [[GitHub - MarkItDown]]、[[GitHub - Sim]]、[[GitHub - Open Deep Research]] 和 [[GitHub - MindsDB]] 当前只按 README 整理，后续若要作为工具推荐应先做真实任务跑测
+- [[GitHub - Graphiti]] 当前只按 README 整理，后续若要作为 agent memory 推荐，应补最小试用和 GraphRAG / RAG 对照
+- [[GitHub - Hyperswitch]] 当前只保留为支付基础设施来源页，支付合规和生产接入边界仍需独立资料支撑
+- [[GitHub - AI Hedge Fund]] 当前仅作为教育研究样本保存，不提供投资建议，后续需补金融合规和回测方法边界
+- [[GitHub - TradingAgents]] 当前仅作为多 agent 金融研究框架样本保存，不提供投资建议，后续需补金融合规、数据来源和回测方法边界
+- [[GitHub - MoneyPrinterTurbo]] 当前只作为短视频自动化工具样本保存，素材版权、平台规则和批量生成边界仍需复核
+- [[GitHub - Scrapling]] 当前只作为网页采集框架样本保存，不扩写反爬或绕限制步骤
+- [[GitHub - Flowsint]] 当前只作为 OSINT 图谱调查工具样本保存，不扩写个人画像、泄露库查询或目标侦察步骤
+- [[GitHub - VoxCPM]] 当前只作为语音生成 / 声音克隆模型样本保存，声音授权、身份安全和合成内容标注仍需复核
+- [[GitHub - Machine Learning for Trading]] 当前只作为金融机器学习学习样本保存，不提供投资建议，依赖和数据源仍需复核
+- [[GitHub - Production Agentic RAG Course]] 当前只作为生产级 RAG 课程项目样本保存，未跑通服务链路
+- [[GitHub - Aegis]] 当前只作为 AI coding agent method-pack / workflow discipline 样本保存，未验证多 host 安装和现有规则叠加

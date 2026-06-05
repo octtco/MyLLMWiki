@@ -1,0 +1,30 @@
+{
+  "bundle_name": "2026-01-30-arxiv-2601-22599-hive",
+  "source_type": "paper",
+  "title": "A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation",
+  "source_url": "https://arxiv.org/abs/2601.22599",
+  "pdf_url": "https://arxiv.org/pdf/2601.22599",
+  "source_domain": "arxiv.org",
+  "arxiv_id": "2601.22599",
+  "authors": [
+    "Kai Li",
+    "Jintao Cheng",
+    "Chang Zeng",
+    "Zijun Yan",
+    "Helin Wang",
+    "Zixiong Su",
+    "Bo Zheng",
+    "Xiaolin Hu"
+  ],
+  "submitted": "2026-01-30",
+  "created": "2026-05-21",
+  "ingested_at": "2026-05-21",
+  "primary_file": "README.md",
+  "preserved_files": [
+    "arxiv-abs.html",
+    "files/2601.22599v1.pdf"
+  ],
+  "file_count": 2,
+  "status": "raw",
+  "notes": "PDF was supplied through Clippings/2601.22599v1.pdf."
+}

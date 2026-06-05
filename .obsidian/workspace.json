@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "76bbb92f048c9f76",
+        "id": "98fdc988fe0c5905",
         "type": "tabs",
         "children": [
           {
-            "id": "73836a7456384ae0",
+            "id": "d82e2fa099a8c1ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "todo/tasks/任务总览.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "任务总览"
             }
           }
         ],
@@ -50,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:clippings",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "todo/tasks/任务总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "任务总览 的反向链接列表"
             }
           },
           {
@@ -152,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/sources/Linux.do - 即梦真无限sd2.0无限画图视频教程.md",
+                "file": "todo/tasks/任务总览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux.do - 即梦真无限sd2.0无限画图视频教程 的大纲"
+              "title": "任务总览 的大纲"
             }
           }
         ]
@@ -178,44 +183,46 @@
       "bases:新建数据库": false
     }
   },
-  "active": "73836a7456384ae0",
+  "active": "d82e2fa099a8c1ad",
   "lastOpenFiles": [
-    "outputs/reports/2026-05-15-Codex-产品经理模式配置.md",
-    "Clippings/长文手敲 简论机器学习——机器学习之前，先学会看数据（其一）.md",
-    "wiki/topics/机器学习工程入口.md",
-    "wiki/sources/Linux.do - 产品经理、客户经理以及技术头儿有什么区别.md",
-    "wiki/sources/Linux.do - 机器学习之前，先学会看数据.md",
-    "wiki/sources/Linux.do - 简论机器学习前言.md",
-    "raw/web/2026-05-01-linuxdo-topic-2182430-product-customer-tech-roles/metadata.json",
-    "raw/web/2026-05-01-linuxdo-topic-2143866-ml-look-at-data-1/metadata.json",
-    "raw/web/2026-05-01-linuxdo-topic-2093855-ml-preface/metadata.json",
-    "raw/web/2026-05-01-linuxdo-topic-2182430-product-customer-tech-roles/product-customer-tech-roles.md",
-    "raw/web/2026-05-01-linuxdo-topic-2143866-ml-look-at-data-1/ml-look-at-data-1.md",
-    "raw/web/2026-05-01-linuxdo-topic-2093855-ml-preface/ml-preface.md",
-    "raw/web/2026-05-01-linuxdo-topic-2182430-product-customer-tech-roles",
-    "raw/web/2026-05-01-linuxdo-topic-2143866-ml-look-at-data-1",
-    "raw/web/2026-05-01-linuxdo-topic-2093855-ml-preface",
-    "Clippings/长文手敲 产品经理、客户经理以及技术头儿有什么区别？.md",
-    "Clippings/长文手敲 简论机器学习——前言.md",
-    "outputs/reports/2026-05-15-Codex-从0项目开发配置与闭环流程.md",
-    "Clippings/写给小白的自建科学上网教程：从技术原理到实践操作.md",
-    "wiki/sources/Linux.do - CPA 与 New API 中转站搭建教程.md",
-    "wiki/sources/Linux.do - 自建科学上网教程.md",
-    "wiki/sources/Linux.do - APK 与前端 JS 逆向套件和工程方法论 skill.md",
-    "raw/web/2026-05-09-linuxdo-topic-2140889-cpa-newapi-relay-tutorial/metadata.json",
-    "raw/web/2026-05-12-linuxdo-topic-520757-self-hosted-proxy-tutorial/metadata.json",
-    "raw/web/2026-05-15-linuxdo-topic-2142539-reverse-engineering-skill/metadata.json",
-    "raw/web/2026-05-09-linuxdo-topic-2140889-cpa-newapi-relay-tutorial/cpa-newapi-relay-tutorial.md",
-    "raw/web/2026-05-12-linuxdo-topic-520757-self-hosted-proxy-tutorial/self-hosted-proxy-tutorial.md",
-    "raw/web/2026-05-15-linuxdo-topic-2142539-reverse-engineering-skill/reverse-engineering-skill.md",
-    "raw/web/2026-05-09-linuxdo-topic-2140889-cpa-newapi-relay-tutorial",
-    "Clippings/手把手教你搭建中转站 VPS+CLI Proxy API（CPA）+NEW API+Docker+Nginx+Cloudflare+SSL+域名配置 保姆级教程.md",
-    "Clippings/全套APK逆向前端JS逆向套件和工程方法论skill.md",
-    "wiki/sources/GitHub - awesome-ai-software-development-agents.md",
-    "wiki/sources/GitHub - awesome-ai-dev-prompts.md",
-    "wiki/sources/GitHub - MetaGPT.md",
-    "raw/repos/2026-05-15-github-flatlogic-awesome-ai-software-development-agents/awesome-ai-software-development-agents.md",
-    "raw/repos/2026-05-15-github-piyushrajyadav-awesome-ai-dev-prompts/awesome-ai-dev-prompts.md",
+    "wiki/sources/GitHub - Aegis.md",
+    "raw/repos/2026-06-04-github-ganyuanran-aegis/metadata.json",
+    "raw/repos/2026-06-04-github-ganyuanran-aegis/github-api.json",
+    "raw/repos/2026-06-04-github-ganyuanran-aegis/aegis.md",
+    "raw/repos/2026-06-04-github-ganyuanran-aegis",
+    "wiki/sources/GitHub - revfactory Harness.md",
+    "wiki/sources/GitHub - TradingAgents.md",
+    "wiki/sources/GitHub - Compound Engineering.md",
+    "wiki/sources/GitHub - Impeccable.md",
+    "raw/repos/2026-06-02-github-revfactory-harness/metadata.json",
+    "raw/repos/2026-06-02-github-tauricresearch-tradingagents/metadata.json",
+    "raw/repos/2026-06-02-github-everyinc-compound-engineering-plugin/metadata.json",
+    "raw/repos/2026-06-02-github-pbakaus-impeccable/metadata.json",
+    "raw/repos/2026-06-02-github-tauricresearch-tradingagents/github-api.json",
+    "raw/repos/2026-06-02-github-revfactory-harness/github-api.json",
+    "raw/repos/2026-06-02-github-revfactory-harness/revfactory-harness.md",
+    "raw/repos/2026-06-02-github-tauricresearch-tradingagents/tradingagents.md",
+    "raw/repos/2026-06-02-github-everyinc-compound-engineering-plugin/compound-engineering-plugin.md",
+    "raw/repos/2026-06-02-github-everyinc-compound-engineering-plugin/github-api.json",
+    "raw/repos/2026-06-02-github-pbakaus-impeccable/impeccable.md",
+    "wiki/topics/系统设计学习入口.md",
+    "wiki/sources/GitHub - MindsDB.md",
+    "wiki/sources/GitHub - system-design-primer.md",
+    "wiki/sources/GitHub - ChinaTextbook.md",
+    "wiki/sources/GitHub - Open Deep Research.md",
+    "wiki/sources/GitHub - MarkItDown.md",
+    "wiki/sources/GitHub - Sim.md",
+    "raw/repos/2026-05-28-github-microsoft-markitdown/markitdown.md",
+    "raw/repos/2026-05-28-github-donnemartin-system-design-primer/system-design-primer.md",
+    "raw/repos/2026-05-28-github-mindsdb-mindsdb/minds-platform.md",
+    "raw/repos/2026-05-28-github-tapxworld-chinatextbook/chinatextbook.md",
+    "raw/repos/2026-05-28-github-simstudioai-sim/sim.md",
+    "raw/repos/2026-05-28-github-langchain-ai-open-deep-research/open-deep-research.md",
+    "wiki/sources/Linux.do - AI 产品经理简历与面试建议.md",
+    "wiki/sources/Linux.do - GPT Image 2.0 生图 50 种风格速查表.md",
+    "raw/web/2026-05-20-linuxdo-topic-2212267-product-manager-resume-interview-advice/product-manager-resume-interview-advice.md",
+    "raw/web/2026-05-21-cslikai-hive/images/results.png",
+    "raw/web/2026-05-21-cslikai-hive/images/bee.png",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/003.jpg",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/002.png",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/001.png",
@@ -223,8 +230,6 @@
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/011.gif",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/009.png",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/008.png",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/007.png",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/006.png",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/005.png"
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/007.png"
   ]
 }

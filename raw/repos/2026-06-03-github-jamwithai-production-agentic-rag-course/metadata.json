@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-06-03-github-jamwithai-production-agentic-rag-course",
+  "source_type": "repo",
+  "title": "GitHub - Production Agentic RAG Course",
+  "source_url": "https://github.com/jamwithai/production-agentic-rag-course",
+  "source_domain": "github.com",
+  "owner": "jamwithai",
+  "repo": "production-agentic-rag-course",
+  "requested_full_name": "jamwithai/production-agentic-rag-course",
+  "canonical_full_name": "jamwithai/production-agentic-rag-course",
+  "created": "2026-06-03",
+  "ingested_at": "2026-06-03",
+  "primary_file": "production-agentic-rag-course.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot captured for knowledge-base review."
+}

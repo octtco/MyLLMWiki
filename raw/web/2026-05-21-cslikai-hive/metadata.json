@@ -1,0 +1,29 @@
+{
+  "bundle_name": "2026-05-21-cslikai-hive",
+  "source_type": "web",
+  "title": "A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation",
+  "source_url": "https://cslikai.cn/Hive/",
+  "source_domain": "cslikai.cn",
+  "authors": [
+    "Kai Li",
+    "Jintao Cheng",
+    "Chang Zeng",
+    "Zijun Yan",
+    "Helin Wang",
+    "Zixiong Su",
+    "Bo Zheng",
+    "Xiaolin Hu"
+  ],
+  "created": "2026-05-21",
+  "ingested_at": "2026-05-21",
+  "primary_file": "hive.md",
+  "preserved_files": [
+    "source.html",
+    "images/bee.png",
+    "images/results.png"
+  ],
+  "image_count": 2,
+  "file_count": 1,
+  "status": "raw",
+  "notes": "Interactive demo audio assets were not localized; source.html keeps their original references."
+}

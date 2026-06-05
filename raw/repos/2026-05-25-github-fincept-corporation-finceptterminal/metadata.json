@@ -1,0 +1,19 @@
+{
+  "bundle_name": "2026-05-25-github-fincept-corporation-finceptterminal",
+  "source_type": "repo",
+  "title": "GitHub - FinceptTerminal",
+  "source_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+  "source_domain": "github.com",
+  "owner": "Fincept-Corporation",
+  "repo": "FinceptTerminal",
+  "license": null,
+  "topics": [],
+  "homepage": null,
+  "created": "2026-05-25",
+  "ingested_at": "2026-05-25",
+  "primary_file": "finceptterminal.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "README snapshot only; repository code tree was not cloned."
+}

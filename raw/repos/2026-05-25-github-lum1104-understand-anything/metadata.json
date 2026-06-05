@@ -1,0 +1,19 @@
+{
+  "bundle_name": "2026-05-25-github-lum1104-understand-anything",
+  "source_type": "repo",
+  "title": "GitHub - Understand-Anything",
+  "source_url": "https://github.com/Lum1104/Understand-Anything",
+  "source_domain": "github.com",
+  "owner": "Lum1104",
+  "repo": "Understand-Anything",
+  "license": null,
+  "topics": [],
+  "homepage": null,
+  "created": "2026-05-25",
+  "ingested_at": "2026-05-25",
+  "primary_file": "understand-anything.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "README snapshot only; repository code tree was not cloned."
+}

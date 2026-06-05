@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-05-21-github-jusperlee-hive",
+  "source_type": "repo",
+  "title": "GitHub - JusperLee/Hive",
+  "source_url": "https://github.com/JusperLee/Hive",
+  "source_domain": "github.com",
+  "authors": [
+    "JusperLee"
+  ],
+  "created": "2026-05-21",
+  "ingested_at": "2026-05-21",
+  "primary_file": "hive.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "README snapshot only; repository code tree was not cloned."
+}

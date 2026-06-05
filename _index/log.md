@@ -4,6 +4,20 @@
 
 建议每次只记短条目，重点放在“做了什么”和“下一步是什么”。
 
+## 2026-05-20
+
+- 新增 [[2026-05-20-当前知识库适配-Karpathy-LLM-Wiki-盘点]]，对照 `raw / wiki / schema / ingest / query / file-back / lint` 盘点当前仓库与 Karpathy LLM Wiki 思路的适配情况
+- 将“确认当前知识库适配卡帕西吗”标记为完成，并把 [[把 MyLLMWiki 跑成可持续增长的个人 LLM Wiki]] 从 `active` 收口为 `done`
+- 按用户确认，将 vApp 下载安装卡住 / 推送开关状态异常任务，以及语音对话反应时间和语种匹配任务标记为完成
+- 同步更新 [[目标索引]]、[[总览]] 与 [[health-check|健康检查]]，把输出页数量从 19 调整为 20
+
+## 2026-05-22
+
+- 新增 7 条待办：微盒首页 / 发现页信息流广告高度问题、微盒和 WhatsBox 断网首次启动网络弹窗循环问题、BotBuddy、Tether、Tandem、Speakr、scordcard 更换模版
+- 新增 [[任务总览]]，把 `todo/tasks/` 当前任务整理成未完成、状态不一致、已完成三块；同时将正文已勾选的 `Tandem` 和 `Speakr` 同步为 `done`
+- 将 [[待办事项.base]] 改成主任务操作台，增加“未完成 / 已完成 / 全部任务”三个可编辑视图；[[任务总览]] 改为说明入口，不再维护静态清单
+- 按用户确认，将 [[任务总览]] 改成唯一待办页并按时间分组；删除 `todo/tasks/` 下旧的单任务页，[[待办事项.base]] 改为入口视图
+
 ## 2026-04-22
 
 - 将旧的 `wiki/`、`_index/`、`outputs/` 和 `首页.md` 备份到 `_rebuild_backups/2026-04-22-full-rerun/`
@@ -55,7 +69,7 @@
 
 - 清空这一轮 `Clippings/` 里的 7 篇 Linux.do 小说写作系列帖子：规范化到 `raw/web/` 来源包，并新增 7 篇对应来源页
 - 基于这组新来源补出主题页 [[AI 辅助网文写作]]，以及 3 条方法页：[[先按平台和榜单反推样本，再定自己的写法]]、[[先把当前状态和伏笔单独记账，再续写长文本]]、[[先让不同模型交叉找问题，再回写大纲和正文]]
-- 为项目本体补出第一篇正式对象页 [[MyLLMWiki]] 和第一篇正式目标页 [[把 MyLLMWiki 跑成可持续增长的个人 LLM Wiki]]，并新增任务 [[按项目切分 rollout 聊天归档并补对象目标样板]]
+- 为项目本体补出第一篇正式对象页 [[MyLLMWiki]] 和第一篇正式目标页 [[把 MyLLMWiki 跑成可持续增长的个人 LLM Wiki]]，并新增任务“按项目切分 rollout 聊天归档并补对象目标样板”
 - 把 `Clippings/` 里这条只保留到评论层的 Linux.do 生图入口剪藏改分流到 `seeds/inbox/2026-04-28-chatgpt2api-无限生图入口线索.md`，明确它现在只是高波动入口线索，不先误写成正式来源页
 - 从 [[Codex rollout 历史聊天归档（2026-02 至 2026-04）]] 里切出第一份项目级子归档 [[Codex rollout - MyLLMWiki 项目切片（2026-04-13 至 2026-04-23）]]，并回写到 [[MyLLMWiki]]、[[把 MyLLMWiki 跑成可持续增长的个人 LLM Wiki]] 与相关控制面
 - 再从 rollout 总归档里切出 [[Codex rollout - WeBox 项目切片（2026-03-10 至 2026-04-24）]] 和 [[Codex rollout - WhatsBox 项目切片（2026-02-26 至 2026-04-17）]]，并补出 [[WeBox]]、[[WhatsBox]] 两篇对象页，让聊天项目样板从 1 条扩成 3 条
@@ -90,3 +104,82 @@
 - 继续把 [[GitHub - MetaGPT]]、[[GitHub - awesome-ai-dev-prompts]] 和 [[GitHub - awesome-ai-software-development-agents]] 整理成 3 个 repo 来源包和 3 篇来源页；回写 [[Agent 框架设计]] 与 [[AI coding framework]]，区分多角色 SOP 框架、prompt 资料库和 agent 生态导航表
 - 清空 `Clippings/` 剩余 3 篇剪藏：新增 [[Linux.do - APK 与前端 JS 逆向套件和工程方法论 skill]]、[[Linux.do - 自建科学上网教程]]、[[Linux.do - CPA 与 New API 中转站搭建教程]]，全部保持 `review`，只保存来源结构和风险边界，不扩写逆向、翻墙或 API 中转操作指南
 - 继续整理 3 篇新剪藏：新增 [[Linux.do - 简论机器学习前言]]、[[Linux.do - 机器学习之前，先学会看数据]]、[[Linux.do - 产品经理、客户经理以及技术头儿有什么区别]]；两篇机器学习来源合并支撑 `review` 主题 [[机器学习工程入口]]，角色辨析来源先不升方法页
+
+## 2026-05-18
+
+- 复核一批“周报式 AI 大事”口径，只把能确认真实存在、且值得继续跟的部分留下来，不把二手传播里的“最强 / 王炸 / 完全自主 / 本质一样”直接写进正式知识页
+- 回写 [[AI coding framework]]：补进 `Codex / Gemini / WebBridge` 这条“系统级操作代理 + 浏览器控制桥”主线，区分完整框架、系统内置代理方向和浏览器操作基础设施
+- 回写 [[Agent 框架设计]]：补进 `TRINITY` 与 `AutoScientist` 这条“协调器 / 自动实验系统”主线，保守区分多角色 SOP、动态编排和窄边界研究自动化
+- 在 `seeds/inbox/` 新增 [[实时多模态交互线索]]、[[多模态生成能力簇线索]]、[[麻醉语言预测与 AI 类比待验证]] 三张种子卡，接住暂不适合直接升正式来源页的高波动线索
+- 更新 [[主题索引]]、[[待处理]] 和运行日志，把后续需要补正式来源页、补对照来源和筛代表样本的工作挂回控制面
+
+## 2026-05-19
+
+- 为 `Codex / Gemini / WebBridge / TRINITY / AutoScientist` 新建 5 个最小来源包和 5 篇正式来源页，先把 topic 背后的外部样本接回 `raw/web/` 与 `wiki/sources/`
+- 回写 [[AI coding framework]] 与 [[Agent 框架设计]]，把上轮正文里的外部链接换成正式来源页回链，并同步更新主题索引
+- 更新 [[来源索引]]、[[总览]]、[[health-check|健康检查]]、[[待处理]] 和运行日志，把计数、观察点和下一步动作重新对齐到当前仓库状态
+
+## 2026-05-21
+
+- 整理 Hive 资料簇：把项目页迁入 `raw/web/2026-05-21-cslikai-hive/`，把 GitHub README 保存到 `raw/repos/2026-05-21-github-jusperlee-hive/`，把用户放入 `Clippings/` 的 arXiv PDF 复制进 `raw/papers/2026-01-30-arxiv-2601-22599-hive/`
+- 新增来源页 [[CSLikAI - Hive 项目页]]、[[GitHub - Hive]]、[[arXiv - Hive 数据集论文]]，并补出对象页 [[Hive]]
+- 新增主题页 [[音频分离数据集与监督纯度]]，把 Hive 保守整理为“监督信号纯度影响数据效率”的音频分离样本；同时轻量回写 [[机器学习工程入口]]
+- 更新 [[来源索引]]、[[对象索引]]、[[主题索引]]、[[待处理]] 和 [[总览]]；Hugging Face dataset card 本轮连接失败，先作为后续可补边界保留
+
+## 2026-05-25
+
+- 整理用户近期关注的 16 条 GitHub 仓库线索：12 个可访问仓库迁入 `raw/repos/2026-05-25-github-*`，保留 README 快照和基础 metadata
+- 新增 12 篇来源页：[[GitHub - anthropic-cookbook]]、[[GitHub - awesome-chatgpt-prompts]]、[[GitHub - Bytebot]]、[[GitHub - rrweb]]、[[GitHub - Understand Anything]]、[[GitHub - CodeGraph]]、[[GitHub - AI Engineering from Scratch]]、[[GitHub - FinceptTerminal]]、[[GitHub - andrej-karpathy-skills]]、[[GitHub - Presenton]]、[[GitHub - knowledge-work-plugins]]、[[GitHub - Multica]]
+- 新增主题页 [[代码库图谱化理解]] 与 [[AI 工具化知识工作流]]，并回写 [[AI coding framework]]、[[Agent 框架设计]]、[[机器学习工程入口]]
+- 将 `learn-anything/anisora`、`ohmybrew/oh-my-pi`、`sherlock-audit/claude-plugins-official`、`zebbern/free-claude-code` 四个当前 404 仓库名保存为 seed；`nari-labs/multica` 当前 404，但已用可访问的 [[GitHub - Multica]] 承接
+- 更新 [[来源索引]]、[[主题索引]]、[[待处理]] 和 [[总览]]
+- 补入 `alexpate/awesome-design-systems` 与 Apple HIG：新增两个来源包、两篇来源页和主题页 [[设计系统与平台规范]]；Apple HIG 页面保留官方 DocC JSON 快照，awesome list 保留 README 原文快照
+- 将 `Clippings/` 中的 `book-en-print.pdf` 与 `book-zh-print.pdf` 迁入 `raw/books/2026-05-25-prompts-chat-the-prompting-book/`，作为 [[The Prompting Book]] 的中英双语书籍来源包保存
+- 新增 `outputs/reports/2026-05-25-The-Prompting-Book-长书拆解工作层/`，补出范围骨架、章节工作卡、候选池与 page-type screening，暂不把 CoT、few-shot、context engineering 等章节标题硬升概念页
+- 新增来源页 [[The Prompting Book]] 与主题页 [[提示词设计]]，并轻量回写 [[AI 工具化知识工作流]]、[[AI coding framework]]、[[Skill]] 和 [[GitHub - awesome-chatgpt-prompts]]
+- 清空 `Clippings/` 当前有效资料：核对 `2601.22599v1.pdf` 与 Hive 论文包内 PDF hash 一致后移除重复件；迁入两篇 Linux.do 剪藏，新增来源页 [[Linux.do - GPT Image 2.0 生图 50 种风格速查表]] 和 [[Linux.do - AI 产品经理简历与面试建议]]
+- 补齐 5 个 `raw/web/2026-05-19-*` 最小快照来源包的 `metadata.json`，并同步更新 [[提示词设计]]、[[来源索引]]、[[主题索引]]、[[总览]]、首页与 [[health-check|健康检查]]
+
+## 2026-05-28
+
+- 整理用户新关注的 6 条 GitHub 仓库线索：[[GitHub - Sim]]、[[GitHub - MarkItDown]]、[[GitHub - Open Deep Research]]、[[GitHub - ChinaTextbook]]、[[GitHub - system-design-primer]]、[[GitHub - MindsDB]]
+- 新增 6 个 `raw/repos/2026-05-28-github-*` 来源包，保留 README 快照、标准 `metadata.json` 和完整 `github-api.json`
+- 回写 [[Agent 框架设计]] 与 [[AI 工具化知识工作流]]，新增主题页 [[系统设计学习入口]]
+- 对 [[GitHub - ChinaTextbook]] 保持 `review`：只保存来源入口，不下载教材 PDF，不处理为可复用教材包
+
+## 2026-05-29
+
+- 整理用户新关注的 4 条 GitHub 仓库线索：[[GitHub - NewsNow]]、[[GitHub - developer-roadmap]]、[[GitHub - Hyperswitch]]、[[GitHub - Graphiti]]
+- 新增 4 个 `raw/repos/2026-05-29-github-*` 来源包，保留 README 快照、标准 `metadata.json` 和完整 `github-api.json`
+- 新增主题页 [[开发者学习路线图]] 与 [[Agent 记忆与知识图谱]]
+- 回写 [[Agent 框架设计]]、[[AI 工具化知识工作流]]、[[系统设计学习入口]] 与 [[机器学习工程入口]]；Hyperswitch 和 NewsNow 先只保留来源页，不强行升主题
+
+## 2026-06-01
+
+- 整理用户新关注的 12 条 GitHub 仓库线索：其中 [[GitHub - NewsNow]]、[[GitHub - developer-roadmap]] 已存在，未重复入库
+- 新增 8 个 repo 来源包和来源页：[[GitHub - RSSHub]]、[[GitHub - AI Hedge Fund]]、[[GitHub - JavaScript Algorithms]]、[[GitHub - MoneyPrinterTurbo]]、[[GitHub - Harness]]、[[GitHub - Scrapling]]、[[GitHub - github docs]]、[[GitHub - Supermemory]]
+- 新增主题页 [[信息源订阅与内容聚合]]、[[AI 金融研究工具]]、[[算法与数据结构学习入口]]
+- 将 `lumina-ai-inc/hermes-webui` 与 `Mbed-TLS/ECC` 两个 404 仓库名保存为 seed，等待准确 URL
+- 回写 [[AI 工具化知识工作流]] 与 [[Agent 记忆与知识图谱]]；金融、scraping 和短视频自动化相关来源全部保持 `review`
+
+## 2026-06-02
+
+- 整理用户新关注的 5 条 GitHub 仓库线索：[[GitHub - Scrapling]] 已存在，未重复入库
+- 新增 4 个 repo 来源包和来源页：[[GitHub - Impeccable]]、[[GitHub - Compound Engineering]]、[[GitHub - TradingAgents]]、[[GitHub - revfactory Harness]]
+- 回写 [[AI coding framework]]、[[Agent 框架设计]]、[[AI 工具化知识工作流]]、[[AI 金融研究工具]] 与 [[设计系统与平台规范]]
+- TradingAgents 继续按金融研究样本保存，不提供投资建议；revfactory Harness 与已有 [[GitHub - Harness]] 明确区分来源和定位
+
+## 2026-06-03
+
+- 整理用户新关注的 6 条 GitHub 仓库线索：[[GitHub - Supermemory]] 已存在，未重复入库
+- 新增 5 个 repo 来源包和来源页：[[GitHub - ECC]]、[[GitHub - Flowsint]]、[[GitHub - VoxCPM]]、[[GitHub - Machine Learning for Trading]]、[[GitHub - Production Agentic RAG Course]]
+- 新增主题页 [[OSINT 与图谱化调查]] 与 [[语音生成与音频模型]]
+- 回写 [[AI coding framework]]、[[Agent 框架设计]]、[[AI 工具化知识工作流]]、[[Agent 记忆与知识图谱]]、[[AI 金融研究工具]] 与 [[机器学习工程入口]]
+- Flowsint、VoxCPM、Machine Learning for Trading 均保持 `review`：分别保留 OSINT 伦理 / 隐私、声音克隆授权、金融非投资建议边界
+
+## 2026-06-04
+
+- 整理用户新关注的 GitHub 仓库线索：[[GitHub - Aegis]]
+- 新增 `raw/repos/2026-06-04-github-ganyuanran-aegis/` 来源包，保留 README 快照、`github-api.json` 和 `metadata.json`
+- 新增来源页 [[GitHub - Aegis]]，并回写 [[AI coding framework]] 与 [[Agent 框架设计]]
+- Aegis 先作为 method-pack / workflow discipline 样本保存，不写成 runtime、daemon 或最终完成判定器

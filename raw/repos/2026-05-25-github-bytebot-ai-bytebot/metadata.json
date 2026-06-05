@@ -1,0 +1,19 @@
+{
+  "bundle_name": "2026-05-25-github-bytebot-ai-bytebot",
+  "source_type": "repo",
+  "title": "GitHub - bytebot",
+  "source_url": "https://github.com/bytebot-ai/bytebot",
+  "source_domain": "github.com",
+  "owner": "bytebot-ai",
+  "repo": "bytebot",
+  "license": null,
+  "topics": [],
+  "homepage": null,
+  "created": "2026-05-25",
+  "ingested_at": "2026-05-25",
+  "primary_file": "bytebot.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "README snapshot only; repository code tree was not cloned."
+}

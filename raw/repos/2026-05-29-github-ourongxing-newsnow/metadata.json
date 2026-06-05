@@ -1,0 +1,30 @@
+{
+  "bundle_name": "2026-05-29-github-ourongxing-newsnow",
+  "source_type": "repo",
+  "title": "GitHub - newsnow",
+  "source_url": "https://github.com/ourongxing/newsnow",
+  "source_domain": "github.com",
+  "owner": "ourongxing",
+  "repo": "newsnow",
+  "requested_full_name": "ourongxing/newsnow",
+  "canonical_full_name": "ourongxing/newsnow",
+  "description": "Elegant reading of real-time and hottest news",
+  "license": "MIT",
+  "topics": [
+    "elegant",
+    "news"
+  ],
+  "homepage": "https://newsnow.busiyi.world",
+  "stars": 20433,
+  "forks": 5714,
+  "default_branch": "main",
+  "archived": false,
+  "github_updated_at": "2026-05-29T01:55:13Z",
+  "created": "2026-05-29",
+  "ingested_at": "2026-05-29",
+  "primary_file": "newsnow.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "README snapshot only; repository code tree was not cloned. Full GitHub API response preserved in github-api.json."
+}

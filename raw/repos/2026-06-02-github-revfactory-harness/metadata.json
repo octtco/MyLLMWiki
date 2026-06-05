@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-06-02-github-revfactory-harness",
+  "source_type": "repo",
+  "title": "GitHub - revfactory Harness",
+  "source_url": "https://github.com/revfactory/harness",
+  "source_domain": "github.com",
+  "owner": "revfactory",
+  "repo": "harness",
+  "requested_full_name": "revfactory/harness",
+  "canonical_full_name": "revfactory/harness",
+  "created": "2026-06-02",
+  "ingested_at": "2026-06-02",
+  "primary_file": "revfactory-harness.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot captured for knowledge-base review; distinct from harness/harness."
+}

@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-06-04-github-ganyuanran-aegis",
+  "source_type": "repo",
+  "title": "GitHub - Aegis",
+  "source_url": "https://github.com/GanyuanRan/Aegis",
+  "source_domain": "github.com",
+  "owner": "GanyuanRan",
+  "repo": "Aegis",
+  "requested_full_name": "GanyuanRan/Aegis",
+  "canonical_full_name": "GanyuanRan/Aegis",
+  "created": "2026-06-04",
+  "ingested_at": "2026-06-04",
+  "primary_file": "aegis.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot captured for knowledge-base review."
+}

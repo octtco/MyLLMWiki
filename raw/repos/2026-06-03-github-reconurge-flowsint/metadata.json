@@ -1,0 +1,17 @@
+{
+  "bundle_name": "2026-06-03-github-reconurge-flowsint",
+  "source_type": "repo",
+  "title": "GitHub - Flowsint",
+  "source_url": "https://github.com/reconurge/flowsint",
+  "source_domain": "github.com",
+  "owner": "reconurge",
+  "repo": "flowsint",
+  "requested_full_name": "reconurge/flowsint",
+  "canonical_full_name": "reconurge/flowsint",
+  "created": "2026-06-03",
+  "ingested_at": "2026-06-03",
+  "primary_file": "flowsint.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot captured for knowledge-base review; OSINT use must remain ethical and lawful."
+}
