@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-08-github-googleapis-mcp-toolbox",
+  "source_type": "repo",
+  "title": "googleapis/mcp-toolbox",
+  "source_url": "https://github.com/googleapis/mcp-toolbox",
+  "source_domain": "github.com",
+  "author": "googleapis",
+  "created": "2026-06-08",
+  "ingested_at": "2026-06-08",
+  "primary_file": "mcp-toolbox.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "Requested as googleapis/genai-toolbox; GitHub API redirected to googleapis/mcp-toolbox."
+}

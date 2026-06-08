@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-08-github-aaif-goose-goose",
+  "source_type": "repo",
+  "title": "aaif-goose/goose",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "source_domain": "github.com",
+  "author": "aaif-goose",
+  "created": "2026-06-08",
+  "ingested_at": "2026-06-08",
+  "primary_file": "goose.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot fetched from GitHub."
+}

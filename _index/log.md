@@ -183,3 +183,22 @@
 - 新增 `raw/repos/2026-06-04-github-ganyuanran-aegis/` 来源包，保留 README 快照、`github-api.json` 和 `metadata.json`
 - 新增来源页 [[GitHub - Aegis]]，并回写 [[AI coding framework]] 与 [[Agent 框架设计]]
 - Aegis 先作为 method-pack / workflow discipline 样本保存，不写成 runtime、daemon 或最终完成判定器
+
+## 2026-06-05
+
+- 整理用户新关注的 GitHub 仓库线索：[[GitHub - gstack]]
+- 新增 `raw/repos/2026-06-05-github-garrytan-gstack/` 来源包，保留 README 快照、`github-api.json` 和 `metadata.json`
+- 新增来源页 [[GitHub - gstack]]，并回写 [[AI coding framework]] 与 [[Agent 框架设计]]
+- gstack 先作为角色化 AI coding skill stack / 虚拟工程团队流程样本保存；setup、team mode、浏览器、iOS QA、deploy、安全审计和多 host 行为后续再做隔离验证
+- 整理用户新关注的 GitHub 仓库线索：[[GitHub - fishkeeper]]
+- 新增 `raw/repos/2026-06-05-github-frankhuy-fishkeeper/` 来源包，保留 README 快照、`github-api.json` 和 `metadata.json`
+- 新增来源页 [[GitHub - fishkeeper]]，并回写 [[AI 工具化知识工作流]]
+- fishkeeper 先作为闲鱼 / 闲管家开放平台的垂直业务 API skill 样本保存；真实店铺 API 调用、订单操作、平台授权和凭据安全后续再复核
+
+## 2026-06-08
+
+- 整理用户新关注的 17 条 GitHub 仓库线索：10 个可访问仓库迁入 `raw/repos/2026-06-08-github-*`，保留 README 快照、`github-api.json` 和 `metadata.json`
+- 新增 10 篇来源页：[[GitHub - Prompt Engineering Interactive Tutorial]]、[[GitHub - kanata]]、[[GitHub - node-clinic]]、[[GitHub - Vanna]]、[[GitHub - PraisonAI]]、[[GitHub - AIHawk]]、[[GitHub - MCP Toolbox for Databases]]、[[GitHub - open-notebook]]、[[GitHub - goose]]、[[GitHub - whisper.cpp]]
+- 回写 [[AI coding framework]]、[[Agent 框架设计]]、[[AI 工具化知识工作流]]、[[提示词设计]]、[[语音生成与音频模型]] 与 [[机器学习工程入口]]
+- 将 7 个 GitHub API 当前返回 Not Found 的仓库名保存为 seed：`YangLing0818/better-sqlite3`、`Arrowana/WPPluginMaker`、`Crosstalk-Solutions/OpenVPN`、`Leonxlnx/Moxin`、`mvanhorn38/bughunt`、`NousResearch/l1`、`yikart/parseable`
+- Vanna、MCP Toolbox、AIHawk、OpenVPN / bughunt 线索等都保持 `review` 或 seed：数据库、求职自动化、网络部署和安全相关内容不迁出操作教程

@@ -39,7 +39,10 @@ source_pages:
   - GitHub - revfactory Harness
   - GitHub - ECC
   - GitHub - Aegis
-updated: 2026-06-04
+  - GitHub - gstack
+  - GitHub - PraisonAI
+  - GitHub - goose
+updated: 2026-06-08
 ---
 
 # AI coding framework
@@ -90,6 +93,10 @@ updated: 2026-06-04
 
 [[GitHub - Aegis]] 则把框架的重心压到工作纪律：先读 baseline、先明确架构边界、完成前要有新鲜证据、bug 修复要说明 repair 与 retirement。它不是 runtime，也不是最终完成判定器，更像给 AI coding agent 加一层可移植的方法包。
 
+[[GitHub - gstack]] 又把这条线推到“虚拟工程团队”这一侧。它不是只提供一条 prompt 或一个审查命令，而是把 CEO、设计、工程管理、代码审查、QA、安全、发布、文档、retro、browser、spec 和 learn 这些角色 / 工具排进 `Think -> Plan -> Build -> Review -> Test -> Ship -> Reflect` 的顺序流程里。当前更稳的理解是：gstack 是一个角色化 skill stack 样本，说明 AI coding framework 可以把任务进入、计划复核、实现、验收和发布都纳入同一套可调用工作面。
+
+[[GitHub - PraisonAI]] 和 [[GitHub - goose]] 又把框架边界往“可运行 host / workforce”方向推。PraisonAI 更像 agent workforce / workflow automation 平台，goose 更像本地桌面、CLI 和 API 形态的 agent host。它们都能服务 coding，但当前更稳的写法是：AI coding framework 正在和通用 agent host、MCP extension、workflow automation 平台靠近，而不是只剩 IDE 里的代码补全。
+
 ## 当前边界
 
 - 这页现在已经补进 `grill-me + Trellis`、MetaGPT、两个 awesome 仓库这些横向样本，但仍不适合过早写成行业通论。
@@ -103,6 +110,8 @@ updated: 2026-06-04
 - Impeccable、Compound Engineering 和 revfactory Harness 当前只按 README 与 GitHub 元数据整理，未验证安装体验、跨 harness 兼容性或真实项目效果。
 - ECC 当前只按 README 与 GitHub 元数据整理，未验证安装叠加风险、hooks 行为、security scanning 和跨 harness 迁移成本。
 - Aegis 当前只按 README 与 GitHub 元数据整理，未验证多 host 安装、activation mode、TDD routing 或 doctor 检查。
+- gstack 当前只按 README 与 GitHub API 整理；生产力倍数、多 host 覆盖、team mode、browser / iOS / deploy / security 工具链都需要隔离测试后再推荐。
+- PraisonAI 和 goose 当前只按 README 与 GitHub API 整理，未验证真实安装、provider 兼容、MCP 扩展、文件权限、shell 权限或长期任务表现。
 - 当前更适合把这页当成“工作定义页”，不是横向优劣排行榜。
 
 ## 代表性来源
@@ -133,6 +142,9 @@ updated: 2026-06-04
 - [[GitHub - revfactory Harness]]
 - [[GitHub - ECC]]
 - [[GitHub - Aegis]]
+- [[GitHub - gstack]]
+- [[GitHub - PraisonAI]]
+- [[GitHub - goose]]
 
 ## 相关概念
 

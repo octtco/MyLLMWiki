@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-08-github-feder-cr-jobs-applier-ai-agent-aihawk",
+  "source_type": "repo",
+  "title": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+  "source_url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+  "source_domain": "github.com",
+  "author": "feder-cr",
+  "created": "2026-06-08",
+  "ingested_at": "2026-06-08",
+  "primary_file": "aihawk.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot fetched from GitHub; API reports repository archived."
+}

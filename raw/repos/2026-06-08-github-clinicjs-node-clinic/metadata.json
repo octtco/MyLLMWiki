@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-08-github-clinicjs-node-clinic",
+  "source_type": "repo",
+  "title": "clinicjs/node-clinic",
+  "source_url": "https://github.com/clinicjs/node-clinic",
+  "source_domain": "github.com",
+  "author": "clinicjs",
+  "created": "2026-06-08",
+  "ingested_at": "2026-06-08",
+  "primary_file": "node-clinic.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "Requested as nearform/node-clinic; GitHub API redirected to clinicjs/node-clinic."
+}

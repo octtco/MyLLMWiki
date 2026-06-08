@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-08-github-anthropics-prompt-eng-interactive-tutorial",
+  "source_type": "repo",
+  "title": "anthropics/prompt-eng-interactive-tutorial",
+  "source_url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+  "source_domain": "github.com",
+  "author": "anthropics",
+  "created": "2026-06-08",
+  "ingested_at": "2026-06-08",
+  "primary_file": "prompt-eng-interactive-tutorial.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot fetched from GitHub."
+}

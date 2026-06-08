@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-08-github-lfnovo-open-notebook",
+  "source_type": "repo",
+  "title": "lfnovo/open-notebook",
+  "source_url": "https://github.com/lfnovo/open-notebook",
+  "source_domain": "github.com",
+  "author": "lfnovo",
+  "created": "2026-06-08",
+  "ingested_at": "2026-06-08",
+  "primary_file": "open-notebook.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot fetched from GitHub."
+}

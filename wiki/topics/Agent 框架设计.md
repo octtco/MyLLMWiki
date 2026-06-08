@@ -30,7 +30,11 @@ source_pages:
   - GitHub - revfactory Harness
   - GitHub - ECC
   - GitHub - Aegis
-updated: 2026-06-04
+  - GitHub - gstack
+  - GitHub - PraisonAI
+  - GitHub - MCP Toolbox for Databases
+  - GitHub - goose
+updated: 2026-06-08
 ---
 
 # Agent 框架设计
@@ -79,6 +83,10 @@ updated: 2026-06-04
 
 [[GitHub - Aegis]] 与 ECC 相邻，但位置更窄：它把 agent 长任务里的风险压成 baseline、evidence、repair / retirement 和 workflow quality 这些方法约束。这样这页可以把 Aegis 先放在 method-pack / workflow discipline 层，而不是把它写成新的 runtime 或平台。
 
+[[GitHub - gstack]] 则补上另一种组织方式：先不从 runtime 或框架生成器入手，而是把 AI coding host 周围的工作拆成 CEO、设计、工程管理、review、QA、安全、发布、文档和 retro 等角色。它和 MetaGPT 的多角色 SOP 相邻，但更偏 Claude Code / 多 host skill stack；当前适合把它看成“角色化工程流程层”，而不是已经验证过的通用 agent 平台。
+
+[[GitHub - PraisonAI]]、[[GitHub - MCP Toolbox for Databases]] 和 [[GitHub - goose]] 又从三个方向补了 agent 框架的运行面：PraisonAI 把 agents 做成 workforce / flow / dashboard，MCP Toolbox 把数据库访问封装成 MCP server 和 custom tools framework，goose 则把本地 desktop / CLI / API agent host 与 MCP extensions 接起来。它们共同说明：agent 框架设计不只是在模型之间分工，也在工具权限、数据访问、本地执行和可嵌入 API 之间做边界。
+
 ## 当前边界
 
 - 这页目前主要由项目 README、论坛推广帖和 awesome list 入口支撑，外部验证材料还不够。
@@ -93,6 +101,8 @@ updated: 2026-06-04
 - Compound Engineering、TradingAgents 和 revfactory Harness 当前都只读 README 和 GitHub 元数据；金融、安装、生成质量和长期维护成本都需要后续验证。
 - ECC 当前只读 README 和 GitHub 元数据；跨 harness 安装、hook 叠加、权限和上下文成本都需要后续验证。
 - Aegis 当前只读 README 和 GitHub 元数据；多 host skill discovery、doctor 检查和现有项目规则叠加仍需验证。
+- gstack 当前只读 README 和 GitHub API；setup、team mode、browser、iOS QA、deploy、安全审计和多 host 行为都还没在隔离项目里复测。
+- PraisonAI、MCP Toolbox 和 goose 当前都只读 README 与 GitHub API；agent workforce、数据库 MCP、本地执行和扩展生态都需要隔离验证。
 - 当前这页更适合当框架样本页，不适合直接扩成横向结论页。
 
 ## 代表性来源
@@ -115,6 +125,10 @@ updated: 2026-06-04
 - [[GitHub - revfactory Harness]]
 - [[GitHub - ECC]]
 - [[GitHub - Aegis]]
+- [[GitHub - gstack]]
+- [[GitHub - PraisonAI]]
+- [[GitHub - MCP Toolbox for Databases]]
+- [[GitHub - goose]]
 
 ## 相关概念
 

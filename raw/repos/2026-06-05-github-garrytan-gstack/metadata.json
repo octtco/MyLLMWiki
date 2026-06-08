@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-05-github-garrytan-gstack",
+  "source_type": "repo",
+  "title": "garrytan/gstack",
+  "source_url": "https://github.com/garrytan/gstack",
+  "source_domain": "github.com",
+  "author": "garrytan",
+  "created": "2026-06-05",
+  "ingested_at": "2026-06-05",
+  "primary_file": "gstack.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README fetched via GitHub contents API after raw.githubusercontent.com fetch was unreliable in this run."
+}

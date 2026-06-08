@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-05-github-frankhuy-fishkeeper",
+  "source_type": "repo",
+  "title": "FrankHuy/fishkeeper",
+  "source_url": "https://github.com/FrankHuy/fishkeeper",
+  "source_domain": "github.com",
+  "author": "FrankHuy",
+  "created": "2026-06-05",
+  "ingested_at": "2026-06-05",
+  "primary_file": "fishkeeper.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot fetched from GitHub."
+}

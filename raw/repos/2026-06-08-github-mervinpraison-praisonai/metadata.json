@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-08-github-mervinpraison-praisonai",
+  "source_type": "repo",
+  "title": "MervinPraison/PraisonAI",
+  "source_url": "https://github.com/MervinPraison/PraisonAI",
+  "source_domain": "github.com",
+  "author": "MervinPraison",
+  "created": "2026-06-08",
+  "ingested_at": "2026-06-08",
+  "primary_file": "praisonai.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot fetched from GitHub."
+}
