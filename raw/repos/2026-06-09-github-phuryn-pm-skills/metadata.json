@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-phuryn-pm-skills",
+  "source_type": "repo",
+  "title": "GitHub - PM Skills Marketplace",
+  "source_url": "https://github.com/phuryn/pm-skills",
+  "source_domain": "github.com",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "full_name": "phuryn/pm-skills",
+  "default_branch": "main",
+  "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+  "stars": 12792,
+  "language": null,
+  "license": "MIT",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "pm-skills.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

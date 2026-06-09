@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-google-skills",
+  "source_type": "repo",
+  "title": "GitHub - Google Skills",
+  "source_url": "https://github.com/google/skills",
+  "source_domain": "github.com",
+  "owner": "google",
+  "repo": "skills",
+  "full_name": "google/skills",
+  "default_branch": "main",
+  "description": "Agent Skills for Google products and technologies",
+  "stars": 12500,
+  "language": "Python",
+  "license": "Apache-2.0",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "google-skills.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

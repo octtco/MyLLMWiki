@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-andyyyy64-whichllm",
+  "source_type": "repo",
+  "title": "GitHub - whichllm",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "source_domain": "github.com",
+  "owner": "Andyyyy64",
+  "repo": "whichllm",
+  "full_name": "Andyyyy64/whichllm",
+  "default_branch": "main",
+  "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+  "stars": 3537,
+  "language": "Python",
+  "license": "MIT",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "whichllm.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

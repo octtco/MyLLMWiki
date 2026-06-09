@@ -202,3 +202,18 @@
 - 回写 [[AI coding framework]]、[[Agent 框架设计]]、[[AI 工具化知识工作流]]、[[提示词设计]]、[[语音生成与音频模型]] 与 [[机器学习工程入口]]
 - 将 7 个 GitHub API 当前返回 Not Found 的仓库名保存为 seed：`YangLing0818/better-sqlite3`、`Arrowana/WPPluginMaker`、`Crosstalk-Solutions/OpenVPN`、`Leonxlnx/Moxin`、`mvanhorn38/bughunt`、`NousResearch/l1`、`yikart/parseable`
 - Vanna、MCP Toolbox、AIHawk、OpenVPN / bughunt 线索等都保持 `review` 或 seed：数据库、求职自动化、网络部署和安全相关内容不迁出操作教程
+
+## 2026-06-09
+
+- 整理用户新关注的 GitHub 仓库线索：[[GitHub - Noema]]
+- 新增 `raw/repos/2026-06-09-github-happyfox001-noema/` 来源包，保留 README 快照、`github-api.json` 和 `metadata.json`
+- 新增来源页 [[GitHub - Noema]]，并回写 [[Agent 框架设计]]、[[AI 工具化知识工作流]] 与 [[Agent 记忆与知识图谱]]
+- Noema 先作为 voice-first desktop companion / 本地 agent runtime 样本保存；语音管线、桌面权限、插件权限、MCP manager、computer-use / browser-use 和 SQLite 记忆后续再隔离验证
+
+- 整理用户新关注的 10 条 GitHub 仓库线索：全部可访问并迁入 `raw/repos/2026-06-09-github-*`，保留 README 快照、`github-api.json` 和 `metadata.json`
+- 新增 10 篇来源页：[[GitHub - last30days-skill]]、[[GitHub - turbovec]]、[[GitHub - Google Skills]]、[[GitHub - Tolaria]]、[[GitHub - Agent Reach]]、[[GitHub - Personal AI Infrastructure]]、[[GitHub - Career-Ops]]、[[GitHub - PM Skills Marketplace]]、[[GitHub - whichllm]]、[[GitHub - claudesdk-skill]]
+- 回写 [[AI coding framework]]、[[Agent 框架设计]]、[[AI 工具化知识工作流]]、[[Agent 记忆与知识图谱]]、[[提示词设计]] 与 [[机器学习工程入口]]
+- 这批来源全部保持 `review`：多平台抓取、cookie / 认证、个人数据、求职自动化、benchmark、数据库/文件系统权限和 SDK skill 生成效果都待后续隔离验证
+- 补出首批正式案例页：[[MyLLMWiki 分层知识库演化案例]]、[[Hive 音频数据集构造案例]]、[[Career-Ops 求职工作流工具化案例]]
+- 补出首批领域页：[[AI Agent 与编程工作流]]、[[AI 工具化知识工作流]]、[[机器学习工程]]、[[信息聚合与调查]]、[[设计与产品系统]]
+- 补出首批关系页：[[Prompt - 组织为 - Skill]]、[[数据监督纯度 - 影响 - 模型效果]]，并新增 [[案例索引]]、[[领域索引]]、[[关系索引]] 与相关控制面计数

@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-refactoringhq-tolaria",
+  "source_type": "repo",
+  "title": "GitHub - Tolaria",
+  "source_url": "https://github.com/refactoringhq/tolaria",
+  "source_domain": "github.com",
+  "owner": "refactoringhq",
+  "repo": "tolaria",
+  "full_name": "refactoringhq/tolaria",
+  "default_branch": "main",
+  "description": "Desktop app to manage markdown knowledge bases",
+  "stars": 13652,
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "tolaria.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

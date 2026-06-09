@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-mvanhorn-last30days-skill",
+  "source_type": "repo",
+  "title": "GitHub - last30days-skill",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "source_domain": "github.com",
+  "owner": "mvanhorn",
+  "repo": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "default_branch": "main",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "stars": 34842,
+  "language": "Python",
+  "license": "MIT",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "last30days-skill.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

@@ -1,0 +1,14 @@
+{
+  "bundle_name": "2026-06-09-github-happyfox001-noema",
+  "source_type": "repo",
+  "title": "HappyFox001/Noema",
+  "source_url": "https://github.com/HappyFox001/Noema",
+  "source_domain": "github.com",
+  "author": "HappyFox001",
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "noema.md",
+  "api_file": "github-api.json",
+  "status": "raw",
+  "notes": "README and GitHub API snapshot fetched from GitHub."
+}

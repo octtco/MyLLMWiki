@@ -29,7 +29,8 @@ related_goals:
 related_topics: []
 related_methods: []
 related_concepts: []
-related_cases: []
+related_cases:
+  - MyLLMWiki 分层知识库演化案例
 ---
 
 # Codex rollout - MyLLMWiki 项目切片（2026-04-13 至 2026-04-23）
@@ -69,6 +70,7 @@ related_cases: []
 - `切片自` -> [[Codex rollout 历史聊天归档（2026-02 至 2026-04）]]：这是从总归档里切出来的第一份项目级子归档。
 - `补充` -> [[MyLLMWiki]]：它把项目本体是怎么一步步长出结构和控制面的过程补得更清楚了。
 - `支撑` -> [[把 MyLLMWiki 跑成可持续增长的个人 LLM Wiki]]：它直接证明这条目标里关于“对象页 / 目标页 / 聊天切片样板”的那部分已经开始落地。
+- `支撑` -> [[MyLLMWiki 分层知识库演化案例]]：提供该案例的主要过程证据。
 
 ## 原始位置
 

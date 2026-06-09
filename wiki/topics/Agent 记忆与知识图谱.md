@@ -14,10 +14,13 @@ related_concepts:
   - 可观测性
 related_relations: []
 source_pages:
+  - GitHub - Personal AI Infrastructure
+  - GitHub - turbovec
   - GitHub - Graphiti
   - GitHub - Supermemory
   - GitHub - Production Agentic RAG Course
-updated: 2026-06-03
+  - GitHub - Noema
+updated: 2026-06-09
 ---
 
 # Agent 记忆与知识图谱
@@ -40,19 +43,29 @@ updated: 2026-06-03
 
 [[GitHub - Production Agentic RAG Course]] 则补了更教学化的工程路径：先用 OpenSearch / BM25 打底，再做 chunking、hybrid search、RAG、Langfuse tracing、Redis caching，最后加入 LangGraph 的 document grading、query rewriting 和 out-of-domain guardrails。它不直接等于 agent memory 产品，但能补这页里 retrieval layer 和 agentic RAG 的生产化练习样本。
 
+[[GitHub - Noema]] 提供的是更轻的一层本地持久记忆样本：README 里提到 SQLite 保存 conversation turns、summaries、user profile 和 task runs。它还不到 Graphiti 那种 temporal context graph，也不是 Supermemory 那种 memory / context API，但能说明桌面 companion 需要把对话记忆、用户画像和任务运行记录接进交互体验里。
+
+[[GitHub - turbovec]] 从索引层补了一块：agent memory 和 RAG 要长期可用，不只需要“记住”，还要处理向量压缩、候选过滤、dense rerank、召回率和延迟。[[GitHub - Personal AI Infrastructure]] 则从个人基建侧补充 memory that compounds 和 filesystem context 这类理念，但当前还不能等同于已验证的图谱记忆系统。
+
 ## 当前边界
 
-- 当前只有 Graphiti、Supermemory 和 Production Agentic RAG Course 三个来源支撑，先不把“知识图谱”“GraphRAG”“context graph”拆成独立概念页。
+- 当前只有 Graphiti、Supermemory、Production Agentic RAG Course 和 Noema 四个来源支撑，先不把“知识图谱”“GraphRAG”“context graph”拆成独立概念页。
 - README 对 GraphRAG 的比较和低延迟口径未复测。
 - Supermemory 的 benchmark 排名、隐私边界和连接器权限没有实测。
 - Production Agentic RAG Course 的 Docker、OpenSearch、Langfuse、Redis 和 Telegram Bot 链路未实测。
+- Noema 的 SQLite 记忆、用户画像和 task runs 只按 README 保存，未验证隐私、清理、导出或权限边界。
 - 这页暂时只组织 agent memory 方向，不讨论通用知识图谱工程。
+
+- turbovec 的 recall、compression 和 speed benchmark 未复测；Personal AI Infrastructure 的 memory / filesystem context 当前仍是 README 理念与项目入口，未验证实现边界。
 
 ## 代表性来源
 
+- [[GitHub - Personal AI Infrastructure]]
+- [[GitHub - turbovec]]
 - [[GitHub - Graphiti]]
 - [[GitHub - Supermemory]]
 - [[GitHub - Production Agentic RAG Course]]
+- [[GitHub - Noema]]
 
 ## 相关概念
 

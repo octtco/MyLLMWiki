@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-ryancodrai-turbovec",
+  "source_type": "repo",
+  "title": "GitHub - turbovec",
+  "source_url": "https://github.com/RyanCodrai/turbovec",
+  "source_domain": "github.com",
+  "owner": "RyanCodrai",
+  "repo": "turbovec",
+  "full_name": "RyanCodrai/turbovec",
+  "default_branch": "main",
+  "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+  "stars": 9027,
+  "language": "Python",
+  "license": "MIT",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "turbovec.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

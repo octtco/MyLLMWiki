@@ -12,7 +12,7 @@
 ## 已确认正常
 
 - 首页、总览、维护协议、README、对象索引、目标索引和方法索引已经统一到同一版结构口径
-- 当前计数已经重新对齐：113 个来源页、5 个正式对象页、1 个正式目标页、18 个主题页、14 个方法页、29 个概念页、23 个输出页、70 个待处理项
+- 当前计数已经重新对齐：124 个来源页、5 个正式对象页、1 个正式目标页、18 个主题页、14 个方法页、29 个概念页、3 个案例页、5 个领域页、2 个关系页、23 个输出页、81 个待处理项
 - 来源页都已经重新接回索引
 - `wiki/methods/` 不再是空目录，当前已有 14 篇正式方法页
 - 《工程控制论》相关的来源页、主题页、方法页、概念页之间已经接回显式链接
@@ -39,9 +39,16 @@
 - 2026-06-04 这一轮新增 1 个 GitHub repo 来源包，保留 README 快照和 GitHub API 原始响应
 - 2026-06-05 这一轮新增 2 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应
 - 2026-06-08 这一轮新增 10 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应；另有 7 个 GitHub API 返回 Not Found 的仓库名保存为 seed 待核实
+- 2026-06-09 这一轮新增 1 个 GitHub repo 来源包，保留 README 快照和 GitHub API 原始响应
 
+- 2026-06-09 这一轮新增 10 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应
+- 2026-06-09 这一轮补出首批正式案例页、领域页和关系页，并新增对应索引；三类页面不再是空目录
 ## 需持续观察
 
+- [[GitHub - last30days-skill]]、[[GitHub - Agent Reach]]、[[GitHub - Google Skills]]、[[GitHub - PM Skills Marketplace]] 和 [[GitHub - claudesdk-skill]] 当前只作为 skill / connector 样本保存，未验证安装、认证、平台条款或跨 host 行为
+- [[GitHub - Career-Ops]] 当前只作为求职流程工具化样本保存，个人数据、身份真实性、平台规则和人工审核边界仍需复核
+- [[GitHub - turbovec]] 与 [[GitHub - whichllm]] 当前只作为检索 / 本地模型选型样本保存，benchmark、硬件映射和任务质量仍需本机验证
+- [[GitHub - Tolaria]] 与 [[GitHub - Personal AI Infrastructure]] 当前只作为 markdown knowledge base 桌面管理和个人 AI 基建样本保存，未验证与现有 vault / 文件系统上下文 / 记忆循环的兼容性
 - 《工程控制论》这一组方法和概念目前仍主要由单一来源支撑，跨到项目、学习、组织场景时仍应保持低强度表述
 - `逻辑控制`、`有限自动机`、`信息`、`大系统` 这些更大的后段线索，后续若要升更高层页面，最好等更多来源一起补进来
 - `AI coding framework` 和 `Agent 框架设计` 这两页目前仍主要由项目方来源与论坛帖支撑，后续要靠更多外部样本来稳
@@ -76,3 +83,4 @@
 - [[GitHub - Vanna]] 与 [[GitHub - MCP Toolbox for Databases]] 当前只作为数据库 AI / MCP 工具样本保存，未验证只读权限、审计、鉴权和真实数据库风险
 - [[GitHub - AIHawk]] 当前只作为求职自动化高风险样本保存，仓库已 archived，不迁出自动投递步骤
 - [[GitHub - kanata]]、[[GitHub - node-clinic]]、[[GitHub - PraisonAI]]、[[GitHub - open-notebook]]、[[GitHub - goose]] 和 [[GitHub - whisper.cpp]] 均未做本地安装或最小运行验证
+- [[GitHub - Noema]] 当前只作为 voice-first desktop companion / 本地 agent runtime 样本保存，未验证语音管线、桌面权限、插件权限和本地记忆边界

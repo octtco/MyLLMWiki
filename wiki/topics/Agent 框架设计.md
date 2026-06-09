@@ -12,6 +12,11 @@ related_concepts:
   - 自进化 Agent
   - Skill
 source_pages:
+  - GitHub - claudesdk-skill
+  - GitHub - Personal AI Infrastructure
+  - GitHub - Agent Reach
+  - GitHub - Google Skills
+  - GitHub - last30days-skill
   - GitHub - GenericAgent
   - Linux.do - GenericAgent 仅仅~3K 行代码 Self-Evolving Agent
   - GitHub - MetaGPT
@@ -34,7 +39,8 @@ source_pages:
   - GitHub - PraisonAI
   - GitHub - MCP Toolbox for Databases
   - GitHub - goose
-updated: 2026-06-08
+  - GitHub - Noema
+updated: 2026-06-09
 ---
 
 # Agent 框架设计
@@ -87,6 +93,10 @@ updated: 2026-06-08
 
 [[GitHub - PraisonAI]]、[[GitHub - MCP Toolbox for Databases]] 和 [[GitHub - goose]] 又从三个方向补了 agent 框架的运行面：PraisonAI 把 agents 做成 workforce / flow / dashboard，MCP Toolbox 把数据库访问封装成 MCP server 和 custom tools framework，goose 则把本地 desktop / CLI / API agent host 与 MCP extensions 接起来。它们共同说明：agent 框架设计不只是在模型之间分工，也在工具权限、数据访问、本地执行和可嵌入 API 之间做边界。
 
+[[GitHub - Noema]] 再补一个更偏交互层的样本：它把 agent 设计成 voice-first desktop companion，把情绪 / 人格回复、任务 runtime、语音管线、SQLite 记忆、工具插件、browser-use、computer-use 和 MCP 管理放在同一个桌面运行面里。这个样本提醒这页：agent 框架不只要管理任务和工具，也要管理中断、语音输出、人格层和真实桌面权限。
+
+这批新增来源把 agent 框架的“外部能力层”继续拆开。[[GitHub - last30days-skill]] 和 [[GitHub - Agent Reach]] 都在处理 agent 如何看见外部互联网，但前者偏最近 30 天研究 brief，后者偏多平台 channel connector；[[GitHub - Google Skills]] 则说明平台方产品能力也可以被包装成 skills。[[GitHub - Personal AI Infrastructure]] 把 agent 放到个人 Life OS / Digital Assistant 语境里，[[GitHub - claudesdk-skill]] 则展示用 skill 承接 SDK 文档并生成垂直 webapp 的实验路线。
+
 ## 当前边界
 
 - 这页目前主要由项目 README、论坛推广帖和 awesome list 入口支撑，外部验证材料还不够。
@@ -103,10 +113,18 @@ updated: 2026-06-08
 - Aegis 当前只读 README 和 GitHub 元数据；多 host skill discovery、doctor 检查和现有项目规则叠加仍需验证。
 - gstack 当前只读 README 和 GitHub API；setup、team mode、browser、iOS QA、deploy、安全审计和多 host 行为都还没在隔离项目里复测。
 - PraisonAI、MCP Toolbox 和 goose 当前都只读 README 与 GitHub API；agent workforce、数据库 MCP、本地执行和扩展生态都需要隔离验证。
+- Noema 当前只读 README 与 GitHub API；voice pipeline、desktop permissions、SQLite memory、computer-use / browser-use 和 MCP manager 都需要隔离验证。
 - 当前这页更适合当框架样本页，不适合直接扩成横向结论页。
+
+- last30days-skill、Agent Reach、Google Skills、Personal AI Infrastructure 和 claudesdk-skill 当前都只按 README 与 GitHub API 整理；多平台抓取、平台认证、个人 AI 基建和 SDK skill 生成效果仍待隔离验证。
 
 ## 代表性来源
 
+- [[GitHub - claudesdk-skill]]
+- [[GitHub - Personal AI Infrastructure]]
+- [[GitHub - Agent Reach]]
+- [[GitHub - Google Skills]]
+- [[GitHub - last30days-skill]]
 - [[GitHub - GenericAgent]]
 - [[Linux.do - GenericAgent 仅仅~3K 行代码 Self-Evolving Agent]]
 - [[GitHub - MetaGPT]]
@@ -129,6 +147,7 @@ updated: 2026-06-08
 - [[GitHub - PraisonAI]]
 - [[GitHub - MCP Toolbox for Databases]]
 - [[GitHub - goose]]
+- [[GitHub - Noema]]
 
 ## 相关概念
 

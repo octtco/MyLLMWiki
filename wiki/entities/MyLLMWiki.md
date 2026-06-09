@@ -18,7 +18,8 @@ related_methods:
   - 先把当前状态和伏笔单独记账，再续写长文本
 related_concepts:
   - Skill
-related_cases: []
+related_cases:
+  - MyLLMWiki 分层知识库演化案例
 updated: 2026-04-29
 ---
 
@@ -73,6 +74,7 @@ updated: 2026-04-29
 
 - [[Skill]]
 - [[先把当前状态和伏笔单独记账，再续写长文本]]
+- [[MyLLMWiki 分层知识库演化案例]]
 
 ## 关系
 

@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-liangdabiao-claudesdk-skill",
+  "source_type": "repo",
+  "title": "GitHub - claudesdk-skill",
+  "source_url": "https://github.com/liangdabiao/claudesdk-skill",
+  "source_domain": "github.com",
+  "owner": "liangdabiao",
+  "repo": "claudesdk-skill",
+  "full_name": "liangdabiao/claudesdk-skill",
+  "default_branch": "main",
+  "description": "探索 Claude Agent SDK 能力的实验项目。通过 Skill 系统让 AI 理解 SDK 文档，进而自主构建了一个 TikHub 社交媒体数据对话助手。  本项目是利用 .claude/skills/claude-agent-sdk 建立 claude-agent-sdk 项目， 项目基于 https://github.com/liangdabiao/tikhub_api_skill  tikhub skill 封装成 webapp。 ",
+  "stars": 21,
+  "language": "Python",
+  "license": null,
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "claudesdk-skill.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo/tasks/任务总览.md",
-                "mode": "source",
-                "source": false
+                "file": "wiki/topics/算法与数据结构学习入口.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "任务总览"
+              "title": "算法与数据结构学习入口"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo/tasks/任务总览.md",
+                "file": "wiki/topics/算法与数据结构学习入口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "任务总览 的反向链接列表"
+              "title": "算法与数据结构学习入口 的反向链接列表"
             }
           },
           {
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +185,11 @@
   },
   "active": "d82e2fa099a8c1ad",
   "lastOpenFiles": [
-    "todo/待办事项.base",
+    "_index/主题索引.md",
+    "_index/总览.md",
+    "raw/repos/2026-06-01-github-trekhleb-javascript-algorithms/javascript-algorithms.md",
     "todo/tasks/任务总览.md",
+    "todo/待办事项.base",
     "wiki/sources/GitHub - fishkeeper.md",
     "raw/repos/2026-06-05-github-frankhuy-fishkeeper/metadata.json",
     "raw/repos/2026-06-05-github-frankhuy-fishkeeper/github-api.json",
@@ -218,8 +221,6 @@
     "wiki/sources/GitHub - MarkItDown.md",
     "wiki/sources/GitHub - Sim.md",
     "raw/repos/2026-05-28-github-microsoft-markitdown/markitdown.md",
-    "raw/repos/2026-05-28-github-donnemartin-system-design-primer/system-design-primer.md",
-    "raw/repos/2026-05-28-github-mindsdb-mindsdb/minds-platform.md",
     "raw/web/2026-05-21-cslikai-hive/images/results.png",
     "raw/web/2026-05-21-cslikai-hive/images/bee.png",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/003.jpg",

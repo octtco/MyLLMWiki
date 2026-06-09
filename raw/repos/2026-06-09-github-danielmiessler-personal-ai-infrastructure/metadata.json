@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-danielmiessler-personal-ai-infrastructure",
+  "source_type": "repo",
+  "title": "GitHub - Personal AI Infrastructure",
+  "source_url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+  "source_domain": "github.com",
+  "owner": "danielmiessler",
+  "repo": "Personal_AI_Infrastructure",
+  "full_name": "danielmiessler/Personal_AI_Infrastructure",
+  "default_branch": "main",
+  "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+  "stars": 15481,
+  "language": "TypeScript",
+  "license": "MIT",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "personal-ai-infrastructure.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

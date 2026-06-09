@@ -22,7 +22,8 @@ related_topics:
   - AI 工具化知识工作流
   - 提示词设计
 related_cases: []
-related_relations: []
+related_relations:
+  - Prompt - 组织为 - Skill
 ---
 
 # GitHub - awesome-chatgpt-prompts

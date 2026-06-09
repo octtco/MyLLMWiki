@@ -13,6 +13,8 @@ related_concepts:
   - Spec
   - Skill
 source_pages:
+  - GitHub - claudesdk-skill
+  - GitHub - Google Skills
   - GitHub - Trellis
   - Trellis Doc - 中文文档
   - GitHub - grill-me
@@ -42,7 +44,7 @@ source_pages:
   - GitHub - gstack
   - GitHub - PraisonAI
   - GitHub - goose
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # AI coding framework
@@ -97,6 +99,8 @@ updated: 2026-06-08
 
 [[GitHub - PraisonAI]] 和 [[GitHub - goose]] 又把框架边界往“可运行 host / workforce”方向推。PraisonAI 更像 agent workforce / workflow automation 平台，goose 更像本地桌面、CLI 和 API 形态的 agent host。它们都能服务 coding，但当前更稳的写法是：AI coding framework 正在和通用 agent host、MCP extension、workflow automation 平台靠近，而不是只剩 IDE 里的代码补全。
 
+[[GitHub - Google Skills]] 和 [[GitHub - claudesdk-skill]] 又补了 skill 生态的两侧：前者是平台方把 Google 产品和技术能力整理成 Agent Skills，后者是个人实验项目把 Claude Agent SDK 文档、skill 和 webapp scaffold 串起来。它们共同说明，AI coding framework 的能力层正在从“项目内 prompt / rule”扩展到“平台 skill collection”和“SDK 理解型 skill”。
+
 ## 当前边界
 
 - 这页现在已经补进 `grill-me + Trellis`、MetaGPT、两个 awesome 仓库这些横向样本，但仍不适合过早写成行业通论。
@@ -114,8 +118,12 @@ updated: 2026-06-08
 - PraisonAI 和 goose 当前只按 README 与 GitHub API 整理，未验证真实安装、provider 兼容、MCP 扩展、文件权限、shell 权限或长期任务表现。
 - 当前更适合把这页当成“工作定义页”，不是横向优劣排行榜。
 
+- Google Skills 和 claudesdk-skill 当前只按 README 与 GitHub API 整理，未验证具体 skill、认证、SDK 文档理解或端到端 webapp 生成。
+
 ## 代表性来源
 
+- [[GitHub - claudesdk-skill]]
+- [[GitHub - Google Skills]]
 - [[GitHub - Trellis]]
 - [[Trellis Doc - 中文文档]]
 - [[GitHub - grill-me]]

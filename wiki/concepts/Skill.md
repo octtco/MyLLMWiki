@@ -17,6 +17,8 @@ related_topics:
   - AI coding framework
   - Agent 框架设计
   - 提示词设计
+related_relations:
+  - Prompt - 组织为 - Skill
 source_pages:
   - GitHub - Trellis
   - GitHub - grill-me
@@ -63,6 +65,7 @@ updated: 2026-05-25
 - 它不一定只负责“加新能力”，也可能负责减少默认错误。
 - 它不一定只发生在执行阶段，也可能先发生在任务进入框架之前。
 - 它也不等于 prompt 收藏夹；只有当文本能力被放进可调用流程和执行纪律里，才更接近 skill。
+- 从 prompt 到 skill 的迁移关系，单独见 [[Prompt - 组织为 - Skill]]。
 
 ## 关系
 
@@ -99,3 +102,7 @@ updated: 2026-05-25
 - [[AI coding framework]]
 - [[Agent 框架设计]]
 - [[提示词设计]]
+
+## 相关关系
+
+- [[Prompt - 组织为 - Skill]]

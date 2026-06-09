@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-santifer-career-ops",
+  "source_type": "repo",
+  "title": "GitHub - Career-Ops",
+  "source_url": "https://github.com/santifer/career-ops",
+  "source_domain": "github.com",
+  "owner": "santifer",
+  "repo": "career-ops",
+  "full_name": "santifer/career-ops",
+  "default_branch": "main",
+  "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+  "stars": 50630,
+  "language": "JavaScript",
+  "license": "MIT",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "career-ops.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

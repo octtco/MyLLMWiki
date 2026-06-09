@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-09-github-panniantong-agent-reach",
+  "source_type": "repo",
+  "title": "GitHub - Agent Reach",
+  "source_url": "https://github.com/Panniantong/Agent-Reach",
+  "source_domain": "github.com",
+  "owner": "Panniantong",
+  "repo": "Agent-Reach",
+  "full_name": "Panniantong/Agent-Reach",
+  "default_branch": "main",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+  "stars": 24370,
+  "language": "Python",
+  "license": "MIT",
+  "archived": false,
+  "created": "2026-06-09",
+  "ingested_at": "2026-06-09",
+  "primary_file": "agent-reach.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata."
+}

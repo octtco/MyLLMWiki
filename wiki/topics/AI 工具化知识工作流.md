@@ -14,8 +14,20 @@ related_methods: []
 related_concepts:
   - Skill
   - 可观测性
-related_relations: []
+related_cases:
+  - Career-Ops 求职工作流工具化案例
+related_relations:
+  - Prompt - 组织为 - Skill
 source_pages:
+  - GitHub - claudesdk-skill
+  - GitHub - whichllm
+  - GitHub - PM Skills Marketplace
+  - GitHub - Career-Ops
+  - GitHub - Personal AI Infrastructure
+  - GitHub - Agent Reach
+  - GitHub - Tolaria
+  - GitHub - Google Skills
+  - GitHub - last30days-skill
   - GitHub - anthropic-cookbook
   - GitHub - awesome-chatgpt-prompts
   - GitHub - knowledge-work-plugins
@@ -39,7 +51,8 @@ source_pages:
   - GitHub - AIHawk
   - GitHub - MCP Toolbox for Databases
   - GitHub - open-notebook
-updated: 2026-06-08
+  - GitHub - Noema
+updated: 2026-06-09
 ---
 
 # AI 工具化知识工作流
@@ -78,8 +91,23 @@ updated: 2026-06-08
 
 第十段是自动化业务流程。[[GitHub - PraisonAI]] 把 agent workforce、flow builder 和 dashboard 放进多 agent 工作流；[[GitHub - AIHawk]] 则把求职投递流程自动化作为高风险样本。前者提醒 workflow automation 正在平台化，后者提醒一旦 AI 代替人和外部平台交互，就会碰到平台条款、身份真实性、反滥用和个人数据安全。
 
+第十一段是桌面陪伴式 runtime。[[GitHub - Noema]] 把语音对话、持久记忆、任务执行、插件工具、browser / computer use 和人格化输出放进桌面应用里。它不像单次生成工具，也不像纯研究工作台，更像把 AI 工具化工作流做成一个持续在场的本地交互层；但这类形态会直接碰到麦克风、桌面控制、shell、浏览器和 API key 权限。
+
+第十二段是 skill 市场和个人基础设施。[[GitHub - last30days-skill]]、[[GitHub - Google Skills]]、[[GitHub - Agent Reach]]、[[GitHub - PM Skills Marketplace]] 和 [[GitHub - claudesdk-skill]] 都把能力做成可安装 skill / plugin / connector；[[GitHub - Personal AI Infrastructure]] 则把文件系统、记忆、skills 和自我改进循环组织成个人 AI 基建。[[GitHub - Tolaria]] 提醒 markdown 知识库本身也需要桌面管理工具，[[GitHub - Career-Ops]] 和 [[GitHub - whichllm]] 分别把求职流程和本地模型选型变成可工具化的工作流。
+
+- last30days-skill、Google Skills、Tolaria、Agent Reach、Personal AI Infrastructure、Career-Ops、PM Skills Marketplace、whichllm 和 claudesdk-skill 当前都只按 README 与 GitHub API 整理，未做安装、权限、平台条款或真实任务验证。
+
 ## 代表性来源
 
+- [[GitHub - claudesdk-skill]]
+- [[GitHub - whichllm]]
+- [[GitHub - PM Skills Marketplace]]
+- [[GitHub - Career-Ops]]
+- [[GitHub - Personal AI Infrastructure]]
+- [[GitHub - Agent Reach]]
+- [[GitHub - Tolaria]]
+- [[GitHub - Google Skills]]
+- [[GitHub - last30days-skill]]
 - [[GitHub - anthropic-cookbook]]
 - [[GitHub - awesome-chatgpt-prompts]]
 - [[GitHub - knowledge-work-plugins]]
@@ -103,6 +131,11 @@ updated: 2026-06-08
 - [[GitHub - AIHawk]]
 - [[GitHub - MCP Toolbox for Databases]]
 - [[GitHub - open-notebook]]
+- [[GitHub - Noema]]
+
+## 代表案例
+
+- [[Career-Ops 求职工作流工具化案例]]
 
 ## 当前边界
 
@@ -114,6 +147,7 @@ updated: 2026-06-08
 - fishkeeper 这类电商运营 API skill 还要单独复核平台授权、店铺数据安全、订单操作风险和凭据管理边界。
 - Vanna 和 MCP Toolbox 这类数据库工具必须先按只读、样例库、最小权限和审计日志复核。
 - AIHawk 这类求职自动化工具涉及平台条款、招聘公平性、身份真实性和个人数据安全，当前不迁出操作步骤。
+- Noema 这类桌面 companion 工具要单独复核麦克风、语音供应商、插件权限、shell / browser / computer-use 和本地记忆边界。
 
 ## 后续可追的问题
 
@@ -145,6 +179,25 @@ updated: 2026-06-08
 - `待验证` <- [[GitHub - AIHawk]]：提供求职自动化 agent 的高风险边界样本。
 - `支持` <- [[GitHub - MCP Toolbox for Databases]]：提供数据库 MCP server 和 custom tools framework 样本。
 - `支持` <- [[GitHub - open-notebook]]：提供自托管研究工作台 / Notebook LM 替代样本。
+- `补充` <- [[GitHub - Noema]]：提供 voice-first desktop companion 和本地插件 runtime 样本。
+
+- `补充` <- [[GitHub - last30days-skill]]：提供近期互联网研究 skill / HTML brief 样本。
+
+- `补充` <- [[GitHub - Google Skills]]：提供平台方 agent skill collection 样本。
+
+- `补充` <- [[GitHub - Tolaria]]：提供 Markdown knowledge base 桌面管理工具样本。
+
+- `补充` <- [[GitHub - Agent Reach]]：提供多平台信息渠道 connector / skill 样本。
+
+- `补充` <- [[GitHub - Personal AI Infrastructure]]：提供个人 AI 基建 / Life OS 样本。
+
+- `待验证` <- [[GitHub - Career-Ops]]：提供求职流程自动化高隐私边界样本。
+
+- `补充` <- [[GitHub - PM Skills Marketplace]]：提供 PM skills / commands / plugins 市场样本。
+
+- `补充` <- [[GitHub - whichllm]]：提供本地 LLM 选型脚本化样本。
+
+- `补充` <- [[GitHub - claudesdk-skill]]：提供 SDK 文档 skill 化并生成垂直 webapp 的实验样本。
 
 ## 相关概念
 
