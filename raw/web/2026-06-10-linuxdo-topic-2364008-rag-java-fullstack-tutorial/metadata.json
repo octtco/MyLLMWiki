@@ -1,0 +1,16 @@
+{
+  "bundle_name": "2026-06-10-linuxdo-topic-2364008-rag-java-fullstack-tutorial",
+  "source_type": "web",
+  "title": "【开源、教程】RAG全流程实现（java+完整代码）",
+  "source_url": "https://linux.do/t/topic/2364008",
+  "source_domain": "linux.do",
+  "author": "worenbudaoni",
+  "published": "2026-06-10",
+  "created": "2026-06-10",
+  "ingested_at": "2026-06-10",
+  "primary_file": "rag-java-fullstack-tutorial.md",
+  "image_count": 6,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "主帖正文 + 评论区切片（22-30 楼）合并保存；6 张内容图（GitHub 仓库卡片、RAG 流程图、问题重写歧义讨论截图、3 张测试截图）已本地化；emoji 表情图按论坛图片过滤规则保留远程链接。配套开源仓库 https://github.com/worenbudaoni/rag-study-helper 本轮未做 repo 快照。"
+}

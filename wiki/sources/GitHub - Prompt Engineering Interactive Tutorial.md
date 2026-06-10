@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-08-github-anthropics-prompt-eng-interactive-tutorial/prompt-eng-interactive-tutorial.md
 source_type: repo
 source_url: https://github.com/anthropics/prompt-eng-interactive-tutorial

@@ -13,6 +13,7 @@ related_concepts:
   - Spec
   - Skill
 source_pages:
+  - GitHub - system-prompts-and-models-of-ai-tools
   - GitHub - claudesdk-skill
   - GitHub - Google Skills
   - GitHub - Trellis
@@ -101,6 +102,8 @@ updated: 2026-06-09
 
 [[GitHub - Google Skills]] 和 [[GitHub - claudesdk-skill]] 又补了 skill 生态的两侧：前者是平台方把 Google 产品和技术能力整理成 Agent Skills，后者是个人实验项目把 Claude Agent SDK 文档、skill 和 webapp scaffold 串起来。它们共同说明，AI coding framework 的能力层正在从“项目内 prompt / rule”扩展到“平台 skill collection”和“SDK 理解型 skill”。
 
+[[GitHub - system-prompts-and-models-of-ai-tools]] 从另一个角度提醒：coding agent 和 AI 工具的 system prompt / internal tools 会塑造框架行为，但泄露集合不能被当成官方接口或稳定设计文档。对框架研究更有用的是它暴露出的安全治理问题，而不是逐条复刻其中内容。
+
 ## 当前边界
 
 - 这页现在已经补进 `grill-me + Trellis`、MetaGPT、两个 awesome 仓库这些横向样本，但仍不适合过早写成行业通论。
@@ -122,6 +125,7 @@ updated: 2026-06-09
 
 ## 代表性来源
 
+- [[GitHub - system-prompts-and-models-of-ai-tools]]
 - [[GitHub - claudesdk-skill]]
 - [[GitHub - Google Skills]]
 - [[GitHub - Trellis]]

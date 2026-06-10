@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-03-github-stefan-jansen-machine-learning-for-trading/machine-learning-for-trading.md
 source_type: repo
 source_url: https://github.com/stefan-jansen/machine-learning-for-trading

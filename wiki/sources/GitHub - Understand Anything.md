@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-25-github-lum1104-understand-anything/understand-anything.md
 source_type: repo
 source_url: https://github.com/Lum1104/Understand-Anything

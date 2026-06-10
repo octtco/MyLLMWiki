@@ -12,7 +12,7 @@
 ## 已确认正常
 
 - 首页、总览、维护协议、README、对象索引、目标索引和方法索引已经统一到同一版结构口径
-- 当前计数已经重新对齐：124 个来源页、5 个正式对象页、1 个正式目标页、18 个主题页、14 个方法页、29 个概念页、3 个案例页、5 个领域页、2 个关系页、23 个输出页、81 个待处理项
+- 当前计数已经重新对齐：125 个来源页、5 个正式对象页、1 个正式目标页、18 个主题页、14 个方法页、29 个概念页、3 个案例页、5 个领域页、2 个关系页、23 个输出页、83 个待处理项
 - 来源页都已经重新接回索引
 - `wiki/methods/` 不再是空目录，当前已有 14 篇正式方法页
 - 《工程控制论》相关的来源页、主题页、方法页、概念页之间已经接回显式链接
@@ -43,6 +43,9 @@
 
 - 2026-06-09 这一轮新增 10 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应
 - 2026-06-09 这一轮补出首批正式案例页、领域页和关系页，并新增对应索引；三类页面不再是空目录
+- 2026-06-10 这一轮新增 1 个 GitHub repo 来源包，保留 README 快照和 GitHub API 原始响应；另有 1 个 GitHub API 返回 Not Found 的仓库名保存为 seed 待核实
+- [[GitHub - system-prompts-and-models-of-ai-tools]] 当前只作为 prompt leakage / AI 产品安全边界样本保存，不复刻 system prompts、internal tools 或提取步骤
+- [[2026-06-10-yikart-weclone-待核实|yikart/WeClone]] 当前 GitHub API 返回 Not Found，需拿到准确 URL 后再正式入库
 ## 需持续观察
 
 - [[GitHub - last30days-skill]]、[[GitHub - Agent Reach]]、[[GitHub - Google Skills]]、[[GitHub - PM Skills Marketplace]] 和 [[GitHub - claudesdk-skill]] 当前只作为 skill / connector 样本保存，未验证安装、认证、平台条款或跨 host 行为

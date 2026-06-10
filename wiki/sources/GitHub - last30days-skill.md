@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-09-github-mvanhorn-last30days-skill/last30days-skill.md
 source_type: repo
 source_url: https://github.com/mvanhorn/last30days-skill

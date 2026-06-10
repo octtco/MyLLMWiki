@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-01-github-diygod-rsshub/rsshub.md
 source_type: repo
 source_url: https://github.com/DIYgod/RSSHub

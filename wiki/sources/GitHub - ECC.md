@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-03-github-affaan-m-ecc/ecc.md
 source_type: repo
 source_url: https://github.com/affaan-m/ECC

@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/web/2026-05-21-cslikai-hive/hive.md
 source_type: web
 source_url: https://cslikai.cn/Hive/

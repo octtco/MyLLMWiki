@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/web/2026-04-28-linuxdo-topic-1721500-novel-writing-skill-source/novel-writing-skill-source.md
 source_type: web
 source_url: https://linux.do/t/topic/1721500

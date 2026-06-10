@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/web/2026-05-15-trytrellis-docs-zh/trellis-docs-zh.md
 source_type: web
 source_url: https://docs.trytrellis.app/zh

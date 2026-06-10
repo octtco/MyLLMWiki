@@ -40,7 +40,8 @@ source_pages:
   - GitHub - MCP Toolbox for Databases
   - GitHub - goose
   - GitHub - Noema
-updated: 2026-06-09
+  - Linux.do - Agent 岗位面试题实录（十几家公司）
+updated: 2026-06-10
 ---
 
 # Agent 框架设计
@@ -97,6 +98,8 @@ updated: 2026-06-09
 
 这批新增来源把 agent 框架的“外部能力层”继续拆开。[[GitHub - last30days-skill]] 和 [[GitHub - Agent Reach]] 都在处理 agent 如何看见外部互联网，但前者偏最近 30 天研究 brief，后者偏多平台 channel connector；[[GitHub - Google Skills]] 则说明平台方产品能力也可以被包装成 skills。[[GitHub - Personal AI Infrastructure]] 把 agent 放到个人 Life OS / Digital Assistant 语境里，[[GitHub - claudesdk-skill]] 则展示用 skill 承接 SDK 文档并生成垂直 webapp 的实验路线。
 
+这页的来源此前几乎全是供给侧——框架作者自己说设计该长什么样。[[Linux.do - Agent 岗位面试题实录（十几家公司）]] 第一次补进了需求侧：十几家公司的面试官实际在问什么。题目高频落在多 Agent 取舍（“单个 Agent 也能分配多职能，为什么还要多 Agent”）、上下文治理、RAG 全链路和成本核算（token 消耗、降本幅度、投入产出）上，连 Claude Code 的架构和核心循环也成了考点。这份快照可以用来粗校这页的主线：经验沉淀、多角色编排、运行面治理这几条供给侧路线，确实对应着岗位市场在验收的能力，但市场还额外强调一条这页此前没有单独立起来的线——把 agent 系统的账算清楚。
+
 ## 当前边界
 
 - 这页目前主要由项目 README、论坛推广帖和 awesome list 入口支撑，外部验证材料还不够。
@@ -117,6 +120,7 @@ updated: 2026-06-09
 - 当前这页更适合当框架样本页，不适合直接扩成横向结论页。
 
 - last30days-skill、Agent Reach、Google Skills、Personal AI Infrastructure 和 claudesdk-skill 当前都只按 README 与 GitHub API 整理；多平台抓取、平台认证、个人 AI 基建和 SDK skill 生成效果仍待隔离验证。
+- 面试题实录是单一作者、单一时间窗的样本，题目经录音 AI 转写可能失真；它能粗校方向，不能当岗位市场全貌。
 
 ## 代表性来源
 
@@ -148,6 +152,7 @@ updated: 2026-06-09
 - [[GitHub - MCP Toolbox for Databases]]
 - [[GitHub - goose]]
 - [[GitHub - Noema]]
+- [[Linux.do - Agent 岗位面试题实录（十几家公司）]]
 
 ## 相关概念
 

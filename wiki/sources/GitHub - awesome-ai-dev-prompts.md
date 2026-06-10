@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-15-github-piyushrajyadav-awesome-ai-dev-prompts/awesome-ai-dev-prompts.md
 source_type: repo
 source_url: https://github.com/piyushrajyadav/awesome-ai-dev-prompts

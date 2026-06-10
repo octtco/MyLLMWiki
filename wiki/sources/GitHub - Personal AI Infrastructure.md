@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-09-github-danielmiessler-personal-ai-infrastructure/personal-ai-infrastructure.md
 source_type: repo
 source_url: https://github.com/danielmiessler/Personal_AI_Infrastructure

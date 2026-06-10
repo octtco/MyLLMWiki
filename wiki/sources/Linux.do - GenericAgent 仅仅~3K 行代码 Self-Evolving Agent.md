@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/genericagent-self-evolving-agent.md
 source_type: web
 source_url: https://linux.do/t/topic/1962519

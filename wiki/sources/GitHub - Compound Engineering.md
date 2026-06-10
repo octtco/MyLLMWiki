@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-02-github-everyinc-compound-engineering-plugin/compound-engineering-plugin.md
 source_type: repo
 source_url: https://github.com/EveryInc/compound-engineering-plugin

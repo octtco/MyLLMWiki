@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-28-github-microsoft-markitdown/markitdown.md
 source_type: repo
 source_url: https://github.com/microsoft/markitdown

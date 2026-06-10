@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/web/2026-05-15-linuxdo-topic-2084756-trellis-grill-me-combo/trellis-grill-me-combo.md
 source_type: web
 source_url: https://linux.do/t/topic/2084756

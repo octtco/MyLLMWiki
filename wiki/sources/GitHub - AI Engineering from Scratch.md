@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-25-github-rohitg00-ai-engineering-from-scratch/ai-engineering-from-scratch.md
 source_type: repo
 source_url: https://github.com/rohitg00/ai-engineering-from-scratch

@@ -19,6 +19,7 @@ related_cases:
 related_relations:
   - Prompt - 组织为 - Skill
 source_pages:
+  - GitHub - system-prompts-and-models-of-ai-tools
   - GitHub - claudesdk-skill
   - GitHub - whichllm
   - GitHub - PM Skills Marketplace
@@ -97,8 +98,11 @@ updated: 2026-06-09
 
 - last30days-skill、Google Skills、Tolaria、Agent Reach、Personal AI Infrastructure、Career-Ops、PM Skills Marketplace、whichllm 和 claudesdk-skill 当前都只按 README 与 GitHub API 整理，未做安装、权限、平台条款或真实任务验证。
 
+第十三段是 prompt / tool 泄露带来的安全治理。[[GitHub - system-prompts-and-models-of-ai-tools]] 说明，当 AI 工具把系统提示词、internal tools 和模型路由作为产品内部控制面时，这些内容也会成为外部收集和攻击目标。工具化知识工作流因此不只要看功能，也要看 prompt secrecy、权限隔离、泄露监测和安全响应。
+
 ## 代表性来源
 
+- [[GitHub - system-prompts-and-models-of-ai-tools]]
 - [[GitHub - claudesdk-skill]]
 - [[GitHub - whichllm]]
 - [[GitHub - PM Skills Marketplace]]

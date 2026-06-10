@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-09-github-refactoringhq-tolaria/tolaria.md
 source_type: repo
 source_url: https://github.com/refactoringhq/tolaria

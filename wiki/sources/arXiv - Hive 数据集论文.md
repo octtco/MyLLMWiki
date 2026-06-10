@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/papers/2026-01-30-arxiv-2601-22599-hive/README.md
 source_type: paper
 source_url: https://arxiv.org/abs/2601.22599

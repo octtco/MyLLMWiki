@@ -1,0 +1,22 @@
+{
+  "bundle_name": "2026-06-10-github-x1xhlol-system-prompts-and-models-of-ai-tools",
+  "source_type": "repo",
+  "title": "GitHub - system-prompts-and-models-of-ai-tools",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source_domain": "github.com",
+  "owner": "x1xhlol",
+  "repo": "system-prompts-and-models-of-ai-tools",
+  "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "default_branch": "main",
+  "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+  "stars": 139198,
+  "language": null,
+  "license": "GPL-3.0",
+  "archived": false,
+  "created": "2026-06-10",
+  "ingested_at": "2026-06-10",
+  "primary_file": "system-prompts-and-models-of-ai-tools.md",
+  "file_count": 1,
+  "status": "raw",
+  "notes": "README snapshot fetched from GitHub raw content; github-api.json preserves GitHub REST repository metadata. Treat as sensitive prompt-leak/security-boundary source; do not expand operational extraction details."
+}

@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/web/2026-04-28-linuxdo-topic-2056598-novel-writing-monetization-4/novel-writing-monetization-4.md
 source_type: web
 source_url: https://linux.do/t/topic/2056598

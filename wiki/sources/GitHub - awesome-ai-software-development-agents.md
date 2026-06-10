@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-15-github-flatlogic-awesome-ai-software-development-agents/awesome-ai-software-development-agents.md
 source_type: repo
 source_url: https://github.com/flatlogic/awesome-ai-software-development-agents

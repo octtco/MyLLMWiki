@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-28-github-langchain-ai-open-deep-research/open-deep-research.md
 source_type: repo
 source_url: https://github.com/langchain-ai/open_deep_research

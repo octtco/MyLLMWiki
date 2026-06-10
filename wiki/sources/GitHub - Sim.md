@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-28-github-simstudioai-sim/sim.md
 source_type: repo
 source_url: https://github.com/simstudioai/sim

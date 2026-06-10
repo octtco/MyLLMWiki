@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-21-github-jusperlee-hive/hive.md
 source_type: repo
 source_url: https://github.com/JusperLee/Hive

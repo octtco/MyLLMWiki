@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/web/2026-04-14-linuxdo-topic-1539636-trellis-best-practice/trellis-best-practice.md
 source_type: web
 source_url: https://linux.do/t/topic/1539636

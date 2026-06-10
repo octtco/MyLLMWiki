@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-08-github-ggml-org-whisper-cpp/whisper-cpp.md
 source_type: repo
 source_url: https://github.com/ggml-org/whisper.cpp

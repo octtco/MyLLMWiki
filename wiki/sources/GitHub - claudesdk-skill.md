@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-09-github-liangdabiao-claudesdk-skill/claudesdk-skill.md
 source_type: repo
 source_url: https://github.com/liangdabiao/claudesdk-skill

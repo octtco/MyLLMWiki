@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-05-github-garrytan-gstack/gstack.md
 source_type: repo
 source_url: https://github.com/garrytan/gstack

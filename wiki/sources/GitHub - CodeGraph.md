@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-25-github-colbymchenry-codegraph/codegraph.md
 source_type: repo
 source_url: https://github.com/colbymchenry/codegraph

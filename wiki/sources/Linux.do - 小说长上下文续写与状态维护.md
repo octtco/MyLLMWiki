@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/web/2026-04-28-linuxdo-topic-1721525-novel-writing-continuity/novel-writing-continuity.md
 source_type: web
 source_url: https://linux.do/t/topic/1721525

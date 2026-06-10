@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-06-09-github-phuryn-pm-skills/pm-skills.md
 source_type: repo
 source_url: https://github.com/phuryn/pm-skills

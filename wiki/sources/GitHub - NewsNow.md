@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-29-github-ourongxing-newsnow/newsnow.md
 source_type: repo
 source_url: https://github.com/ourongxing/newsnow

@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/books/2026-05-25-prompts-chat-the-prompting-book/README.md
 source_type: book
 source_url: https://prompts.chat/book

@@ -20,7 +20,8 @@ source_pages:
   - GitHub - Supermemory
   - GitHub - Production Agentic RAG Course
   - GitHub - Noema
-updated: 2026-06-09
+  - Linux.do - RAG 全流程实现教程（Java + 完整代码）
+updated: 2026-06-10
 ---
 
 # Agent 记忆与知识图谱
@@ -43,6 +44,8 @@ updated: 2026-06-09
 
 [[GitHub - Production Agentic RAG Course]] 则补了更教学化的工程路径：先用 OpenSearch / BM25 打底，再做 chunking、hybrid search、RAG、Langfuse tracing、Redis caching，最后加入 LangGraph 的 document grading、query rewriting 和 out-of-domain guardrails。它不直接等于 agent memory 产品，但能补这页里 retrieval layer 和 agentic RAG 的生产化练习样本。
 
+retrieval layer 这条线现在有了第二个技术栈的样本：[[Linux.do - RAG 全流程实现教程（Java + 完整代码）]] 用 Java + LangChain4j 把入库（分割、嵌入、判重）和提问（问题重写、阈值筛选、rerank、prompt 约束）两条流水线完整走了一遍。它和 Production Agentic RAG Course 互证了几个跨技术栈都成立的点：检索用的查询和喂给 LLM 的原始问题应当分离；相似度阈值和 rerank topN 没有标准值，要靠日志观测调；嵌入模型一旦切换，存量向量数据全部作废。
+
 [[GitHub - Noema]] 提供的是更轻的一层本地持久记忆样本：README 里提到 SQLite 保存 conversation turns、summaries、user profile 和 task runs。它还不到 Graphiti 那种 temporal context graph，也不是 Supermemory 那种 memory / context API，但能说明桌面 companion 需要把对话记忆、用户画像和任务运行记录接进交互体验里。
 
 [[GitHub - turbovec]] 从索引层补了一块：agent memory 和 RAG 要长期可用，不只需要“记住”，还要处理向量压缩、候选过滤、dense rerank、召回率和延迟。[[GitHub - Personal AI Infrastructure]] 则从个人基建侧补充 memory that compounds 和 filesystem context 这类理念，但当前还不能等同于已验证的图谱记忆系统。
@@ -54,6 +57,7 @@ updated: 2026-06-09
 - Supermemory 的 benchmark 排名、隐私边界和连接器权限没有实测。
 - Production Agentic RAG Course 的 Docker、OpenSearch、Langfuse、Redis 和 Telegram Bot 链路未实测。
 - Noema 的 SQLite 记忆、用户画像和 task runs 只按 README 保存，未验证隐私、清理、导出或权限边界。
+- RAG 全流程教程的配套仓库 `rag-study-helper` 未做 repo 快照，代码可运行性和选型对照表口径未复核。
 - 这页暂时只组织 agent memory 方向，不讨论通用知识图谱工程。
 
 - turbovec 的 recall、compression 和 speed benchmark 未复测；Personal AI Infrastructure 的 memory / filesystem context 当前仍是 README 理念与项目入口，未验证实现边界。
@@ -66,6 +70,7 @@ updated: 2026-06-09
 - [[GitHub - Supermemory]]
 - [[GitHub - Production Agentic RAG Course]]
 - [[GitHub - Noema]]
+- [[Linux.do - RAG 全流程实现教程（Java + 完整代码）]]
 
 ## 相关概念
 

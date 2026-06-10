@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-28-github-mindsdb-mindsdb/minds-platform.md
 source_type: repo
 source_url: https://github.com/mindsdb/minds-platform

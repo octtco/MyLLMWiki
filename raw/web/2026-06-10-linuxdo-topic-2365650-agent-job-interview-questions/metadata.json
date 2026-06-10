@@ -1,0 +1,16 @@
+{
+  "bundle_name": "2026-06-10-linuxdo-topic-2365650-agent-job-interview-questions",
+  "source_type": "web",
+  "title": "【面试拷打】面试了十几家 Agent 岗位，整理了面试题～",
+  "source_url": "https://linux.do/t/topic/2365650",
+  "source_domain": "linux.do",
+  "author": "guava_16",
+  "published": "2026-05-23",
+  "created": "2026-06-10",
+  "ingested_at": "2026-06-10",
+  "primary_file": "agent-job-interview-questions.md",
+  "image_count": 0,
+  "file_count": 0,
+  "status": "raw",
+  "notes": "主帖正文 + 评论区切片（2-6 楼）一并保存；正文为作者面试录音经 AI 整理的 11 家公司面试题清单，无图片附件。"
+}

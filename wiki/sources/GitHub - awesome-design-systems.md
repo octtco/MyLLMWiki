@@ -1,6 +1,6 @@
 ---
 type: source
-status: review
+status: active
 source_path: raw/repos/2026-05-21-github-alexpate-awesome-design-systems/awesome-design-systems.md
 source_type: repo
 source_url: https://github.com/alexpate/awesome-design-systems
