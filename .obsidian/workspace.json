@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/口播.md",
+                "file": "Clippings/Bili Note：把 B 站视频和图文整理成可追问的 Markdown 笔记.md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "口播"
+              "title": "Bili Note：把 B 站视频和图文整理成可追问的 Markdown 笔记"
             }
           }
         ],
@@ -186,9 +187,13 @@
   },
   "active": "d82e2fa099a8c1ad",
   "lastOpenFiles": [
+    "Clippings/【开源自荐】Marginalia：一个面向私人异构资料库的 AI 检索  调查系统.md",
+    "Clippings/Bili Note：把 B 站视频和图文整理成可追问的 Markdown 笔记.md",
+    "Clippings/Kai丨【2025年眼镜的选择全攻略】v1.0.3.md",
+    "Clippings/混剪.md",
+    "Clippings/口播.md",
     "Pasted image 20260611222544.png",
     "Clippings/初试剪辑.md",
-    "Clippings/口播.md",
     "Clippings/README.md",
     "wiki/topics/算法与数据结构学习入口.md",
     "_index/主题索引.md",
@@ -219,9 +224,6 @@
     "raw/repos/2026-06-02-github-tauricresearch-tradingagents/tradingagents.md",
     "raw/repos/2026-06-02-github-everyinc-compound-engineering-plugin/compound-engineering-plugin.md",
     "raw/repos/2026-06-02-github-pbakaus-impeccable/impeccable.md",
-    "wiki/topics/系统设计学习入口.md",
-    "wiki/sources/GitHub - MindsDB.md",
-    "wiki/sources/GitHub - system-design-primer.md",
     "raw/web/2026-05-21-cslikai-hive/images/results.png",
     "raw/web/2026-05-21-cslikai-hive/images/bee.png",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/003.jpg",
@@ -230,7 +232,6 @@
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/012.png",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/011.gif",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/009.png",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/008.png",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/007.png"
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/008.png"
   ]
 }
