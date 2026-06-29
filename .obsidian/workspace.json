@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/口播.md",
+                "file": "todo/tasks/任务总览.md",
                 "mode": "source",
-                "source": true
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "口播"
+              "title": "任务总览"
             }
           }
         ],
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/口播.md",
+                "file": "todo/tasks/任务总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "口播 的反向链接列表"
+              "title": "任务总览 的反向链接列表"
             }
           },
           {
@@ -170,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,42 +186,42 @@
   },
   "active": "d82e2fa099a8c1ad",
   "lastOpenFiles": [
-    "Pasted image 20260611222544.png",
-    "Clippings/初试剪辑.md",
+    "wiki/sources/Linux.do - AI 辅助小说写作方法（第 5 期）.md",
+    "seeds/inbox/2026-06-11-video-editing-first-notes.md",
+    "seeds/inbox/2026-06-11-talking-head-editing-notes.md",
+    "raw/web/2026-06-16-linuxdo-topic-2408381-novel-writing-method-5/novel-writing-method-5.md",
+    "raw/web/2026-06-16-linuxdo-topic-2408381-novel-writing-method-5/metadata.json",
+    "raw/web/2026-06-16-linuxdo-topic-2408381-novel-writing-method-5",
     "Clippings/口播.md",
-    "Clippings/README.md",
-    "wiki/topics/算法与数据结构学习入口.md",
-    "_index/主题索引.md",
-    "_index/总览.md",
-    "raw/repos/2026-06-01-github-trekhleb-javascript-algorithms/javascript-algorithms.md",
-    "todo/tasks/任务总览.md",
+    "Clippings/初试剪辑.md",
     "todo/待办事项.base",
-    "wiki/sources/GitHub - fishkeeper.md",
+    "todo/tasks/任务总览.md",
+    "Clippings/时隔一月之久，再次更新小说写作方法5.md",
+    "_index/维护协议.md",
+    "wiki/sources/样本池.md",
+    "首页.md",
+    "Pasted image 20260611222544.png",
+    "learn-anything/anisora 待核实.md",
+    "learn-anything",
+    "_index/health-check.md",
+    "_index/总览.md",
+    "wiki/sources/GitHub - Prompt Engineering Interactive Tutorial.md",
+    "wiki/topics/AI coding framework.md",
+    "wiki/sources/GitHub - awesome-ai-dev-prompts.md",
+    "_index/目标索引.md",
+    "_index/案例索引.md",
+    "_index/待处理.md",
+    "_index/方法索引.md",
+    "_index/对象索引.md",
+    "raw/repos/2026-04-14-github-lsdefine-genericagent/genericagent.md",
+    "_index/验证债.md",
+    "ohmybrew/oh-my-pi 待核实.md",
+    "ohmybrew",
     "raw/repos/2026-06-05-github-frankhuy-fishkeeper/metadata.json",
     "raw/repos/2026-06-05-github-frankhuy-fishkeeper/github-api.json",
-    "raw/repos/2026-06-05-github-frankhuy-fishkeeper/fishkeeper.md",
     "raw/repos/2026-06-05-github-frankhuy-fishkeeper",
-    "wiki/sources/GitHub - gstack.md",
     "raw/repos/2026-06-05-github-garrytan-gstack/metadata.json",
     "raw/repos/2026-06-05-github-garrytan-gstack/github-api.json",
-    "raw/repos/2026-06-05-github-garrytan-gstack/gstack.md",
-    "raw/repos/2026-06-05-github-garrytan-gstack",
-    "wiki/sources/GitHub - Aegis.md",
-    "raw/repos/2026-06-04-github-ganyuanran-aegis/metadata.json",
-    "raw/repos/2026-06-04-github-ganyuanran-aegis/github-api.json",
-    "raw/repos/2026-06-04-github-ganyuanran-aegis/aegis.md",
-    "raw/repos/2026-06-04-github-ganyuanran-aegis",
-    "wiki/sources/GitHub - revfactory Harness.md",
-    "wiki/sources/GitHub - TradingAgents.md",
-    "wiki/sources/GitHub - Compound Engineering.md",
-    "wiki/sources/GitHub - Impeccable.md",
-    "raw/repos/2026-06-02-github-revfactory-harness/revfactory-harness.md",
-    "raw/repos/2026-06-02-github-tauricresearch-tradingagents/tradingagents.md",
-    "raw/repos/2026-06-02-github-everyinc-compound-engineering-plugin/compound-engineering-plugin.md",
-    "raw/repos/2026-06-02-github-pbakaus-impeccable/impeccable.md",
-    "wiki/topics/系统设计学习入口.md",
-    "wiki/sources/GitHub - MindsDB.md",
-    "wiki/sources/GitHub - system-design-primer.md",
     "raw/web/2026-05-21-cslikai-hive/images/results.png",
     "raw/web/2026-05-21-cslikai-hive/images/bee.png",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-16-zhihu-procedural-vs-object-oriented/images/003.jpg",
@@ -230,7 +230,6 @@
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/012.png",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/011.gif",
     "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/009.png",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/008.png",
-    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/007.png"
+    "sandbox2/2026-04-21-工程控制论-B从头整理/raw/web/2026-04-14-linuxdo-topic-1962519-genericagent-self-evolving-agent/images/008.png"
   ]
 }

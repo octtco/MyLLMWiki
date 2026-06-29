@@ -253,3 +253,37 @@
 - 修复 17 处断链：成因是历次维护轮在 [[待处理]]、[[验证债]]、运行日志里用"显示名"引用 seed 卡，而 seed 文件实际叫 `YYYY-MM-DD-slug` 格式，Obsidian 解析不到；已全部改写成 `[[实际文件名|显示名]]` 别名链接
 - 复扫确认：全库断链 0
 - 体检顺带发现 4 个 raw 层 README 抓取失败占位文件（rrweb / multica / presenton / bytebot，"README fetch failed: 403"），属来源包内容缺口而非断链，暂不处理
+
+## 2026-06-15
+
+- 按 2026-06-10 起生效的入库分级规则，整理用户新关注的 GitHub 仓库线索：不默认创建 `raw/repos` 来源包和来源页，先登记到 [[样本池]]
+- 新增 10 条样本池线索：`iptv-org/iptv`、`addyosmani/agent-skills`、`chatwoot/chatwoot`、`kenn-io/agentsview`、`freeCodeCamp/freeCodeCamp`、`NVIDIA/SkillSpector`、`Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots`、`maziyarpanahi/openmed`、`soxoj/maigret`、`restic/restic`
+- 去重确认：`addyosmani/agent-skills` 与 `NVIDIA/SkillSpector` 在用户列表中重复出现，本轮各只登记一次
+- 已存在不重复处理：[[GitHub - PM Skills Marketplace]]、[[GitHub - system-prompts-and-models-of-ai-tools]]、[[GitHub - Tolaria]] 已是正式来源页，本轮只按已入库项确认
+- 边界口径继续收窄：`iptv-org/iptv` 只标版权 / 再分发边界，`soxoj/maigret` 只标隐私 / 授权边界，`maziyarpanahi/openmed` 只标医疗信息边界；其余普通工具和学习资源不先扣高风险帽子
+
+## 2026-06-17
+
+- 按轻量档登记 7 条样本池线索：`IBM/mcp-context-forge`、`highercomve/self-llm`、`a16z-infra/ai-town`、`The-Cool-Coders/Project-Ideas-And-Resources`、`agent0ai/agent-zero`、`Shubhamsaboo/awesome-llm-apps`、`mem0ai/mem0`
+- `frdel/agent-zero` 按用户提供的 GitHub API 重定向口径记为 canonical 仓库 `agent0ai/agent-zero`；本轮不创建 `raw/repos` 来源包和来源页
+
+## 2026-06-23
+
+- 按轻量档登记 7 条样本池线索：`calesthio/OpenMontage`、`palmier-io/palmier-pro`、`jamiepine/voicebox`、`mukul975/Anthropic-Cybersecurity-Skills`、`penpot/penpot`、`Stirling-Tools/Stirling-PDF`、`heygen-com/hyperframes`
+- 已存在不重复处理：[[GitHub - gstack]] 已有正式来源页、来源包和主题回写；本轮不重复登记到 [[样本池]]
+
+## 2026-06-24
+
+- 按轻量档登记 1 条样本池线索：`koala73/worldmonitor`；先作为实时全球情报 / OSINT dashboard 样本保存，不创建 `raw/repos` 来源包和来源页
+
+## 2026-06-26
+
+- 按轻量档登记 5 条样本池线索：`google-labs-code/design.md`、`xbtlin/ai-berkshire`、`mauriceboe/TREK`、`JCodesMore/ai-website-cloner-template`、`alibaba/page-agent`
+- 已存在不重复处理：`koala73/worldmonitor`、`calesthio/OpenMontage`、`mukul975/Anthropic-Cybersecurity-Skills` 已在 [[样本池]]
+
+## 2026-06-29
+
+- 清理 `Clippings/` 当前 3 份有效剪藏：Linux.do 小说写作第 5 期迁入 `raw/web/2026-06-16-linuxdo-topic-2408381-novel-writing-method-5/`，新增来源页 [[Linux.do - AI 辅助小说写作方法（第 5 期）]]
+- 第 5 期回写 [[AI 辅助网文写作]]、[[先把当前状态和伏笔单独记账，再续写长文本]]、[[先让不同模型交叉找问题，再回写大纲和正文]]；保持 `review`，不把单作者的平台收益、模型组合和短篇判断外推为通用规律
+- 两份个人剪辑学习短记分流为 seed：[[2026-06-11-video-editing-first-notes|初试剪辑]]、[[2026-06-11-talking-head-editing-notes|口播剪辑学习短记]]；暂不升正式主题或方法页
+- 同步更新 [[来源索引]]、[[主题索引]]、[[方法索引]]、[[总览]] 与 [[health-check|健康检查]]；本轮不联网下载 Linux.do 图片和 txt 附件
