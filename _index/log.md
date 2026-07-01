@@ -287,3 +287,12 @@
 - 第 5 期回写 [[AI 辅助网文写作]]、[[先把当前状态和伏笔单独记账，再续写长文本]]、[[先让不同模型交叉找问题，再回写大纲和正文]]；保持 `review`，不把单作者的平台收益、模型组合和短篇判断外推为通用规律
 - 两份个人剪辑学习短记分流为 seed：[[2026-06-11-video-editing-first-notes|初试剪辑]]、[[2026-06-11-talking-head-editing-notes|口播剪辑学习短记]]；暂不升正式主题或方法页
 - 同步更新 [[来源索引]]、[[主题索引]]、[[方法索引]]、[[总览]] 与 [[health-check|健康检查]]；本轮不联网下载 Linux.do 图片和 txt 附件
+
+## 2026-06-30
+
+- 按轻量档登记 1 条样本池线索：`omnimind-ai/OpenOmniBot`；先作为端侧 Android AI agent / 设备控制样本保存，不创建 `raw/repos` 来源包和来源页
+
+## 2026-07-01
+
+- 按轻量档登记 5 条样本池线索：`altic-dev/FluidVoice`、`usestrix/strix`、`browser-use/video-use`、`ripienaar/free-for-dev`、`roboflow/supervision`
+- 已存在不重复处理：`xbtlin/ai-berkshire` 已在 [[样本池]]
