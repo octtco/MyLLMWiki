@@ -296,3 +296,34 @@
 
 - 按轻量档登记 5 条样本池线索：`altic-dev/FluidVoice`、`usestrix/strix`、`browser-use/video-use`、`ripienaar/free-for-dev`、`roboflow/supervision`
 - 已存在不重复处理：`xbtlin/ai-berkshire` 已在 [[样本池]]
+
+## 2026-07-02
+
+- 按轻量档登记 5 条样本池线索：`nautechsystems/nautilus_trader`、`microsoft/poml`、`livekit/agents`、`PDFMathTranslate/PDFMathTranslate`、`mountain-loop/yaak`
+- 将 2 个未能确认有效仓库内容的线索保存为 seed 待核实：[[2026-07-02-budgetforopen-source-budgetforopen-待核实|budgetforopen-source/budgetforopen]]、[[2026-07-02-motivational-speaking-android-待核实|motivational-speaking/android]]
+- 已存在不重复处理：`roboflow/supervision` 已在 [[样本池]]；`Byaidu/PDFMathTranslate` 和 `yaakapp/app` 按当前重定向口径分别记为 `PDFMathTranslate/PDFMathTranslate`、`mountain-loop/yaak`
+
+## 2026-07-07
+
+- 按轻量档登记 7 条样本池线索：`asgeirtj/system_prompts_leaks`、`Zackriya-Solutions/meetily`、`ruvnet/RuView`、`Leonxlnx/taste-skill`、`ogulcancelik/herdr`、`bradautomates/claude-video`、`harvard-edge/cs249r_book`
+- 已存在不重复处理：`addyosmani/agent-skills`、`alibaba/page-agent` 已在 [[样本池]]；[[GitHub - last30days-skill]] 已是正式来源页
+
+## 2026-07-14
+
+- 按轻量档登记 5 条样本池线索：`OpenCut-app/OpenCut`、`Dicklesworthstone/destructive_command_guard`、`moeru-ai/airi`、`Nutlope/hallmark`、`github/spec-kit`
+- 已存在不重复处理：`Shubhamsaboo/awesome-llm-apps` 已在 [[样本池]]
+- 用户阅读并确认 `google-labs-code/design.md` 的核心价值后，将其从 [[样本池]] 升级为正式来源 [[GitHub - DESIGN.md]]
+- 保存官方 README、GitHub API 元数据和 `DESIGN.md` 规范 / CLI 能力摘要；当前保持 `review`，不把它写成自动设计器或模型强制执行器
+- 回写 [[设计系统与平台规范]]、[[AI coding framework]]、[[AI 工具化知识工作流]]，并同步 [[来源索引]]、[[主题索引]]、[[总览]] 与 [[health-check|健康检查]]
+
+## 2026-07-16
+
+- 新增输出页 [[2026-07-16 问答 - Codex 桌宠提示词]]，保存用户提供的图片转原创 IP / Codex 桌宠完整提示词，以及一版精简执行提示词
+- 该内容先放在 `outputs/` 作为可复用提示词样板，不升正式方法页；后续真实使用多次后再考虑回写 [[提示词设计]]
+
+## 2026-07-17
+
+- 将 `Clippings/AI 时代的思维框架 1.md` 迁入 `raw/web/2026-07-07-linuxdo-topic-2538870-ai-era-thinking-framework/`，保存原文、标准 `metadata.json` 和 25 张本地化内容图
+- 新增来源页 [[Linux.do - AI 时代的思维框架]]；文章按单一作者经验性思维模型保存，不把统计力学类比写成已验证的 Transformer 内部机制
+- 新增输出页 [[2026-07-17 问答 - 入戏与共振采样是否等于角色扮演]]，区分角色设定与连续生成强化，并将稳定部分回写 [[提示词设计]]
+- “共振采样”当前未通过独立概念页准入，继续留在来源页、主题页和输出层；原文中的安全绕过内容只保留来源边界，不迁出可执行步骤

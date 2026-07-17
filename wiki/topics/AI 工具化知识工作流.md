@@ -53,7 +53,8 @@ source_pages:
   - GitHub - MCP Toolbox for Databases
   - GitHub - open-notebook
   - GitHub - Noema
-updated: 2026-06-09
+  - GitHub - DESIGN.md
+updated: 2026-07-14
 ---
 
 # AI 工具化知识工作流
@@ -71,6 +72,8 @@ updated: 2026-06-09
 当前这组来源支持的主线是：AI 知识工作流正在从一次性对话，分化成几种可复用资产。[[GitHub - awesome-chatgpt-prompts]] 代表 prompt 资产化，[[The Prompting Book]] 说明这些 prompt 资产怎样继续被拆成设计构件和工作流技巧，[[GitHub - anthropic-cookbook]] 代表 API 配方化，[[GitHub - knowledge-work-plugins]] 代表角色 / 团队流程插件化，[[GitHub - Presenton]] 和 [[GitHub - FinceptTerminal]] 则把输出和数据探索推向具体工作台。最近补入的 [[GitHub - MarkItDown]]、[[GitHub - Sim]]、[[GitHub - Open Deep Research]]、[[GitHub - MindsDB]]、[[GitHub - Graphiti]]、[[GitHub - MoneyPrinterTurbo]]、[[GitHub - Supermemory]]、[[GitHub - Compound Engineering]]、[[GitHub - Production Agentic RAG Course]]、[[GitHub - fishkeeper]]、[[GitHub - Vanna]]、[[GitHub - MCP Toolbox for Databases]]、[[GitHub - open-notebook]]、[[GitHub - PraisonAI]] 和 [[GitHub - AIHawk]] 又把入口扩到文档 ingest、agent workflow、deep research、企业 AI 平台、agent memory 基础设施、短视频生产流水线、工程协作闭环、生产级 RAG 学习链路、电商运营 API skill、数据库 MCP / Text-to-SQL、自托管研究工作台和求职流程自动化。
 
 ## 这条主线怎样一段一段展开
+
+[[GitHub - DESIGN.md]] 补的是设计约束资产化这一层：它把视觉身份、design tokens、组件规则和设计理由放进可版本控制的文件，再用 `lint`、`diff`、`export` 进入后续工具链。它不自动生成设计，但让设计判断具备了可复用、可检查和可转换的工作流接口。
 
 第一段是 prompt 资产化。prompt 库让“怎么问”可以被收藏、分享、自托管，[[The Prompting Book]] 则补了中间层：prompt 还需要被拆成角色、背景、任务、约束、格式、示例、迭代和上下文供给，才有机会从素材继续走向可复用工作流。
 
@@ -136,6 +139,7 @@ updated: 2026-06-09
 - [[GitHub - MCP Toolbox for Databases]]
 - [[GitHub - open-notebook]]
 - [[GitHub - Noema]]
+- [[GitHub - DESIGN.md]]
 
 ## 代表案例
 

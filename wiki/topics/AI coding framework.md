@@ -45,7 +45,8 @@ source_pages:
   - GitHub - gstack
   - GitHub - PraisonAI
   - GitHub - goose
-updated: 2026-06-09
+  - GitHub - DESIGN.md
+updated: 2026-07-14
 ---
 
 # AI coding framework
@@ -91,6 +92,8 @@ updated: 2026-06-09
 最后，[[GitHub - anthropic-cookbook]]、[[GitHub - awesome-chatgpt-prompts]]、[[The Prompting Book]] 和 [[GitHub - knowledge-work-plugins]] 让框架外侧的素材层更清楚：cookbook 是官方配方，prompt 库是素材池，提示词设计把素材拆成角色、任务、格式、示例、上下文和链式流程，plugin 是角色 / 团队工作流打包。它们都能补框架生态，但只有当它们接回任务、验证和上下文供给时，才真正进入框架层。
 
 这次补入的 [[GitHub - Impeccable]]、[[GitHub - Compound Engineering]] 和 [[GitHub - revfactory Harness]] 又把 skill / plugin 的边界推细了一层。Impeccable 把设计判断、前端反模式和视觉验收放进 AI coding 的可调用能力里；Compound Engineering 把 strategy、brainstorm、plan、work、review、compound note 做成工程闭环；revfactory Harness 则不是直接执行某个任务，而是尝试由领域描述生成 agent team 和 skills。它们共同说明：AI coding framework 已经不只是在“写代码”，也在扩展到设计纪律、工程组织和框架生成框架。
+
+[[GitHub - DESIGN.md]] 把这条约束层进一步格式化：它用 `DESIGN.md` 保存颜色、字体、间距、组件和设计理由，再用 `lint`、`diff`、`export` 等 CLI 动作帮助 agent 消费和检查这些约束。它不是完整框架，也不能强制模型遵守，但说明 AI coding framework 的 spec 层可以延伸到视觉身份和设计系统。
 
 [[GitHub - ECC]] 再补了一层 cross-harness 视角：同一套 agentic work 不一定只绑定一个运行器，而可能把 skills、hooks、rules、memory 和 security 扩展成跨 Codex、Claude Code、Cursor、OpenCode 等环境的工作层。它让这页的边界更清楚：框架还包括“能力如何在不同 harness 之间迁移和治理”。
 
@@ -157,6 +160,7 @@ updated: 2026-06-09
 - [[GitHub - gstack]]
 - [[GitHub - PraisonAI]]
 - [[GitHub - goose]]
+- [[GitHub - DESIGN.md]]
 
 ## 相关概念
 
