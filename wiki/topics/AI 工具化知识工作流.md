@@ -54,6 +54,7 @@ source_pages:
   - GitHub - open-notebook
   - GitHub - Noema
   - GitHub - DESIGN.md
+  - GitHub - i-have-adhd
 updated: 2026-07-14
 ---
 
@@ -74,6 +75,8 @@ updated: 2026-07-14
 ## 这条主线怎样一段一段展开
 
 [[GitHub - DESIGN.md]] 补的是设计约束资产化这一层：它把视觉身份、design tokens、组件规则和设计理由放进可版本控制的文件，再用 `lint`、`diff`、`export` 进入后续工具链。它不自动生成设计，但让设计判断具备了可复用、可检查和可转换的工作流接口。
+
+[[GitHub - i-have-adhd]] 补的是输出纪律资产化这一层：它把“先说下一步、编号、限制列表长度、保留当前状态”等交互约束打包成可安装 skill。它不改变模型能力，也不能保证模型永远遵守，但说明工具化工作流不仅要组织输入、任务和记忆，也可以组织 agent 如何把结果交给人。
 
 第一段是 prompt 资产化。prompt 库让“怎么问”可以被收藏、分享、自托管，[[The Prompting Book]] 则补了中间层：prompt 还需要被拆成角色、背景、任务、约束、格式、示例、迭代和上下文供给，才有机会从素材继续走向可复用工作流。
 
@@ -140,6 +143,7 @@ updated: 2026-07-14
 - [[GitHub - open-notebook]]
 - [[GitHub - Noema]]
 - [[GitHub - DESIGN.md]]
+- [[GitHub - i-have-adhd]]
 
 ## 代表案例
 

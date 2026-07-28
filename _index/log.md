@@ -327,3 +327,30 @@
 - 新增来源页 [[Linux.do - AI 时代的思维框架]]；文章按单一作者经验性思维模型保存，不把统计力学类比写成已验证的 Transformer 内部机制
 - 新增输出页 [[2026-07-17 问答 - 入戏与共振采样是否等于角色扮演]]，区分角色设定与连续生成强化，并将稳定部分回写 [[提示词设计]]
 - “共振采样”当前未通过独立概念页准入，继续留在来源页、主题页和输出层；原文中的安全绕过内容只保留来源边界，不迁出可执行步骤
+
+## 2026-07-20
+
+- 按轻量档登记 8 条样本池线索：`codecrafters-io/build-your-own-x`、`PostHog/posthog`、`HenryNdubuaku/maths-cs-ai-compendium`、`anthropics/cwc-workshops`、`KnockOutEZ/wigolo`、`yt-dlp/yt-dlp`、`nomic-ai/gpt4all`、`lobehub/lobehub`
+- 已存在不重复处理：[[GitHub - AI Engineering from Scratch]] 已是正式来源页；`Nutlope/hallmark` 已在 [[样本池]]
+- 去重确认：用户列表中的 `PostHog/posthog` 与 `nomic-ai/gpt4all` 重复出现，本轮各只登记一次
+- `lobehub/lobe-chat` 当前 GitHub 返回 301，按 canonical 仓库 `lobehub/lobehub` 保存；`vyxxyz/Sitify` 当前 GitHub 返回 404，保存为 seed：[[2026-07-20-vyxxyz-sitify-待核实|vyxxyz/Sitify 待核实]]
+
+## 2026-07-21
+
+- 按轻量档登记 3 条样本池线索：`tirth8205/code-review-graph`、`topoteretes/cognee`、`every-app/open-seo`
+- 已存在不重复处理：[[GitHub - AI Engineering from Scratch]] 已是正式来源页；`jamiepine/voicebox` 已在 [[样本池]]
+- 三个新增仓库本轮均通过 GitHub HTTP 探测返回 200；当前仅保存为新仓库 / 工具类线索，不创建 `raw/repos` 来源包和来源页
+
+## 2026-07-23
+
+- 按轻量档登记 6 条样本池线索：`ayghri/i-have-adhd`、`schollz/croc`、`likec4/likec4`、`chrislgarry/Apollo-11`、`shiyu-coder/Kronos`、`elebumm/RedditVideoMakerBot`
+- 已存在不重复处理：`koala73/worldmonitor`、`ruvnet/RuView` 已在 [[样本池]]
+- `e2b-dev/awesome-ai-apps` 当前 GitHub HTTP/API 探测返回 404，保存为 seed：[[2026-07-23-e2b-dev-awesome-ai-apps-待核实|e2b-dev/awesome-ai-apps 待核实]]
+- 本轮不创建 `raw/repos` 来源包和来源页
+
+## 2026-07-24
+
+- 按轻量档登记 3 条样本池线索：`block/buzz`、`citrolabs/ego-lite`、`earthtojake/text-to-cad`
+- 三个仓库本轮均可访问；当前仅保存为新仓库 / 工具类线索，不创建 `raw/repos` 来源包和来源页
+- 用户阅读并确认 `ayghri/i-have-adhd` 的核心价值后，将其从 [[样本池]] 升级为正式来源 [[GitHub - i-have-adhd]]
+- 保存 README 级来源快照和 `metadata.json`，回写 [[AI coding framework]]、[[AI 工具化知识工作流]]；核心 `SKILL.md` 因本轮远程端点暂不可用未单独保存，来源保持 `review`

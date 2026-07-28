@@ -32,6 +32,7 @@
 - `Clippings/` 当前只剩 README / `.DS_Store` 这类非资料文件；本轮 1 篇 Linux.do 小说写作剪藏已迁入 `raw/web/` 并补来源页，2 篇个人剪辑短记已分流到 `seeds/inbox/`
 - [[Linux.do - AI 辅助小说写作方法（第 5 期）]] 已回写 [[AI 辅助网文写作]]、[[先把当前状态和伏笔单独记账，再续写长文本]] 与 [[先让不同模型交叉找问题，再回写大纲和正文]]，继续保持单作者经验帖的保守边界
 - [[GitHub - DESIGN.md]] 已作为 `DESIGN.md` 规范与 CLI 工具链来源页保存；当前仍是 alpha，只按 README 与 GitHub API 整理，未做本地 CLI 和真实前端任务验证
+- [[GitHub - i-have-adhd]] 已作为 coding agent 输出纪律 skill 来源页保存；当前只按 README 级内容整理，未验证核心 `SKILL.md`、安装过程或不同模型的长期遵守行为
 - [[Linux.do - AI 时代的思维框架]] 已完成来源包、25 张内容图本地化、来源页和问答输出回写；“共振采样”等词仍按单一作者经验模型保守处理
 - `raw/web/2026-05-19-*` 这一组最小快照已经补齐 `metadata.json`，不再是缺元数据来源包
 - 2026-05-28 这一轮新增 6 个 GitHub repo 来源包，均保留 README 快照和 GitHub API 原始响应；ChinaTextbook 已按许可待审边界保守保存
