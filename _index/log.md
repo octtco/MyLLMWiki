@@ -354,3 +354,21 @@
 - 三个仓库本轮均可访问；当前仅保存为新仓库 / 工具类线索，不创建 `raw/repos` 来源包和来源页
 - 用户阅读并确认 `ayghri/i-have-adhd` 的核心价值后，将其从 [[样本池]] 升级为正式来源 [[GitHub - i-have-adhd]]
 - 保存 README 级来源快照和 `metadata.json`，回写 [[AI coding framework]]、[[AI 工具化知识工作流]]；核心 `SKILL.md` 因本轮远程端点暂不可用未单独保存，来源保持 `review`
+
+## 2026-07-29
+
+- 按轻量档登记 6 条样本池线索：`yorukot/superfile`、`NanmiCoder/MediaCrawler`、`alibaba/open-code-review`、`jenkinsci/jenkins`、`permissionlesstech/bitchat`、`pingdotgg/t3code`
+- 已存在不重复处理：`bradautomates/claude-video`、`moeru-ai/airi`、`pbakaus/impeccable` 已在 [[样本池]] 或已有正式来源包
+- 本轮不创建 `raw/repos` 来源包、来源页、主题页或验证待办
+
+## 2026-07-31
+
+- 按轻量档登记 4 条样本池线索：`huggingface/speech-to-speech`、`microsoft/AI-For-Beginners`、`paperswithbacktest/awesome-systematic-trading`、`different-ai/openwork`
+- 本轮不创建 `raw/repos` 来源包、来源页、主题页或验证待办
+
+## 2026-08-03
+
+- 按轻量档登记 5 条样本池线索：`TencentCloud/TencentDB-Agent-Memory`、`microsoft/generative-ai-for-beginners`、`lyogavin/airllm`、`abus-aikorea/voice-pro`、`zhaoxuya520/reverse-skill`
+- 已存在不重复处理：`Panniantong/Agent-Reach` 已有正式来源页；`codecrafters-io/build-your-own-x`、`microsoft/AI-For-Beginners`、`huggingface/speech-to-speech` 已在 [[样本池]]
+- 本轮不创建 `raw/repos` 来源包、来源页、主题页或验证待办；`reverse-skill` 仅保留安全研究边界内的线索定位
+- 新增可复用问答输出 [[2026-08-03 问答 - Hermes Claude Code Codex 共享记忆架构]]，记录三个本地 Agent 共享 MemoryCore、任务摘要上报和主控 Agent 查询的最小架构；暂不回写正式主题页
