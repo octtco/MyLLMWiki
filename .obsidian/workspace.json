@@ -43,7 +43,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -171,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +189,10 @@
   },
   "active": "d82e2fa099a8c1ad",
   "lastOpenFiles": [
+    "outputs/reports/2026-09-29 问答 - 消融实验与服务端编排路径.md",
+    "outputs/reports/2026-09-24 问答 - 深入理解 AI Agent 阅读讨论.md",
+    "todo/tasks/任务总览.md",
+    "todo/待办事项.base",
     "seeds/inbox/2026-07-20-vyxxyz-sitify-待核实.md",
     "wiki/sources/GitHub - DESIGN.md.md",
     "Clippings/AI 时代的思维框架 1.md",
@@ -206,7 +213,6 @@
     "raw/web/2026-07-07-linuxdo-topic-2538870-ai-era-thinking-framework/ai-era-thinking-framework.md",
     "raw/web/2026-07-07-linuxdo-topic-2538870-ai-era-thinking-framework",
     "Clippings/AI 时代的思维框架.md",
-    "todo/tasks/任务总览.md",
     "seeds/inbox/2026-07-02-motivational-speaking-android-待核实.md",
     "seeds/inbox/2026-07-02-budgetforopen-source-budgetforopen-待核实.md",
     "Clippings/混剪.md",
@@ -221,14 +227,11 @@
     "raw/web/2026-06-16-linuxdo-topic-2408381-novel-writing-method-5",
     "Clippings/口播.md",
     "Clippings/初试剪辑.md",
-    "todo/待办事项.base",
     "Clippings/时隔一月之久，再次更新小说写作方法5.md",
     "_index/维护协议.md",
     "wiki/sources/样本池.md",
     "首页.md",
-    "learn-anything/anisora 待核实.md",
     "learn-anything",
-    "_index/health-check.md",
     "ohmybrew",
     "raw/repos/2026-06-05-github-frankhuy-fishkeeper/metadata.json",
     "raw/repos/2026-06-05-github-frankhuy-fishkeeper/github-api.json"
